@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_001",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "Water passively moves through a selectively permeable membrane, flowing from the less concentrated (in solutes) side toward the more concentrated side, until both sides reach equal concentration. A raisin placed in plain water will swell as water moves into it \u2014 that's a classic example.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

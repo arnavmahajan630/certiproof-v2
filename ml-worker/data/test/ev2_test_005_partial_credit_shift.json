@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_005_partial_credit_shift",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Biodiversity refers to the full variety of living organisms found within a given ecosystem, region, or across the planet as a whole, encompassing differences at multiple levels: variety among species, genetic variety within a single species, and variety among entire ecosystems themselves. A rainforest, for example, might contain an enormous number of different plant, insect, bird, and mammal species living together, representing high species-level biodiversity, while a monoculture farm field growing a single crop represents very low biodiversity by comparison.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 2,
+    "ev2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

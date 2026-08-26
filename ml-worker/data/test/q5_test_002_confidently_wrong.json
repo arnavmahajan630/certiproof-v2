@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_002_confidently_wrong",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "The judiciary's role is to draft and pass new laws directly, not just interpret them; judicial review is still one relevant power.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 0,
+    "q5_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_004_confidently_wrong",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_004",
+  "variant_type": "confidently_wrong",
+  "answer_text": "The right to vote means citizens choose their nation's laws directly, bypassing elected representatives entirely.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 0,
+    "cv2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

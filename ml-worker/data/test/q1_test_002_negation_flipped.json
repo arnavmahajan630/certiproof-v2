@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_002_negation_flipped",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "Chlorophyll does not reflect green light, so that isn't why plants look green; it does absorb red and blue light for photosynthesis.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 0,
+    "q1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

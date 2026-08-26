@@ -1,0 +1,14 @@
+{
+  "answer_id": "q6_train_004",
+  "question_id": "q6",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "Separation of powers means that different states in a country are allowed to have their own separate governments.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 0,
+    "q6_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

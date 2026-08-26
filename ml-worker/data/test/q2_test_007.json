@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_007",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_001",
+  "variant_type": "typo_injected",
+  "answer_text": "Osmosis is the movemnt of water molecules across a semipermeble membrane from a region of low solute concentration to a region of high solute concentraton, until equilibrium is reached. A common example is a raisan swelling up when placed in water.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

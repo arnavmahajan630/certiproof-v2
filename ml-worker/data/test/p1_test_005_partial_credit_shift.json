@@ -1,0 +1,15 @@
+{
+  "answer_id": "p1_test_005_partial_credit_shift",
+  "question_id": "p1",
+  "derived_from_train_id": "p1_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Newton's third law of motion states that whenever one object exerts a force on a second object, the second object simultaneously exerts a force of equal magnitude but in the opposite direction back on the first object. These are often called the action force and the reaction force, and it's important to note they act on two different objects, not the same one, and they occur at the exact same instant rather than one causing the other with a delay.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p1_c1": 2,
+    "p1_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

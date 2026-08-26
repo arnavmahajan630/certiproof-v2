@@ -1,0 +1,15 @@
+{
+  "answer_id": "m1_test_002_genuinely_ambiguous",
+  "question_id": "m1",
+  "derived_from_train_id": "m1_train_002",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "It could be connected to a prime number is in some way, though the details are a bit unclear to me.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 1,
+    "m1_c2": 1
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

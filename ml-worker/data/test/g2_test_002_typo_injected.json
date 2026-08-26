@@ -1,0 +1,15 @@
+{
+  "answer_id": "g2_test_002_typo_injected",
+  "question_id": "g2",
+  "derived_from_train_id": "g2_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "This is a foundational cnocept in geography. A delta is a landform created when a river deopsits sediment as it flows into a larger body of water, such as an ocean or lake, causing the river to split into multiple smaller channels. The Nile Delta in Eygpt is a well-known example.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g2_c1": 2,
+    "g2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

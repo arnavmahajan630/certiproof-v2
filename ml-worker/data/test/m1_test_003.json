@@ -1,0 +1,15 @@
+{
+  "answer_id": "m1_test_003",
+  "question_id": "m1",
+  "derived_from_train_id": "m1_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Many real-world problems can be modeled using mathematical concepts. Numbers and their properties form the foundation of arithmetic and algebra. A prime number is a natural number greater than 1 that has exactly two distinct positive divisors: 1 and itself. For example, 7 is prime because it can only be divided evenly by 1 and 7. Mathematics provides tools for reasoning precisely about quantities and relationships.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 2,
+    "m1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

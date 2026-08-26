@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_002_diffuse_padded",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_002",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This is one of several key events typically covered in this part of the curriculum. This is a foundational concept in history. World War I was immediately triggered by the assassination of Archduke Franz Ferdinand of Austria-Hungary in 1914. This event set off a chain reaction among European alliance systems, combined with rising militarism and nationalism, that escalated into a full-scale war. Understanding this event is often useful context for later historical topics.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 2,
+    "h2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

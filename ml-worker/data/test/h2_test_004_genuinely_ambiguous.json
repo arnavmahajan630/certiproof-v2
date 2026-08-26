@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_004_genuinely_ambiguous",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_004",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "This might have something to do with caused World War I to begin, though it's hard to say for sure.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 1,
+    "h2_c2": 1
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_005_typo_injected",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "The printing press, developed by Johannes Gutenberg in the mid-15th cnetury, revolutionized how written material could be produced by introducing movable metal type that could be rearranged and resued to print many copies of a page far faster than any scrbie copying by hand ever could. Befoer the printing press, books had to be laboriously copied out by hand, one at a time, usually by monks or professional scribes, which made books extremely expensive, time-consuming to porduce, and available only to a samll, wealthy, or religious elite. Once the printing press made mass production possible, the cost of producing a book dropped dramatically, and the sheer vloume of material that could be printde and distributed increased enormously. This darmatically wider access to written material fuelde a rapid spread of ideas and rising literacy rates across Europe, and it played a direct role in major historical events, including the Protetsant Reformation, since Martin Luther's writings colud be printed and distributed across Eurpoe far faster than authorities could supperss them.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 2,
+    "h1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

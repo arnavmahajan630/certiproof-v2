@@ -1,0 +1,14 @@
+{
+  "answer_id": "q5_train_004",
+  "question_id": "q5",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "The judiciary is responsible for creating new laws and passing the annual budget for the country.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 0,
+    "q5_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

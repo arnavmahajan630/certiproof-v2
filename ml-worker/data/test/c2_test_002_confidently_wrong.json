@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_002_confidently_wrong",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Acids release OH- ions and sit above pH 7 when dissolved; bases still release OH- ions and sit above pH 7.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 0,
+    "c2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

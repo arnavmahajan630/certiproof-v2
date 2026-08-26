@@ -1,0 +1,14 @@
+{
+  "answer_id": "m1_train_003",
+  "question_id": "m1",
+  "style": "x_type_partial_correct",
+  "answer_text": "A prime number can only be divided evenly by 1 and itself.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 2,
+    "m1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

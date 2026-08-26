@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_005_partial_credit_shift",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "The greenhouse effect is a natural process by which certain gases in Earth's atmosphere, most notably carbon dioxide, methane, and water vapor, trap heat that would otherwise escape back out into space, keeping the planet's surface significantly warmer than it would be without them. Sunlight passes through the atmosphere and warms Earth's surface, which then radiates some of that energy back outward as infrared heat; greenhouse gases absorb a portion of this outgoing infrared radiation and re-emit it in all directions, including back down toward the surface, which effectively traps extra heat within the lower atmosphere.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 2,
+    "ev1_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

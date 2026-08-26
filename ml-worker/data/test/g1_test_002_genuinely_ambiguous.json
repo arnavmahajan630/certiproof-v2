@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_002_genuinely_ambiguous",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_002",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "It could be connected to causes the seasons on Earth in some way, though the details are a bit unclear to me.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 1,
+    "g1_c2": 1
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

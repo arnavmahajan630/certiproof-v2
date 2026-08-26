@@ -1,0 +1,14 @@
+{
+  "answer_id": "q6_train_003",
+  "question_id": "q6",
+  "style": "x_type_partial_correct",
+  "answer_text": "Separation of powers stops one branch of government from having too much control by dividing responsibilities among different branches.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

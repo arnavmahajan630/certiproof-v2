@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_002_confidently_wrong",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "The greenhouse effect involves gases like carbon dioxide blocking incoming sunlight before it reaches the surface.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 0,
+    "ev1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

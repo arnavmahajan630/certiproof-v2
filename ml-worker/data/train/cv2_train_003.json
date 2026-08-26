@@ -1,0 +1,14 @@
+{
+  "answer_id": "cv2_train_003",
+  "question_id": "cv2",
+  "style": "x_type_partial_correct",
+  "answer_text": "The right to vote is the right of citizens to elect their representatives.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 2,
+    "cv2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "b1_test_005_scattered_evidence",
+  "question_id": "b1",
+  "derived_from_train_id": "b1_train_005",
+  "variant_type": "scattered_evidence",
+  "answer_text": "The main job of red blood cells is transporting oxygen around the body, and they're able to do this because they're packed with a protein called hemoglobin. Biological systems tend to be highly interconnected, so one process often affects several others. In the lungs, hemoglobin binds oxygen molecules; the blood then carries these oxygen-loaded cells through the circulatory system to tissues that need it, where the hemoglobin releases the oxygen so cells can use it for cellular respiration. Some related biological topics are covered in more advanced coursework later on. On the return trip, hemoglobin picks up some carbon dioxide waste and carries it back toward the lungs to be exhaled. Diagrams are often used in class to illustrate this kind of biological process. Structurally, mature mammalian red blood cells are unusual in that they have no nucleus and no other major organelles, which frees up more internal space for hemoglobin and lets them squeeze through the narrowest capillaries. Biology as a field covers an enormous range of scales, from single molecules up to entire ecosystems. This lack of a nucleus does mean red blood cells can't repair or replicate themselves, so they're constantly being replaced by new ones produced in the bone marrow.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b1_c1": 2,
+    "b1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

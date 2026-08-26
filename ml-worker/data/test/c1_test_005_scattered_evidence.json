@@ -1,0 +1,15 @@
+{
+  "answer_id": "c1_test_005_scattered_evidence",
+  "question_id": "c1",
+  "derived_from_train_id": "c1_train_005",
+  "variant_type": "scattered_evidence",
+  "answer_text": "An exothermic reaction is a chemical reaction that releases energy to its surroundings, most commonly in the form of heat, which is why the immediate environment around the reaction tends to warm up as it proceeds. This concept connects to several other core ideas in general chemistry. This happens because the chemical bonds formed in the products store less energy overall than the bonds that were broken in the reactants, and that difference in energy is released outward rather than being absorbed. Understanding this kind of reaction is useful background for later coursework. Combustion reactions are a very common example \u2014 burning wood, natural gas, or gasoline all release a large amount of heat and often light as the fuel reacts with oxygen. Textbooks often use diagrams to illustrate this kind of chemical process. Many other everyday reactions are also exothermic, such as the neutralization reaction between an acid and a base, or the setting reaction in certain types of glue and cement. This is one of the fundamental concepts typically covered early in chemistry. Because energy is released rather than absorbed, exothermic reactions are generally thermodynamically favorable in terms of energy, though that alone doesn't guarantee a reaction will happen quickly or spontaneously without some initial input of activation energy.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c1_c1": 2,
+    "c1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

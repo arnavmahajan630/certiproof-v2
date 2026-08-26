@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_003_diffuse_padded",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_003",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This kind of concept comes up regularly in discussions of everyday markets. Prices rise when demand for a good exceeds its supply. Economics as a subject covers both individual decision-making and large-scale market behavior.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 2,
+    "e1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

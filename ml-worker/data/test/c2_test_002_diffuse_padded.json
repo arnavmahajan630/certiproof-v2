@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_002_diffuse_padded",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_002",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Understanding this kind of reaction is useful background for later coursework. This is a foundational concept in chemistry. Acids release hydrogen ions when dissolved in water and have a pH below 7, while bases release hydroxide ions and have a pH above 7. Textbooks often use diagrams to illustrate this kind of chemical process.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 2,
+    "c2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

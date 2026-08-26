@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_005_paraphrase",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "When demand for a good outpaces its available supply, competing buyers push the price up until enough drop out to roughly balance quantity demanded with quantity supplied \u2014 the equilibrium price \u2014 while excess supply pushes price down instead; a new phone launch illustrates this, since limited initial supply against high demand lets sellers charge a premium that fades as production catches up.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 2,
+    "e1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

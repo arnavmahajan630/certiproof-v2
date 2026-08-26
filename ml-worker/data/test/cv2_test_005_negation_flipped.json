@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_005_negation_flipped",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "The right to vote does not let eligible citizens choose who represents and governs them through elections \u2014 that isn't its function \u2014 even though eligibility is still tied to citizenship and a minimum age, and the franchise is still described as historically restricted before being expanded through political movements.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 0,
+    "cv2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,54 @@
+services:
+  ml-worker:
+    build: ./ml-worker
+    ports:
+      - "8001:8001"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-3.5-flash}
+    volumes:
+      # Bind-mounted (not named volumes) so scripts/tamper_suite.sh, seed_demo_data.sh,
+      # and run_fixture_tests.py -- which manipulate the proof files and DB directly by
+      # host path -- work unchanged against the Docker stack, exactly as they do against
+      # local (non-Docker) dev. EZKL circuit (compile/calibrate/SRS/trusted-setup) and
+      # generated proofs are regenerated automatically on first startup if missing.
+      - ./ml-worker/app/models/zone2_circuit:/app/app/models/zone2_circuit
+      - ./ml-worker/app/models/proofs:/app/app/models/proofs
+      # Hugging Face model cache (bge-reranker-base, ~1.1GB, downloaded once) and
+      # EZKL's own SRS/range-check-table cache -- pure caches, no script touches these
+      # by host path, so named volumes are fine. Keyed to appuser's $HOME (see
+      # ml-worker/Dockerfile -- the image runs as uid 1000, not root).
+      - hf_cache:/home/appuser/.cache/huggingface
+      - ezkl_cache:/home/appuser/.ezkl
+    restart: unless-stopped
+
+  gateway:
+    build: ./gateway
+    ports:
+      - "4000:4000"
+    environment:
+      - PORT=4000
+      - ML_WORKER_URL=http://ml-worker:8001
+      - PUBLIC_BASE_URL=${PUBLIC_BASE_URL:-http://localhost:5173}
+      - DB_PATH=/app/data/certiproof.db
+    volumes:
+      # Bind-mounted for the same reason as ml-worker's above -- tamper_suite.sh and
+      # seed_demo_data.sh open this SQLite file directly via `sqlite3` on the host.
+      - ./gateway/data:/app/data
+    depends_on:
+      ml-worker:
+        condition: service_healthy
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      gateway:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  hf_cache:
+  ezkl_cache:

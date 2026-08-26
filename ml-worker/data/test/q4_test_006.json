@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_006",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_001",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A variable is a block of code that runs repeatedly until a certain condition is met.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 0,
+    "q4_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

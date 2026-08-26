@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_005_paraphrase",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "The right to vote lets eligible citizens choose who represents and governs them through periodic elections, keeping a democracy accountable since officials must seek re-election, with eligibility usually requiring citizenship and a minimum age like eighteen \u2014 a franchise that historically was far more restricted by property, gender, or race until expanded through sustained political movements.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 2,
+    "cv2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

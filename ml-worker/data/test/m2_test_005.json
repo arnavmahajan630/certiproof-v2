@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_005",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "The Pythagorean theorem states that a squared plus b squared never equals c squared in a right triangle.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 0,
+    "m2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

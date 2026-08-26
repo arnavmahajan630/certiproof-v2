@@ -1,0 +1,15 @@
+{
+  "answer_id": "c1_test_002_diffuse_padded",
+  "question_id": "c1",
+  "derived_from_train_id": "c1_train_002",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This is a topic commonly covered in an introductory chemistry course. This is a foundational concept in chemistry. In an exothermic reaction, energy is released to the surroundings, usually in the form of heat, causing the temperature around the reaction to rise. Combustion, such as burning wood, is a common example. Chemical reactions of this kind occur constantly in both nature and industry.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c1_c1": 2,
+    "c1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

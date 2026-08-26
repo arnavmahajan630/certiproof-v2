@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_001",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "For any right-angled triangle, adding the squares of the two shorter sides gives you the square of the hypotenuse, the longest side opposite the right angle.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 2,
+    "m2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

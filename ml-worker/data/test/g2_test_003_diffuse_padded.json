@@ -1,0 +1,15 @@
+{
+  "answer_id": "g2_test_003_diffuse_padded",
+  "question_id": "g2",
+  "derived_from_train_id": "g2_train_003",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This topic connects to several other physical geography concepts covered in the same unit. A delta is a landform created by sediment deposited where a river meets the sea. Understanding this concept is useful background for later coursework on climate and landforms.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g2_c1": 2,
+    "g2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

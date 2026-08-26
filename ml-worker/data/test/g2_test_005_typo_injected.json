@@ -1,0 +1,15 @@
+{
+  "answer_id": "g2_test_005_typo_injected",
+  "question_id": "g2",
+  "derived_from_train_id": "g2_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "A delta is a lnadform that builds up where a rievr flows into a larger, calmer body of water, such as an ocena, sea, or lake, and its wtaer current slows down sharply as it enters that larger body. As the river's flow slows, it loses the energy needed to keep carrying the sediment \u2014 sand, silt, and clay \u2014 that it had been transoprting along its length, so that sedimetn settles out and accumulates at the river's mouth. Over a long peroid of time, this steady deposition builsd up new land, and because the growing sediment deposits repeatedly block and redirect the main channel, the rivre typically splits into multiple smaller, bracnhing channels called distributaries as it corsses the delta. Deltas often form a roughly triangular or fan-like shape when viewed from above, which is actualyl where the name comes from, snice it resembles the Greek letter detla (\u0394). The Nile Delta in Egytp and the Mississippi River Delta in the United States are two well-known examples, and deltas are frequently very fertile, agriculturally important regions because of the nutrient-rich sediment that continually accumulaets there.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g2_c1": 2,
+    "g2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

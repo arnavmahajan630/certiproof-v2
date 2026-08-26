@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_008",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_001",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "They're both ways of organizing data but they handle the order of things differently depending on how you add and remove items.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 0.5,
+    "q3_c2": 0.5
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

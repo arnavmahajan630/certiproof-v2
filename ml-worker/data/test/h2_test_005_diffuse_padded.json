@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_005_diffuse_padded",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_005",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Historical maps are often used in class to help illustrate this kind of topic. World War I was set off immediately by the assassination of Archduke Franz Ferdinand of Austria-Hungary, who was shot in Sarajevo in June 1914 by a Bosnian Serb nationalist, an act that gave Austria-Hungary the pretext to issue a set of harsh demands to Serbia and ultimately declare war on it. However, that single event only escalated into a continent-wide war because of a much deeper set of underlying conditions that had been building for years beforehand. A dense web of military alliances across Europe meant that once Austria-Hungary and Serbia went to war, allied countries were rapidly pulled in one after another \u2014 Russia mobilized to support Serbia, Germany then declared war on Russia and France in support of Austria-Hungary, and Britain entered after Germany invaded Belgium. On top of that, decades of rising nationalism across Europe and a competitive arms race, particularly heavy naval buildup between Britain and Germany, had already left European powers primed for conflict, meaning the assassination acted less like a lone spark and more like the trigger for tensions that had already been building. History as a subject often involves weighing multiple sources that don't fully agree with each other.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 2,
+    "h2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_008",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_001",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "It's about how many different kinds of living things exist somewhere, and it matters for some reason.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 0.5,
+    "ev2_c2": 0.5
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,14 @@
+{
+  "answer_id": "q1_train_002",
+  "question_id": "q1",
+  "style": "x_type_longer_explanation",
+  "answer_text": "Plant cells contain a pigment called chlorophyll, which plays a central role in photosynthesis. Chlorophyll strongly absorbs light in the red and blue wavelengths, which it uses to power the conversion of light energy into chemical energy. However, it does not absorb green wavelengths of light \u2014 instead it reflects them back, and that reflected green light is what we perceive when we look at a leaf.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

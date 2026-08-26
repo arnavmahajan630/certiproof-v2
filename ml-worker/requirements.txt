@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.13.0
+ezkl==23.0.5
+onnx==1.22.0
+onnxruntime==1.29.0
+sentence-transformers==6.0.0
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+pydantic==2.13.4
+python-multipart==0.0.32
+google-genai==2.19.0
+python-dotenv==1.2.3
+numpy==2.5.2
+matplotlib==3.11.1
+spacy>=3.7
+python-Levenshtein>=0.25

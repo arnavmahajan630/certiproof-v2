@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_002",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_001",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Programs need ways to store and manipulate data while they run. One core concept for this is the variable. A variable is a named storage location that holds a value which can change during execution. As an example, `score = 0` declares a variable called score initialized to zero.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

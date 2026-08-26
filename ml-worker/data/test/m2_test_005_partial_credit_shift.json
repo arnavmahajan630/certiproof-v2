@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_005_partial_credit_shift",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "The Pythagorean theorem describes a relationship that holds true for every right triangle, one that has a 90-degree angle between two of its sides. It states that if you square the lengths of the two shorter sides, called the legs, and add those two squares together, the result equals the square of the length of the longest side, called the hypotenuse, which is always the side opposite the right angle.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 2,
+    "m2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

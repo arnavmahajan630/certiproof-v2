@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_005",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "Seasons have nothing to do with Earth's axial tilt and are instead caused entirely by the moon's gravitational pull.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 0,
+    "g1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

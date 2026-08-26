@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_002_confidently_wrong",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Gutenberg's press was primarily used to speed up the copying of religious paintings, not text; it is still credited with cultural impact.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 0,
+    "h1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_003_typo_injected",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_003",
+  "variant_type": "typo_injected",
+  "answer_text": "The greenhouse effect happens when certain gases trap heat in the atmosphere.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 2,
+    "ev1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

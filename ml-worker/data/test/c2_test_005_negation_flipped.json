@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_005_negation_flipped",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Acids do not release H+ ions in water to register below pH 7 \u2014 that isn't what defines them as acidic \u2014 even though bases still release OH- ions above pH 7, pure water is still neutral at pH 7, and mixing an acid with a base still neutralizes into water and a salt.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 0,
+    "c2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

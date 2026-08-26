@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_002_typo_injected",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "This is a foundational cnocept in economics. The law of supply and demand states that when demnad for a good exceeds its suppyl, the price tends to rise, and when supply exceeds demand, the prcie tends to fall. For example, prcies for a popular new phone otfen rise when initial demand outpaces aavilable stock.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 2,
+    "e1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

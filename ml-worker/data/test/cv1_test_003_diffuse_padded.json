@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_003_diffuse_padded",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_003",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Textbooks often compare this concept across different systems of government. A fundamental right is a basic right guaranteed by the constitution. This topic connects closely to broader ideas about how democracies function.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 2,
+    "cv1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

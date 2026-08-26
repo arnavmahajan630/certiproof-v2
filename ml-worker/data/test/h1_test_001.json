@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_001",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "By enabling books to be reproduced mechanically rather than copied by hand, the printing press dramatically sped up the spread of ideas, helping fuel developments such as rising literacy rates and the Reformation.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 2,
+    "h1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

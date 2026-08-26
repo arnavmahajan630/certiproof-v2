@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_002_paraphrase",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "Casting a ballot to choose one's representatives or government is the right to vote, generally available once a citizen meets age and citizenship requirements.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 2,
+    "cv2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

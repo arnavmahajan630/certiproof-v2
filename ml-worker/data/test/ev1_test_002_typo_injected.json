@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_002_typo_injected",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "This is a foundational cnocept in environmental science. The greenhouse efefct occurs when gases in the atmsophere, such as carbon dioxide, trap heat radiating from Earth's surface, warming the planet. Without any greenhouse effect, Erath would be far too cold to support most life.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 2,
+    "ev1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

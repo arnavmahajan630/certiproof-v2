@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_005_paraphrase",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Water diffuses passively across a selectively permeable membrane, flowing toward whichever side has the higher solute concentration until the two sides equalize, with no external energy needed since the concentration gradient alone drives it \u2014 which is exactly why a dried raisin swells up when dropped in water, its cells pulling in water from the far less concentrated surroundings.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

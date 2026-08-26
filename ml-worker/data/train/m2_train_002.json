@@ -1,0 +1,14 @@
+{
+  "answer_id": "m2_train_002",
+  "question_id": "m2",
+  "style": "x_type_longer_explanation",
+  "answer_text": "This is a foundational concept in mathematics. The Pythagorean theorem states that in a right triangle, the square of the hypotenuse, the side opposite the right angle, equals the sum of the squares of the other two sides: a squared plus b squared equals c squared.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 2,
+    "m2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

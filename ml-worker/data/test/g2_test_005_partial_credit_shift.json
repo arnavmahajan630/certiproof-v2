@@ -1,0 +1,15 @@
+{
+  "answer_id": "g2_test_005_partial_credit_shift",
+  "question_id": "g2",
+  "derived_from_train_id": "g2_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "A delta is a landform that builds up where a river flows into a larger, calmer body of water, such as an ocean, sea, or lake, and its water current slows down sharply as it enters that larger body. As the river's flow slows, it loses the energy needed to keep carrying the sediment \u2014 sand, silt, and clay \u2014 that it had been transporting along its length, so that sediment settles out and accumulates at the river's mouth.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g2_c1": 2,
+    "g2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

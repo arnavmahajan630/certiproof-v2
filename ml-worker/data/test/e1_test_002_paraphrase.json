@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_002_paraphrase",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "Prices climb when buyers want more of a good than is available, and fall when there's more supply than demand; a hot new phone launch shows this in action.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 2,
+    "e1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

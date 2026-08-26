@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_005_negation_flipped",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Water does not move passively toward the side of higher solute concentration across a selectively permeable membrane \u2014 osmosis isn't driven that way \u2014 even though no external energy is needed since a concentration gradient alone drives water movement, which is why a raisin still swells in water.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 0,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

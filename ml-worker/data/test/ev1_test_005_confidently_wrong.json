@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_005_confidently_wrong",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Greenhouse gases actually reflect incoming sunlight away from Earth before it ever reaches the surface, which is what causes the greenhouse effect, even though the process is still described as essential to habitability, and fossil fuel burning is still said to intensify it.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 0,
+    "ev1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

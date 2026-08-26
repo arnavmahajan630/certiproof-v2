@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_002_negation_flipped",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "Splitting government power across branches does not prevent any one branch from becoming too powerful; a veto the legislature can override is still an example of checks and balances.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 0,
+    "q6_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

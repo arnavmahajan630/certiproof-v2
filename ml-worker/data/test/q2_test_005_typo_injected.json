@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_005_typo_injected",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "Osmosis is the passive mvoement of water molecules across a seimpermeable membrane, one that lets water thruogh but blocks larger solute particles. Wtaer moves from a region where sloute concentration is low (and therefore watre concentration is relatively high) toward a region where solute concentration is high, and this continues until the concentrtaion is equal on both sides of the membrane, or until some oppsoing pressure balances it out. No outsied energy input is required because the process is driven purely by the concentration gradient, which is why it's classified as passive transport rather than active transport. A classic classroom demonstratino is placing a raisin in plani water: water moves into the raisin's cells because the solute concentration inisde the dried fruit is much higehr than in the surrounding water, cuasing the raisin to swell up.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_005_partial_credit_shift",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Osmosis is the passive movement of water molecules across a semipermeable membrane, one that lets water through but blocks larger solute particles. Water moves from a region where solute concentration is low (and therefore water concentration is relatively high) toward a region where solute concentration is high, and this continues until the concentration is equal on both sides of the membrane, or until some opposing pressure balances it out.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_005_confidently_wrong",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Earth's changing distance from the sun over its orbit is actually what angles the seasons, getting closer in summer and farther in winter, even though axial tilt is still commonly mentioned, and the seasons are still said to reverse every six months.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 0,
+    "g1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

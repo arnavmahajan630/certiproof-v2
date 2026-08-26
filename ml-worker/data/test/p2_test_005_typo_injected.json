@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_005_typo_injected",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "Whether an object floats or sinks in water comes down to a comparison between the object's dnesity and the density of water, roguhly 1 gram per cubic centimeter. Any object placed in water experiences an upward buoyant force equal to the weight of the water it dislpaces, a relationship known as Archimedes' prinicple. If the object's overall density is less than water's, the buoyant focre pushing up on it is gerater than the object's weight pulling it down, so the object floats; if the object's density is greater than water's, its weight wins out and it sinks. This is why a large, heavy ship made of setel can still float \u2014 even thouhg steel itself is denser than watre, the ship's overall shape traps a large volume of air inside its hull, which brings the ship's averaeg density (steel plus trapped air) beolw that of water. A solid stele block with no hollow space, on the other hand, is simply dneser than water throughout and sinks.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 2,
+    "p2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_006",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_001",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Plants appear green mainly because of a pigment called xanthophyll, which is the dominant pigment in most leaf cells and gives them their green color.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 0,
+    "q1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

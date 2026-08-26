@@ -1,0 +1,26 @@
+{
+  "scenarios": ["excellent", "partial", "off_topic", "minimal", "verbose_padding"],
+  "answers": {
+    "biology_photosynthesis": {
+      "excellent": "Photosynthesis is the process by which plants use sunlight as their energy source to convert water absorbed from the soil and carbon dioxide taken in from the air into glucose, releasing oxygen as a byproduct. This reaction takes place inside the chloroplast, using the green pigment chlorophyll to capture light energy.",
+      "partial": "Plants take in sunlight and water to make food for themselves. They also release oxygen into the air while doing this.",
+      "off_topic": "Cellular respiration is how animals produce energy by breaking down glucose using oxygen, producing carbon dioxide and water as waste products in the process.",
+      "minimal": "Plants use sunlight to grow.",
+      "verbose_padding": "Photosynthesis is a very important and fascinating biological process that has been studied by scientists for centuries and is essential to life on Earth as we know it, without which none of us would exist, and it is truly one of nature's most incredible phenomena that never ceases to amaze researchers around the globe who dedicate their entire careers to understanding it in ever greater detail every single year."
+    },
+    "history_french_revolution": {
+      "excellent": "The French Revolution was caused by a combination of factors: the country was deeply in debt and facing food shortages that hurt the common people, the rigid estate system created huge inequality between the privileged First and Second Estates and the burdened Third Estate, Enlightenment thinkers like Rousseau and Voltaire spread new ideas about liberty and equality, and King Louis XVI's weak and indecisive leadership failed to address any of these problems.",
+      "partial": "There was a lot of inequality between the rich and the poor in France at the time, and the king was not a very strong leader.",
+      "off_topic": "The Industrial Revolution began in Britain in the late eighteenth century with the mechanization of textile manufacturing, powered by the newly invented steam engine.",
+      "minimal": "People were poor and angry at the king.",
+      "verbose_padding": "The French Revolution is widely regarded by historians as one of the most pivotal and transformative events in all of European history, an event whose reverberations were felt for generations afterward and whose lessons continue to be studied and debated by scholars to this very day in universities across the entire world."
+    },
+    "physics_newtons_laws": {
+      "excellent": "Newton's first law states that an object at rest stays at rest and an object in motion stays in motion unless acted on by an external force — this is called inertia. The second law states that force equals mass times acceleration, or F=ma. The third law states that for every action there is an equal and opposite reaction.",
+      "partial": "Newton's second law is F=ma, meaning force equals mass times acceleration. Objects also tend to resist any change in their state of motion.",
+      "off_topic": "Einstein's theory of relativity describes how time and space are linked together into a single continuum, and how gravity arises from the curvature of that spacetime.",
+      "minimal": "F=ma.",
+      "verbose_padding": "Sir Isaac Newton was an extraordinarily brilliant English physicist and mathematician who lived in the seventeenth and eighteenth centuries and made countless groundbreaking contributions not just to physics but also to mathematics, astronomy, and even theology, and his work laid the very foundation of classical mechanics as it is understood today."
+    }
+  }
+}

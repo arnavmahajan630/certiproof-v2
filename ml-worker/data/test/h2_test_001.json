@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_001",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "The spark that set off World War I was the assassination of Archduke Franz Ferdinand, which activated a web of alliances and tensions from nationalism and militarism already building across Europe.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 2,
+    "h2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

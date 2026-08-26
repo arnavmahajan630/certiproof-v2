@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_002_confidently_wrong",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A stack removes the oldest item first, not the most recent; a queue removes the earliest item first (FIFO).",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 0,
+    "q3_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

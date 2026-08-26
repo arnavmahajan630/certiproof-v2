@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_003",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Governments around the world differ in structure, but many democracies share common features. Elections allow citizens to choose their representatives. Separation of powers divides authority among the legislature, executive, and judiciary so no single branch dominates the others. Checks and balances support this \u2014 for instance, the judiciary can rule an executive action unconstitutional. Political parties also play a role in shaping policy debates.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

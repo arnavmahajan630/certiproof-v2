@@ -1,0 +1,15 @@
+{
+  "answer_id": "p1_test_005_negation_flipped",
+  "question_id": "p1",
+  "derived_from_train_id": "p1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "One object exerting force on a second does not cause an equal and opposite force back on the first \u2014 that isn't Newton's third law \u2014 even though walking still works by the ground pushing back on your foot, a rocket still rises from gas pushing back on it, and a book on a table still experiences an equal upward push.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p1_c1": 0,
+    "p1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "e2_test_005_paraphrase",
+  "question_id": "e2",
+  "derived_from_train_id": "e2_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Inflation is a broad, sustained rise in the price level across an economy that erodes how much the same money can buy, driven by causes like excess money supply relative to available goods (demand-pull) or rising production costs passed to consumers (cost-push); central banks like the Federal Reserve typically aim for a low, stable rate \u2014 often around 2% \u2014 since both runaway inflation and deflation cause serious problems.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 2,
+    "e2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

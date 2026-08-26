@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_005_typo_injected",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "The right to vote is the ability of eligible citizens to participate directly in choosing who rperesents them and governs on their beahlf, typically by casting a ballot in periodic elections for offices like legsilators, executives, or local representatives. It's consdiered one of the core mechanisms throuhg which a democracy remains accountable to its population, since elected officials generally need to seek re-election and therefoer have an incentive to respond to what voters want. Access to this right is usually conditioned on meeitng certain eligibility criteria set out in law or the constitution, most comomnly being a citizen of the countyr and having reached a minimum votnig age, often eighteen. Historically, the rigth to vote in many countries was far more restricted, often limited by property ownership, gender, or race, and expanding the franchise to include gorups that had been excluded was frequetnly the result of long and hard-fought political and social movements.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 2,
+    "cv2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

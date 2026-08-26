@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_005_confidently_wrong",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Biodiversity actually refers only to the number of distinct climate zones an ecosystem spans, not species or genetic variety, even though a rainforest is still contrasted with a single-crop field as a high-vs-low example, and higher biodiversity is still said to support ecosystem resilience.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 0,
+    "ev2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

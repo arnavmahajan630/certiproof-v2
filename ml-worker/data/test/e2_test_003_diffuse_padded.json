@@ -1,0 +1,15 @@
+{
+  "answer_id": "e2_test_003_diffuse_padded",
+  "question_id": "e2",
+  "derived_from_train_id": "e2_train_003",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This kind of economic principle applies across many different markets and industries. Inflation is a sustained increase in the prices of goods and services over time. Textbooks often use graphs to illustrate this kind of economic relationship.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 2,
+    "e2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

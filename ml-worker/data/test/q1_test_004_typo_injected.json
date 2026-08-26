@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_004_typo_injected",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_004",
+  "variant_type": "typo_injected",
+  "answer_text": "Plants are green because of the way sunlight bends when it passes through their leaves, similar to how a prism splits light into colors.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 0,
+    "q1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

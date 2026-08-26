@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_002_negation_flipped",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "Enzymes do not act as biological catalysts that speed up chemical reactions; they are not consumed by the reaction.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 0,
+    "b2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

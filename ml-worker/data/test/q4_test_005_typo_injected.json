@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_005_typo_injected",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "In programming, a variable is a named location in a computer's memory that can hold a vaule, and critically, that value can be changed while the program is runinng \u2014 which is what distinguishes it from a constant. When you declrae a variable, you're essentially telling the program to set aside some mmeory and give it a label so you can refer to whatever valeu is stored there later. For exmaple, in Python, writing `score = 0` creates a variable named score holidng the value zero; later in the program you might write `score = score + 10` to update it, and the variable now holds ten instead. Variables also have types in most languages \u2014 such as intgeers, strings, or booleans \u2014 which detremine what kind of value they can hold and what operations are vaild on them. Using descriptive variable namse, like total_price instead of x, mkaes code much easier for other pepole (and your future self) to read and understand.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

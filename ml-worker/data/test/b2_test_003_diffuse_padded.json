@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_003_diffuse_padded",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_003",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Diagrams are often used in class to illustrate this kind of biological process. Enzymes speed up chemical reactions happening in cells. Biology as a field covers an enormous range of scales, from single molecules up to entire ecosystems.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 2,
+    "b2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_003_diffuse_padded",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_003",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This kind of question often comes up in introductory life-science courses. Osmosis is when water moves through a semipermeable membrane from an area of low solute concentration to high solute concentration. Understanding basic biological mechanisms is useful background for many other science topics.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

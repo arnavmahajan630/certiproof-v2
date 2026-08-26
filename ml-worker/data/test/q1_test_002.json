@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_002",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_001",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Plants contain several pigments that support growth. Chlorophyll is the most important one for photosynthesis, absorbing red and blue light to drive the process. It happens to reflect green light rather than absorbing it, and that's the reason we see plants as green.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_005_confidently_wrong",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Enzymes function by directly supplying extra energy to a reaction rather than lowering its activation energy, which is what actually makes reactions in the body proceed fast enough to sustain life, though their active sites are still specific to certain substrates and extreme temperature or pH can still distort and disable them.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 0,
+    "b2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

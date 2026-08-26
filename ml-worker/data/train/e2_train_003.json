@@ -1,0 +1,14 @@
+{
+  "answer_id": "e2_train_003",
+  "question_id": "e2",
+  "style": "x_type_partial_correct",
+  "answer_text": "Inflation is a sustained increase in the prices of goods and services over time.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 2,
+    "e2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

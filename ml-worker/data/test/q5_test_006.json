@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_006",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_001",
+  "variant_type": "confidently_wrong",
+  "answer_text": "The judiciary's main role is to draft new legislation and submit it to the legislature for a final vote.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 0,
+    "q5_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

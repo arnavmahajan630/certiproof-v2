@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_005_partial_credit_shift",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Acids and bases are two categories of chemical compounds that behave very differently when dissolved in water, and chemists commonly distinguish them by the ions they release. An acid releases hydrogen ions (H+) when dissolved in water, and the more it does so, the more acidic the solution is, which corresponds to a pH value below 7 on the standard pH scale. A base, by contrast, releases hydroxide ions (OH-) when dissolved in water, corresponding to a pH above 7; the higher the concentration of hydroxide ions, the more strongly basic (or alkaline) the solution is.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 2,
+    "c2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

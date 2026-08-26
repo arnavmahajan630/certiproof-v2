@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_005_confidently_wrong",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "The judiciary's core role is actually to advise the legislature on drafting new laws rather than interpreting existing ones, though it's still described as independent, still said to exercise judicial review, and still central to resolving legal disputes between parties.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 0,
+    "q5_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

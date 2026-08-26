@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_003_confidently_wrong",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_003",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Earth's seasons come from its rotation speed around its own axis.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 0,
+    "g1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

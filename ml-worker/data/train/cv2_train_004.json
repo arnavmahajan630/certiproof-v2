@@ -1,0 +1,14 @@
+{
+  "answer_id": "cv2_train_004",
+  "question_id": "cv2",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "The right to vote means the government chooses representatives on behalf of citizens without requiring an election.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 0,
+    "cv2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

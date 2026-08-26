@@ -1,0 +1,15 @@
+{
+  "answer_id": "g2_test_002_partial_credit_shift",
+  "question_id": "g2",
+  "derived_from_train_id": "g2_train_002",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "This is a foundational concept in geography.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g2_c1": 2,
+    "g2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

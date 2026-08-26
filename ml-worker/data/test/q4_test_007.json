@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_007",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_001",
+  "variant_type": "typo_injected",
+  "answer_text": "A varaible is a named storage locaton in memory that holds a valu which can change during program execution. For example, in Python, writing `age = 25` creates a variable called age that stores the value 25.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

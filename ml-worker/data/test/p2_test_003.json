@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_003",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Many everyday phenomena can be explained using basic physical principles. Motion and energy are central topics in classical mechanics. An object floats or sinks depending on how its density compares to water: if the object is less dense than water, the buoyant force pushes it up and it floats; if denser, it sinks. Wood floats because it is less dense than water, while a steel nail sinks because it is denser. Physics studies the fundamental forces and matter that make up the universe.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 2,
+    "p2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

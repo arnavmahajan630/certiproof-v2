@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_004_confidently_wrong",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_004",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A fundamental right is a benefit only available to government employees, not ordinary citizens.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 0,
+    "cv1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

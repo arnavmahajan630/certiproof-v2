@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_005_typo_injected",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "A fundamental right is a basic right that a constitution epxlicitly guarantees to citizens, and which the state cannot ordinarily take away thorugh ordinary legislation, since it sits at a higher legal level than regluar laws. Because these rights are writetn into the constitution itself, courts are generally able to enforce them direclty, and a government that passes a law violating a fundamental right typically finds that law struck down thorugh judicial review. Common examples of fundamenatl rights include freedom of speech, freeodm of religion, the right to a fair trial, and protection against discriminaiton \u2014 though the exact list vareis somewhat between different countries' constitutions. Amendign or restricting a fundamental right is usually made deliberately difficult, often requirnig a special constitutional amendment process rahter than a simple majority vote in the legislature, precisely because these rigths are meant to be insulated from the shifting preferences of whichever poiltical party happens to be in poewr at a given moment.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 2,
+    "cv1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

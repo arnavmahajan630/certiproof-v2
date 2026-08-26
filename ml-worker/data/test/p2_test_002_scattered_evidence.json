@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_002_scattered_evidence",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_002",
+  "variant_type": "scattered_evidence",
+  "answer_text": "This is a foundational concept in physics. Textbooks often use diagrams and free-body illustrations to explain this kind of concept. An object floats or sinks depending on how its density compares to water: if the object is less dense than water, the buoyant force pushes it up and it floats; if denser, it sinks. This is one of the fundamental laws typically covered early in a physics course. Wood floats because it is less dense than water, while a steel nail sinks because it is denser.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 2,
+    "p2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,14 @@
+{
+  "answer_id": "q3_train_004",
+  "question_id": "q3",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "A stack and a queue are basically the same thing, just different names used in different programming languages.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 0,
+    "q3_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

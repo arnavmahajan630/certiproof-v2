@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_005_typo_injected",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "A stack and a qeuue are both linear data structures used to store an ordered collection of elements, but they differ in the order elements come back out. A stack follows Last In First Out (LIFO) ordering: both insertion (push) and removal (pop) happen at the same end, called the top, so the most recently added element is alawys the first one removed, much like a stack of plates where you can only take from the top. A queue, on the other hand, follows First In First Out (FIFO) ordering: elements are inserted at the rear (enqueue) and removed from the front (dequeue), so the earliest elemetn added is the first one to leave, similar to people standing in line at a checkout counter. Stcaks are commonly used for things like undo functionality or tracking function clals, while queues are commonly used for task scheduling or handling requests in the order they arrive.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "c1_test_005_negation_flipped",
+  "question_id": "c1",
+  "derived_from_train_id": "c1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "An exothermic reaction's products do not store less energy than its reactants' bonds did \u2014 that difference doesn't get released as heat \u2014 even though combustion, acid-base neutralization, and some glues setting are still cited as examples, and activation energy is still generally required to get the reaction started.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c1_c1": 0,
+    "c1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

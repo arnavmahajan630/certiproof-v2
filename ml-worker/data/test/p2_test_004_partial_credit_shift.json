@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_004_partial_credit_shift",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_004",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Objects float or sink depending only on their weight",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 0,
+    "p2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

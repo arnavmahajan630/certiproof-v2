@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_005_negation_flipped",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "An object does not float because its overall density is below water's \u2014 that isn't what determines floating \u2014 even though the buoyant force from displaced water still follows Archimedes' principle, a steel ship still floats because trapped air lowers its average density, and a solid steel block still sinks.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 0,
+    "p2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

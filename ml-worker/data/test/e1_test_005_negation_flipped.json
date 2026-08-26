@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_005_negation_flipped",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Demand outpacing supply does not push a good's price upward toward an equilibrium \u2014 that mechanism doesn't hold \u2014 even though excess supply is still said to push price down, and a phone launch's high initial price fading as production catches up is still cited as an example.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 0,
+    "e1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

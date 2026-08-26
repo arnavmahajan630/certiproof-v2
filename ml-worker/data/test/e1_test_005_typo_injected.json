@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_005_typo_injected",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "The law of supply and demand describes how the price of a good in a market tneds to move based on the realtionship between how much of it buyres want (demand) and how much of it is available (supply). When demadn for a good exceeds the availbale supply, buyers end up competing for a limited quantity, which tends to push the price upward until enuogh buyers drop out that quantity dmeanded roughly matches quantity supplied. Conversely, when supply exceeds demand, sellers compete for scarce buyers, which tends to push the price downward until demand riess enough, or supply falls enough, to bring the market back closer to balance. The price at which quatnity demanded equals quantity supplied is called the equilibrium price. A practical eaxmple is the launch of a pouplar new phone: initial supply is otfen limited relative to demand, so retailesr or resellers can charge a premimu price, but as production ramps up and initial demand is satisfied, pricse typically settle back down.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 2,
+    "e1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

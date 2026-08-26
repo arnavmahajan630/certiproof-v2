@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_002_scattered_evidence",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_002",
+  "variant_type": "scattered_evidence",
+  "answer_text": "This is a foundational concept in history. Historians sometimes disagree about the relative importance of different causes behind an event. The printing press, invented by Johannes Gutenberg, allowed books to be mass-produced much faster and more cheaply than by hand-copying. Textbooks often place this kind of event within a broader historical timeline. This led to a rapid spread of information and ideas, contributing to increased literacy and events like the Protestant Reformation.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 2,
+    "h1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

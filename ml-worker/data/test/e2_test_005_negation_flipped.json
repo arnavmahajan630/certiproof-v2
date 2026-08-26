@@ -1,0 +1,15 @@
+{
+  "answer_id": "e2_test_005_negation_flipped",
+  "question_id": "e2",
+  "derived_from_train_id": "e2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Inflation does not erode how much the same amount of money can buy over time \u2014 that isn't its effect \u2014 even though demand-pull and cost-push are still cited as causes, and central banks like the Federal Reserve are still said to target a low, stable rate around 2%.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 0,
+    "e2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

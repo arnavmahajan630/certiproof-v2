@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_002_partial_credit_shift",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_002",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Plant cells contain a pigment called chlorophyll, which plays a central role in photosynthesis.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

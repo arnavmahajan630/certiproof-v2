@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_005_diffuse_padded",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_005",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Understanding this principle is useful background for later, more advanced physics topics. Whether an object floats or sinks in water comes down to a comparison between the object's density and the density of water, roughly 1 gram per cubic centimeter. Any object placed in water experiences an upward buoyant force equal to the weight of the water it displaces, a relationship known as Archimedes' principle. If the object's overall density is less than water's, the buoyant force pushing up on it is greater than the object's weight pulling it down, so the object floats; if the object's density is greater than water's, its weight wins out and it sinks. This is why a large, heavy ship made of steel can still float \u2014 even though steel itself is denser than water, the ship's overall shape traps a large volume of air inside its hull, which brings the ship's average density (steel plus trapped air) below that of water. A solid steel block with no hollow space, on the other hand, is simply denser than water throughout and sinks. This kind of phenomenon can be observed in many everyday situations.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 2,
+    "p2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

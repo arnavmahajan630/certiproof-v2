@@ -1,0 +1,15 @@
+{
+  "answer_id": "g2_test_005_negation_flipped",
+  "question_id": "g2",
+  "derived_from_train_id": "g2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "A river's current slowing as it enters a larger body of water does not cause it to lose the energy needed to keep carrying sediment \u2014 that isn't why deltas form \u2014 even though the Nile and Mississippi deltas are still cited as examples, and deltas are still described as fertile, fan-shaped landforms.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g2_c1": 0,
+    "g2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

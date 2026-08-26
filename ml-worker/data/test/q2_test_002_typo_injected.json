@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_002_typo_injected",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "Osmosis refers to the psasive diffusion of water across a seelctively permeable membrane. Water moves from the side with lower solute concentration (higehr water potential) to the side with higher solute concentration (lower water potetnial), continuing until the concentrations equalize on both sides. This is why plnat root hair cells can absorb watre from the soil, since the soil water has a lower solute concentartion than the cell sap.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

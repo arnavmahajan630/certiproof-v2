@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_004_paraphrase",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_004",
+  "variant_type": "paraphrase",
+  "answer_text": "In any right triangle, all three sides are always equal to one another in length.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 0,
+    "m2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

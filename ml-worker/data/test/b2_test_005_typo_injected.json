@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_005_typo_injected",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "Enzymes are specialized proteins that act as biological catalysts, meaning they speed up the rate of cehmical reactions inside the body without benig consumed or permanently changed by the reaction themselves. They work by lowreing the activation energy needed for a reaction to proceed, which lets reacitons that would otherwise be far too slow at body temperature happen fast enough to sustain life. Each eznyme typically has an active site shpaed to fit one particular substrate or a small group of similar substraets, similar to a lock and key, which is why enzymes tend to be highly specific about which recation they catalyze. Because an enzyme molceule isn't used up in the reaciton, a single enzyme molecule can catalzye the same reaction over and over again very quickly. Enzyme activity can also be affected by conditions like temperature and pH \u2014 most humna enzymes work best around normal body temperature and can lose their sahpe and stop functioning if conditions beocme too extreme.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 2,
+    "b2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_004_diffuse_padded",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_004",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Maps and diagrams are often used in class to illustrate this kind of geographic feature. Seasons happen because Earth's distance from the sun changes significantly throughout the year, getting much closer in summer. This kind of geographic process can be observed in many regions around the world.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 0,
+    "g1_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

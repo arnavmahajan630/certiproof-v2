@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_002_partial_credit_shift",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_002",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "In a democracy, the judiciary serves as an independent branch responsible for interpreting and applying the law, as well as ensuring that legislation and executive actions remain within the bounds set by the constitution.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

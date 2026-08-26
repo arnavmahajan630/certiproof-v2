@@ -1,0 +1,14 @@
+{
+  "answer_id": "p2_train_002",
+  "question_id": "p2",
+  "style": "x_type_longer_explanation",
+  "answer_text": "This is a foundational concept in physics. An object floats or sinks depending on how its density compares to water: if the object is less dense than water, the buoyant force pushes it up and it floats; if denser, it sinks. Wood floats because it is less dense than water, while a steel nail sinks because it is denser.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 2,
+    "p2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

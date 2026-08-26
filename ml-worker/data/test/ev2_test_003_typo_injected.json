@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_003_typo_injected",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_003",
+  "variant_type": "typo_injected",
+  "answer_text": "Biodiversity refers to the vraiety of living species in an ecsoystem.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 2,
+    "ev2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

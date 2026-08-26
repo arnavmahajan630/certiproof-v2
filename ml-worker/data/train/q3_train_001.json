@@ -1,0 +1,14 @@
+{
+  "answer_id": "q3_train_001",
+  "question_id": "q3",
+  "style": "x_type_full_correct",
+  "answer_text": "A stack follows LIFO (Last In First Out) order, meaning the most recently added element is the first one removed, like a stack of plates. A queue follows FIFO (First In First Out), where the first element added is the first one removed, like a line of people waiting.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

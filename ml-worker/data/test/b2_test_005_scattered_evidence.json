@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_005_scattered_evidence",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_005",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Enzymes are specialized proteins that act as biological catalysts, meaning they speed up the rate of chemical reactions inside the body without being consumed or permanently changed by the reaction themselves. Living organisms share a number of common features across otherwise very different species. They work by lowering the activation energy needed for a reaction to proceed, which lets reactions that would otherwise be far too slow at body temperature happen fast enough to sustain life. Cell biology and physiology are closely related but distinct areas of study. Each enzyme typically has an active site shaped to fit one particular substrate or a small group of similar substrates, similar to a lock and key, which is why enzymes tend to be highly specific about which reaction they catalyze. Many biological processes were only well understood after the invention of the microscope. Because an enzyme molecule isn't used up in the reaction, a single enzyme molecule can catalyze the same reaction over and over again very quickly. Textbooks often group this kind of material under human biology or general biology. Enzyme activity can also be affected by conditions like temperature and pH \u2014 most human enzymes work best around normal body temperature and can lose their shape and stop functioning if conditions become too extreme.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 2,
+    "b2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

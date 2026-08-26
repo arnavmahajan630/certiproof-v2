@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_005_negation_flipped",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Greenhouse gases do not absorb and re-emit outgoing infrared heat back toward the surface \u2014 that isn't how the effect works \u2014 even though the process is still described as essential to habitability, and fossil fuel burning is still said to intensify it by raising greenhouse gas concentrations.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 0,
+    "ev1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

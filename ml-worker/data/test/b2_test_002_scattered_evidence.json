@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_002_scattered_evidence",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_002",
+  "variant_type": "scattered_evidence",
+  "answer_text": "This is a foundational concept in biology. Some related biological topics are covered in more advanced coursework later on. Enzymes are proteins that act as biological catalysts, speeding up chemical reactions in the body without being consumed or changed by the reaction themselves.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 2,
+    "b2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

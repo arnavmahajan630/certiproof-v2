@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_002_confidently_wrong",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Separation of powers exists mainly to speed up government decision-making, not to limit any branch's power; a veto is still an example of checks and balances.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 0,
+    "q6_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

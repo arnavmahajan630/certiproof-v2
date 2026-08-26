@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_004_typo_injected",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_004",
+  "variant_type": "typo_injected",
+  "answer_text": "Seasons happen because Earth's dsitance from the sun changes significantly thorughout the year, getting much closer in summer.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 0,
+    "g1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

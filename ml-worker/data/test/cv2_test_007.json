@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_007",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_001",
+  "variant_type": "typo_injected",
+  "answer_text": "The right to vote is the right of eliigble citizens to choose their representatives or government through elections. It is usually granted to citizens who meet certain eligibility requirements, such as being above a minimum voting age.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 2,
+    "cv2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

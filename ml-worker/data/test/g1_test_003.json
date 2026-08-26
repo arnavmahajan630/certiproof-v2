@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_003",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Climate and landforms vary greatly across different regions of the world. Human activity has significantly altered many natural landscapes over time. Seasons are caused by the tilt of Earth's axis, not by changes in distance from the sun. As Earth orbits the sun, this tilt causes different hemispheres to receive more or less direct sunlight at different times of year, creating summer, winter, and the seasons in between. Earth's surface features are shaped by a variety of natural processes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 2,
+    "g1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

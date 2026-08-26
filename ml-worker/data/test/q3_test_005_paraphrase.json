@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_005_paraphrase",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Both are ordered linear structures, but a stack only pushes and pops from one end (the top), giving Last In First Out behavior like a stack of plates, while a queue enqueues at the rear and dequeues from the front, giving First In First Out behavior like a checkout line \u2014 which is why stacks suit undo functionality and call tracking while queues suit task scheduling.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_001",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "It's Earth's axial tilt, not orbital distance, that produces seasons \u2014 as the planet orbits the sun, the tilt causes each hemisphere to receive varying amounts of direct sunlight throughout the year.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 2,
+    "g1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

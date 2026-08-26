@@ -1,0 +1,14 @@
+{
+  "answer_id": "ev2_train_001",
+  "question_id": "ev2",
+  "style": "x_type_full_correct",
+  "answer_text": "Biodiversity refers to the variety of living species found within an ecosystem or across the planet, including plants, animals, and microorganisms. High biodiversity generally makes ecosystems more stable and resilient to disturbances.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 2,
+    "ev2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

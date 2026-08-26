@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_005_negation_flipped",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Enzymes do not lower the activation energy required for a biological reaction to proceed \u2014 that isn't how they function as catalysts \u2014 even though their active sites are still shaped to fit specific substrates, making them highly reusable and reaction-specific, and extreme temperature or pH can still distort them and shut them down.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 0,
+    "b2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_002_paraphrase",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "The judiciary reads and applies laws made by the legislature, checking that they align with the constitution; judicial review is one way courts do this.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

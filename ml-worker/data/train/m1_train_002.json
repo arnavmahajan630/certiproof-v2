@@ -1,0 +1,14 @@
+{
+  "answer_id": "m1_train_002",
+  "question_id": "m1",
+  "style": "x_type_longer_explanation",
+  "answer_text": "This is a foundational concept in mathematics. A prime number is a natural number greater than 1 that has exactly two distinct positive divisors: 1 and itself. For example, 7 is prime because it can only be divided evenly by 1 and 7.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 2,
+    "m1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_002_typo_injected",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "A stack is a lniear data structure where insertion and reomval both happen at the same end, called the top. This gives it Last In First Out behavior \u2014 the last item pushed onto the stack is the first one popepd off. A queue, in contrast, insetrs elements at the rear and removse them from the front, giving it First In First Out behavior, so the earliest inserted element is the first one to be removed.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

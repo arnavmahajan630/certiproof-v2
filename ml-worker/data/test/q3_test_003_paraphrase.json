@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_003_paraphrase",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_003",
+  "variant_type": "paraphrase",
+  "answer_text": "A stack restricts insertion and removal to one end only, giving it LIFO behavior.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

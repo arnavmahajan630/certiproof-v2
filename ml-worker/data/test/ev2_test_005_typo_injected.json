@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_005_typo_injected",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "Biodiversity refers to the full variety of living organisms found wtihin a given ecosystem, region, or acorss the planet as a whole, encmopassing differences at multiple levels: variety aomng species, genetic variety within a snigle species, and variety among entire ecosysetms themselves. A rainforest, for example, mgiht contain an enormous number of dfiferent plant, insect, bird, and mammal speceis living together, representing high species-level biodiversiyt, while a monoculture farm field gorwing a single crop represents very low biodiversity by comparison. Biodiversity matters lagrely because it tends to make ecosytsems more stable and resilient: when many different species fill different ecological roels, an ecosystem is generally better able to withstand disturbances like disease, drougth, or invasive species, since the loss or decline of any one sepcies is less likely to cause the whole system to collapse. High biodivesrity also has direct practical value for humans, supporting things like pollination of food crops, natural pest control, and providing the genetic diversity that undelries future medicines and crop breeding.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 2,
+    "ev2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

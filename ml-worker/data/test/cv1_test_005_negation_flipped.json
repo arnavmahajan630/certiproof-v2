@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_005_negation_flipped",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Fundamental rights are not written directly into the constitution in a way that shields them from ordinary legislation \u2014 that protection doesn't exist \u2014 even though free speech, freedom of religion, and a fair trial are still commonly cited examples, and amendment is still said to typically require a special constitutional process.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 0,
+    "cv1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

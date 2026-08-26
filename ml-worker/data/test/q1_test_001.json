@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_001",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "The green pigment chlorophyll doesn't absorb green wavelengths \u2014 it reflects them back, and that's the light our eyes perceive as green when we look at a leaf. It absorbs red and blue wavelengths instead, which power photosynthesis.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

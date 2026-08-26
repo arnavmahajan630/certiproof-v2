@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_003_scattered_evidence",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_003",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Textbooks often place this kind of event within a broader historical timeline. The printing press allowed books to be produced much faster than by hand-copying.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 2,
+    "h1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

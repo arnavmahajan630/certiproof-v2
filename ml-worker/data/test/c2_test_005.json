@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_005",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "Acids release hydroxide ions and sit above pH 7, while bases release hydrogen ions and sit below pH 7.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 0,
+    "c2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_001",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "The range of different species present in an ecosystem or on Earth as a whole is called biodiversity, and greater diversity tends to make ecosystems more resilient to shocks.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 2,
+    "ev2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

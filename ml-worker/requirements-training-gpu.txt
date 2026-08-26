@@ -1,0 +1,32 @@
+# For LOCAL GPU TRAINING ONLY (train.py / finetune_encoder.py on your own machine's
+# CUDA GPU). Deliberately does NOT include requirements.txt, because that file's
+# --extra-index-url points at PyTorch's CPU-only wheel repo (correct for the
+# API-serving/Docker image, wrong for GPU training).
+#
+# Install a CUDA-matched torch build FIRST -- check your driver's CUDA version
+# (`nvidia-smi`) and pick the matching index from https://pytorch.org/get-started/locally/,
+# e.g. for CUDA 12.1:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+# then:
+#   pip install -r requirements-training-gpu.txt
+#   python3 -m spacy download en_core_web_sm
+#
+# See TRAINING_AND_EZKL_PLAN.md at the repo root for the full workflow.
+ezkl==23.0.5
+onnx==1.22.0
+onnxruntime==1.29.0
+sentence-transformers==6.0.0
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+pydantic==2.13.4
+python-multipart==0.0.32
+google-genai==2.19.0
+python-dotenv==1.2.3
+numpy==2.5.2
+matplotlib==3.11.1
+spacy>=3.7
+python-Levenshtein>=0.25
+scikit-learn
+pandas
+datasets
+accelerate>=1.1.0

@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_002_confidently_wrong",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Whether an object floats depends only on its shape and never on its density relative to water; buoyant force still depends on displaced water.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 0,
+    "p2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

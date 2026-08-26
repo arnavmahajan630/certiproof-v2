@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_005_paraphrase",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Gases like carbon dioxide, methane, and water vapor absorb outgoing infrared heat radiated from Earth's sun-warmed surface and re-emit it back down, trapping extra warmth in the lower atmosphere \u2014 a naturally essential process, since without it Earth would be far too cold for most life, though burning fossil fuels has intensified it by sharply raising greenhouse gas concentrations, pushing global temperatures higher.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 2,
+    "ev1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

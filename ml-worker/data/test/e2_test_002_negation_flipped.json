@@ -1,0 +1,15 @@
+{
+  "answer_id": "e2_test_002_negation_flipped",
+  "question_id": "e2",
+  "derived_from_train_id": "e2_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "Inflation is not a sustained rise in prices that erodes purchasing power; excess money supply and rising production costs are still cited as causes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 0,
+    "e2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

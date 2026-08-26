@@ -1,0 +1,14 @@
+{
+  "answer_id": "p2_train_004",
+  "question_id": "p2",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "Objects float or sink depending only on their weight \u2014 heavier objects always float and lighter objects always sink.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 0,
+    "p2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

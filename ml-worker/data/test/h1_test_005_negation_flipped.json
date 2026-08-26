@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_005_negation_flipped",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Gutenberg's movable-type press did not let pages be printed faster and cheaper than hand-copying \u2014 that isn't what it achieved \u2014 even though books were still scarce and expensive before it, and it's still credited with fueling literacy and events like the Reformation.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 0,
+    "h1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_002_negation_flipped",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "Gutenberg's press did not let books be produced faster than hand-copying; it is still credited with helping spread literacy and events like the Reformation.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 0,
+    "h1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

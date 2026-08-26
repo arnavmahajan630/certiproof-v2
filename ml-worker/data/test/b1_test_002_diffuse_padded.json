@@ -1,0 +1,15 @@
+{
+  "answer_id": "b1_test_002_diffuse_padded",
+  "question_id": "b1",
+  "derived_from_train_id": "b1_train_002",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Textbooks often group this kind of material under human biology or general biology. This is a foundational concept in biology. Red blood cells contain hemoglobin, a protein that binds oxygen in the lungs and carries it to tissues throughout the body. Unlike most other cells, mature red blood cells have no nucleus, which leaves more space for hemoglobin. This kind of question often comes up in introductory life-science courses.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b1_c1": 2,
+    "b1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

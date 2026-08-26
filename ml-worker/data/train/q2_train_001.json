@@ -1,0 +1,14 @@
+{
+  "answer_id": "q2_train_001",
+  "question_id": "q2",
+  "style": "x_type_full_correct",
+  "answer_text": "Osmosis is the movement of water molecules across a semipermeable membrane from a region of low solute concentration to a region of high solute concentration, until equilibrium is reached. A common example is a raisin swelling up when placed in water.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

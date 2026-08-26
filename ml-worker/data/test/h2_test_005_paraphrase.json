@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_005_paraphrase",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "The assassination of Archduke Franz Ferdinand in Sarajevo in 1914 gave Austria-Hungary the pretext to declare war on Serbia, but the conflict only spread across Europe because of pre-existing alliance networks pulling in Russia, Germany, France, and Britain in quick succession, on top of decades of rising nationalism and an arms race \u2014 meaning the assassination acted as a trigger for already-building tensions rather than a lone spark.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 2,
+    "h2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

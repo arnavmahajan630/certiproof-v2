@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_005_paraphrase",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Because chloroplasts contain chlorophyll, which absorbs red and blue light to fuel photosynthesis while letting green wavelengths bounce off, our eyes register that reflected green and we perceive the plant as green; this is also why fading chlorophyll in autumn reveals yellow and orange pigments underneath.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

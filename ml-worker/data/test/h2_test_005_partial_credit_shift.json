@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_005_partial_credit_shift",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "World War I was set off immediately by the assassination of Archduke Franz Ferdinand of Austria-Hungary, who was shot in Sarajevo in June 1914 by a Bosnian Serb nationalist, an act that gave Austria-Hungary the pretext to issue a set of harsh demands to Serbia and ultimately declare war on it. However, that single event only escalated into a continent-wide war because of a much deeper set of underlying conditions that had been building for years beforehand.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 2,
+    "h2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_002_typo_injected",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "This is a foundational cnocept in civics. A fundamental right is a basic right guaranteed to ciitzens by the constitution, which the staet cannot ordinarily take away and wihch courts can enforce. The right to freedom of speech is a cmomon example of a fundamental right.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 2,
+    "cv1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

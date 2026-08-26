@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_002_confidently_wrong",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Earth's changing distance from the sun causes the seasons, not its axial tilt.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 0,
+    "g1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

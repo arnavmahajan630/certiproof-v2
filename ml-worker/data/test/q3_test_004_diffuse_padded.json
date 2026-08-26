@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_004_diffuse_padded",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_004",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Computer science as a subject spans both theoretical concepts and practical programming skills. A stack and a queue are basically the same thing, just different names used in different programming languages. Different programming languages sometimes handle this kind of concept in slightly different ways.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 0,
+    "q3_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

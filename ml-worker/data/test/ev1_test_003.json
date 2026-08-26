@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_003",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Human activity has a significant impact on the natural environment. Conservation efforts aim to protect natural resources for future generations. The greenhouse effect occurs when gases in the atmosphere, such as carbon dioxide, trap heat radiating from Earth's surface, warming the planet. Without any greenhouse effect, Earth would be far too cold to support most life. Ecosystems involve complex interactions between living organisms and their environment.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 2,
+    "ev1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

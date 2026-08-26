@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_005_diffuse_padded",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_005",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This kind of process is frequently referenced in discussions of sustainability. The greenhouse effect is a natural process by which certain gases in Earth's atmosphere, most notably carbon dioxide, methane, and water vapor, trap heat that would otherwise escape back out into space, keeping the planet's surface significantly warmer than it would be without them. Sunlight passes through the atmosphere and warms Earth's surface, which then radiates some of that energy back outward as infrared heat; greenhouse gases absorb a portion of this outgoing infrared radiation and re-emit it in all directions, including back down toward the surface, which effectively traps extra heat within the lower atmosphere. Without any greenhouse effect at all, Earth's average surface temperature would be well below freezing, far too cold to support most life as we know it, so the natural greenhouse effect is actually essential to a habitable planet. The concern with human-caused climate change is not that the greenhouse effect exists, but that burning fossil fuels has sharply increased the concentration of greenhouse gases like carbon dioxide in the atmosphere, intensifying the effect and pushing global average temperatures higher than they would otherwise be. Environmental science as a subject draws on biology, chemistry, and earth science together.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 2,
+    "ev1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

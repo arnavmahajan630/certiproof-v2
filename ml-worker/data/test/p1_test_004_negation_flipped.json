@@ -1,0 +1,15 @@
+{
+  "answer_id": "p1_test_004_negation_flipped",
+  "question_id": "p1",
+  "derived_from_train_id": "p1_train_004",
+  "variant_type": "negation_flipped",
+  "answer_text": "Objects in motion do not simply continue moving unless acted on by an outside force.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p1_c1": 0,
+    "p1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

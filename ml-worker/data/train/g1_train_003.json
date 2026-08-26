@@ -1,0 +1,14 @@
+{
+  "answer_id": "g1_train_003",
+  "question_id": "g1",
+  "style": "x_type_partial_correct",
+  "answer_text": "Seasons are caused by the tilt of Earth's axis.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 2,
+    "g1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_002_typo_injected",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "This is a foundational cnocept in civics. The right to vote is the right of eligible ciitzens to choose their representatives or govrenment through elections. It is usually granetd to citizens who meet certain eligiiblity requirements, such as being above a minimum voting age.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 2,
+    "cv2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_003_confidently_wrong",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_003",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A constant is a name attached to a value that can change while a program runs.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 0,
+    "q4_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

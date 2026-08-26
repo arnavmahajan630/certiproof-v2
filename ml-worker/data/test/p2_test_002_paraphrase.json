@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_002_paraphrase",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "Density relative to water decides whether something floats or sinks, with the buoyant force pushing an object up depending on how much water it displaces.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 2,
+    "p2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

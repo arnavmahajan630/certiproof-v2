@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_005_typo_injected",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "In a democracy, the jduiciary serves as an independent branch of government whose main role is to interpret laws passed by the leigslature and to make sure that both those laws and actions taken by the executive branch remain consistent with the constitution. Because the judiciary is meant to operate independently of the legislature and the executive, it can act as a check on the other two branches rather than simlpy enforcing whatever they decide. One of its most important powers is judiical review, the ability of courts to examine a law or government atcion and strike it down if it's found to violate the constitution. The judiciary also plays a central role in resolving legal disputes between indiviudals, organizations, or between citizens and the government itself, applying the law failry and consistently to reach a binidng decision. Without an independent judiciary willnig to rule against the government when necessary, constitutional limits on power wuold be far harder to actually efnorce in practice.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

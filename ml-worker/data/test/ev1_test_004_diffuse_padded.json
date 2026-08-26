@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_004_diffuse_padded",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_004",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Related environmental concepts are often introduced in the same unit as this topic. The greenhouse effect occurs when sunlight is completely blocked from reaching Earth's surface by clouds. This kind of process is frequently referenced in discussions of sustainability.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 0,
+    "ev1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

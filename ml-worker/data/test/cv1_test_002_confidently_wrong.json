@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_002_confidently_wrong",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A fundamental right is any benefit the government chooses to grant and can freely revoke through ordinary legislation; freedom of speech is still a commonly cited example.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 0,
+    "cv1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

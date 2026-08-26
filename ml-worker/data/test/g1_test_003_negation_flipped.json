@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_003_negation_flipped",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_003",
+  "variant_type": "negation_flipped",
+  "answer_text": "Earth's seasons do not come from the tilt of its rotational axis.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 0,
+    "g1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

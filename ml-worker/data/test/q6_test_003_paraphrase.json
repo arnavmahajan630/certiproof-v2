@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_003_paraphrase",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_003",
+  "variant_type": "paraphrase",
+  "answer_text": "Dividing government responsibilities among branches keeps any single branch from gaining too much control.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

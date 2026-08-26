@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_005_scattered_evidence",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_005",
+  "variant_type": "scattered_evidence",
+  "answer_text": "In programming, a variable is a named location in a computer's memory that can hold a value, and critically, that value can be changed while the program is running \u2014 which is what distinguishes it from a constant. Algorithms and data structures are core building blocks of computer science. When you declare a variable, you're essentially telling the program to set aside some memory and give it a label so you can refer to whatever value is stored there later. This kind of concept often comes up again later in more advanced coursework. For example, in Python, writing `score = 0` creates a variable named score holding the value zero; later in the program you might write `score = score + 10` to update it, and the variable now holds ten instead. Good coding practice generally values clarity as much as raw performance. Variables also have types in most languages \u2014 such as integers, strings, or booleans \u2014 which determine what kind of value they can hold and what operations are valid on them. Debugging tools can help illustrate how this kind of process actually behaves at runtime. Using descriptive variable names, like total_price instead of x, makes code much easier for other people (and your future self) to read and understand.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "e2_test_002_confidently_wrong",
+  "question_id": "e2",
+  "derived_from_train_id": "e2_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Inflation is a sustained fall in prices that increases what money can buy; excess money supply and rising costs are still cited as causes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 0,
+    "e2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_003",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Many real-world problems can be modeled using mathematical concepts. Numbers and their properties form the foundation of arithmetic and algebra. The Pythagorean theorem states that in a right triangle, the square of the hypotenuse, the side opposite the right angle, equals the sum of the squares of the other two sides: a squared plus b squared equals c squared. Mathematics provides tools for reasoning precisely about quantities and relationships.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 2,
+    "m2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

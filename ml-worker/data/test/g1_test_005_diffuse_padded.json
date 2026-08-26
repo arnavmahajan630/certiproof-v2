@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_005_diffuse_padded",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_005",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This kind of geographic process can be observed in many regions around the world. Earth's seasons are caused by the tilt of its rotational axis, currently about 23.5 degrees relative to the plane of its orbit around the sun, and not by any meaningful change in the distance between Earth and the sun over the course of a year, which actually stays fairly constant. As Earth orbits the sun over the course of a year, this axial tilt means different hemispheres are angled either toward or away from the sun at different points in the orbit. When the Northern Hemisphere is tilted toward the sun, it receives more direct sunlight over a longer day, which is experienced as summer there, while the Southern Hemisphere, tilted away at the same time, receives less direct sunlight and experiences winter. Six months later, as Earth continues its orbit, the tilt orientation relative to the sun flips, and the seasons reverse between the two hemispheres. The more direct and prolonged the sunlight a region receives, the more solar energy is delivered per unit area, which is what actually drives the seasonal temperature differences. Textbooks often use case studies to illustrate this kind of geographic concept.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 2,
+    "g1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

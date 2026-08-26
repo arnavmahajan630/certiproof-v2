@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_005_paraphrase",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Operating independently of the legislature and executive, the judiciary interprets laws and checks that both legislation and executive actions stay within constitutional bounds, exercising judicial review to strike down unconstitutional laws and resolving legal disputes between parties \u2014 a role that's essential for actually enforcing constitutional limits on power in practice.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

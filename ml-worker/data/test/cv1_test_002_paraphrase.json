@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_002_paraphrase",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "A right written into the constitution and protected from being taken away by ordinary law is a fundamental right; freedom of speech is a well-known example.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 2,
+    "cv1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

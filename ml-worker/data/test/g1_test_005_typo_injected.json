@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_005_typo_injected",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "Earth's seasons are caused by the tilt of its rotational axis, currently about 23.5 degrees relative to the plane of its orbit aruond the sun, and not by any meaningful change in the distance betewen Earth and the sun over the course of a year, which actulaly stays fairly constant. As Earth obrits the sun over the course of a year, this axial tilt measn different hemispheres are angled either towrad or away from the sun at different points in the orbit. When the Northern Hemisphere is tilted towadr the sun, it receives more driect sunlight over a longer day, wihch is experienced as summer there, whlie the Southern Hemisphere, tilted away at the same time, receives less diretc sunlight and experiences winter. Six mnoths later, as Earth continues its oribt, the tilt orientation relative to the sun flips, and the seasons reveres between the two hemispheres. The more direct and prolonged the sunlight a region receives, the more solar eneryg is delivered per unit area, whcih is what actually drives the seasonla temperature differences.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 2,
+    "g1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

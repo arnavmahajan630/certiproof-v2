@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_005_paraphrase",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Because Earth's axis is tilted roughly 23.5 degrees relative to its orbital plane \u2014 and its distance from the sun barely changes over the year \u2014 different hemispheres end up angled toward or away from the sun at different points in the orbit, giving the tilted-toward hemisphere longer, more direct sunlight (summer) while the other gets winter, then reversing six months later as the tilt's orientation flips relative to the sun.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 2,
+    "g1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

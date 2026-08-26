@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_005_confidently_wrong",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A stack actually pushes at one end and pops from the opposite end, which is what gives it Last In First Out behavior, while a queue still enqueues at the rear and dequeues from the front for First In First Out order, with stacks used for undo/call-tracking and queues for task scheduling.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 0,
+    "q3_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

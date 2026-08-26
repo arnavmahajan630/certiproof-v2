@@ -1,0 +1,14 @@
+{
+  "answer_id": "m2_train_003",
+  "question_id": "m2",
+  "style": "x_type_partial_correct",
+  "answer_text": "In a right triangle, a squared plus b squared equals c squared.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 2,
+    "m2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

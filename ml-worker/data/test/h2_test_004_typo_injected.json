@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_004_typo_injected",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_004",
+  "variant_type": "typo_injected",
+  "answer_text": "World War I began bceause of a direct invasion of Frnace by the United States over traed disagreements.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 0,
+    "h2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

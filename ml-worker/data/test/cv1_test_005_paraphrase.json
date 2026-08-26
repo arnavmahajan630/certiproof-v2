@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_005_paraphrase",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Because fundamental rights are written directly into the constitution rather than ordinary law, the state can't casually strip them away, and courts can enforce them directly through judicial review when legislation conflicts with them \u2014 common examples being free speech, freedom of religion, and a fair trial \u2014 with amendment usually requiring a special constitutional process precisely to insulate these rights from short-term political shifts.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 2,
+    "cv1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

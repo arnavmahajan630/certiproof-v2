@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_005_paraphrase",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "An object floats when its overall density is below water's roughly 1 g/cm\u00b3, because the buoyant force from displaced water (Archimedes' principle) then exceeds its weight \u2014 which is how a steel ship floats despite steel itself being denser than water, since trapped air inside the hull lowers the ship's average density, while a solid steel block with no hollow space stays denser than water throughout and sinks.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 2,
+    "p2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

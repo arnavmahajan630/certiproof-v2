@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_003_scattered_evidence",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_003",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Debates about this kind of institution come up regularly in public discussion. The judiciary's job is to interpret laws and make sure they follow the constitution.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

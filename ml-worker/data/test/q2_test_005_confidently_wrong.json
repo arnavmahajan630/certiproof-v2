@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_005_confidently_wrong",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Water moves passively across a selectively permeable membrane toward whichever side has the LOWER solute concentration, which is what actually drives osmosis, requiring no external energy since the gradient itself is the driver \u2014 this is supposedly why a raisin swells up in water.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 0,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

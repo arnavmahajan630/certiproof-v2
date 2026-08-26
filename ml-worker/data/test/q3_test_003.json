@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_003",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Data structures are fundamental building blocks in computer science, used to organize and store data efficiently. There are many types, each suited to different tasks. Arrays store elements in contiguous memory. A stack follows LIFO order \u2014 the last item added is the first removed, like a stack of plates. A queue follows FIFO order \u2014 the first item added is the first removed, like people in a line. Understanding these differences helps in choosing the right structure for a problem.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

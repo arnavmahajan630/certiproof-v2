@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_004_paraphrase",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_004",
+  "variant_type": "paraphrase",
+  "answer_text": "Biodiversity refers to the total number of people living within a particular country or region.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 0,
+    "ev2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

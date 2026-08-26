@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_005_negation_flipped",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Earth's axial tilt does not cause hemispheres to angle toward or away from the sun at different points in orbit \u2014 that isn't the mechanism \u2014 even though Earth's distance from the sun still barely changes over the year, and the seasons are still said to reverse every six months as orientation flips.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 0,
+    "g1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

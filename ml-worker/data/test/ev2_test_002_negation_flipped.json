@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_002_negation_flipped",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "Biodiversity is not the range of species and organisms living in an ecosystem; higher biodiversity is still said to make ecosystems more resilient.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 0,
+    "ev2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

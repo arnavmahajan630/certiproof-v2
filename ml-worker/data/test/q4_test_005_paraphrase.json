@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_005_paraphrase",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "A variable names a spot in memory that can hold a changing value, unlike a constant, and declaring one \u2014 like `score = 0` \u2014 reserves that memory and labels it so the program can update it later, e.g. `score = score + 10`; most languages also type variables (integer, string, boolean) to constrain valid operations, and descriptive names like total_price over x make code far more readable.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_004_paraphrase",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_004",
+  "variant_type": "paraphrase",
+  "answer_text": "A fundamental right is any privilege the government hands out that can be revoked at will by a new law.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 0,
+    "cv1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

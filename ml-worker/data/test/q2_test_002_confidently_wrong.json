@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_002_confidently_wrong",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Osmosis is when solute particles move across a semipermeable membrane toward the side with more water, not the other way around.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 0,
+    "q2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

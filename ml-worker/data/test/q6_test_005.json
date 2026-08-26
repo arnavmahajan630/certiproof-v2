@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_005",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "Separation of powers is not really necessary since concentrating authority in a single branch makes government more efficient and reduces the need for checks and balances.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 0,
+    "q6_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

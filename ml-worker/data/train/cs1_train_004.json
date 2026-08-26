@@ -1,0 +1,14 @@
+{
+  "answer_id": "cs1_train_004",
+  "question_id": "cs1",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "Recursion is when a program runs two functions at the same time using multiple threads.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cs1_c1": 0,
+    "cs1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

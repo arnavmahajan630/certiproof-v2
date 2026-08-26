@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_002_paraphrase",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "In a stack, the most recently pushed item is popped first (LIFO); in a queue, the earliest enqueued item is dequeued first (FIFO).",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

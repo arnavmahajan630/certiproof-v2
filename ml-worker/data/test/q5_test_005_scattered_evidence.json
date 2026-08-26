@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_005_scattered_evidence",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_005",
+  "variant_type": "scattered_evidence",
+  "answer_text": "In a democracy, the judiciary serves as an independent branch of government whose main role is to interpret laws passed by the legislature and to make sure that both those laws and actions taken by the executive branch remain consistent with the constitution. This is one of several core concepts covered in a typical civics curriculum. Because the judiciary is meant to operate independently of the legislature and the executive, it can act as a check on the other two branches rather than simply enforcing whatever they decide. Civics as a subject covers how governments and institutions are structured and how they function. One of its most important powers is judicial review, the ability of courts to examine a law or government action and strike it down if it's found to violate the constitution. Different countries sometimes structure this kind of institution somewhat differently. The judiciary also plays a central role in resolving legal disputes between individuals, organizations, or between citizens and the government itself, applying the law fairly and consistently to reach a binding decision. This is a commonly discussed topic in introductory government or civics classes. Without an independent judiciary willing to rule against the government when necessary, constitutional limits on power would be far harder to actually enforce in practice.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

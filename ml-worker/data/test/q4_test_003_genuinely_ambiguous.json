@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_003_genuinely_ambiguous",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_003",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "I think this is possibly related to a variable is in programming, but I'm not totally certain.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 1,
+    "q4_c2": 1
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

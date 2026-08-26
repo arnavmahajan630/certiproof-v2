@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_004_scattered_evidence",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_004",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Understanding this concept is often considered part of basic civic literacy. The judiciary is responsible for creating new laws and passing the annual budget for the country.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 0,
+    "q5_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,14 @@
+{
+  "answer_id": "q4_train_001",
+  "question_id": "q4",
+  "style": "x_type_full_correct",
+  "answer_text": "A variable is a named storage location in memory that holds a value which can change during program execution. For example, in Python, writing `age = 25` creates a variable called age that stores the value 25.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_002_typo_injected",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "Separation of powers is a foundational principle in democratic governance wehre authority is split between the leigslature, which makes laws, the executive, whihc enforces them, and the judiciary, wihch interprets them. This division prevents any one branch from accumulating excessive poewr and becoming authoritarian. Checks and balancse support this system \u2014 for exmaple, the executive can veto legislation passde by the legislature, but the legislatuer can override that veto with a sufficient majority.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

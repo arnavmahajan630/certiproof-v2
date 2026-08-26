@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_007",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_001",
+  "variant_type": "typo_injected",
+  "answer_text": "The judicary interprets the laws made by the legislature and ensures that they are consistant with the constituton. For example, courts can strike down a law through judicial review if it violates constitutional provisons.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

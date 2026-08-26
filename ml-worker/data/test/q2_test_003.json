@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_003",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Cells are the basic unit of life and carry out many processes to stay alive. They have membranes that regulate what enters and exits. Different cells have different shapes depending on their function. Osmosis is the movement of water across a semipermeable membrane from low solute concentration to high solute concentration until equilibrium is reached, and a raisin placed in water swelling up is a common example of this. Cells also perform respiration to produce energy.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

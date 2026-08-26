@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_002_paraphrase",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "A named memory location whose stored value is allowed to change while a program runs is called a variable; `count = 5` is one example of declaring one.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

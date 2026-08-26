@@ -1,0 +1,14 @@
+{
+  "answer_id": "q1_train_001",
+  "question_id": "q1",
+  "style": "x_type_full_correct",
+  "answer_text": "Chlorophyll in plant cells absorbs red and blue light for photosynthesis but reflects green light, which is why plants appear green to us.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

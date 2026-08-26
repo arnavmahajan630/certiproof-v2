@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_005_paraphrase",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "By dividing authority among a law-making legislature, a law-enforcing executive, and a law-interpreting judiciary, separation of powers prevents any one branch from accumulating unchecked authority, reinforced by checks and balances like a legislature overriding an executive veto or a judiciary striking down an unconstitutional law \u2014 meaning major decisions typically need agreement across more than one branch.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

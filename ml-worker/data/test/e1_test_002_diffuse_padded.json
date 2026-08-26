@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_002_diffuse_padded",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_002",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Related economic concepts are often introduced in the same unit as this topic. This is a foundational concept in economics. The law of supply and demand states that when demand for a good exceeds its supply, the price tends to rise, and when supply exceeds demand, the price tends to fall. For example, prices for a popular new phone often rise when initial demand outpaces available stock. This kind of concept comes up regularly in discussions of everyday markets.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 2,
+    "e1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

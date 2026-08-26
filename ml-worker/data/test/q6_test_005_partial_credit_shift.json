@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_005_partial_credit_shift",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Separation of powers is a foundational principle of democratic government in which authority is divided among three distinct branches: the legislature, which makes laws; the executive, which enforces and administers them; and the judiciary, which interprets them and resolves disputes arising under them. The core purpose of dividing power this way is to prevent any single branch from accumulating too much authority and becoming tyrannical, since concentrated, unchecked power in one body has historically been a common path toward abuse.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

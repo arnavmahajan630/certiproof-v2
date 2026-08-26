@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_008",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_001",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "It's about making sure the government works properly and different parts do different jobs so nothing goes wrong.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 0.5,
+    "q6_c2": 0.5
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

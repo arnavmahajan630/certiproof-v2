@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_005_negation_flipped",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "A variable does not name a memory location whose value is allowed to change \u2014 that isn't what makes it a variable \u2014 even though declaring one still reserves and labels memory for later updates, most languages still type variables to constrain operations, and descriptive names like total_price over x still improve readability.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 0,
+    "q4_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

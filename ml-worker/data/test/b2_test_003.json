@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_003",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Cells are considered the basic unit of life in most organisms. Different species have evolved a wide range of adaptations over time. Enzymes are proteins that act as biological catalysts, speeding up chemical reactions in the body without being consumed or changed by the reaction themselves. Living organisms carry out many complex processes to survive and reproduce.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 2,
+    "b2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

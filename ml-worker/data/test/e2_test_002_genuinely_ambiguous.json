@@ -1,0 +1,15 @@
+{
+  "answer_id": "e2_test_002_genuinely_ambiguous",
+  "question_id": "e2",
+  "derived_from_train_id": "e2_train_002",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "It could be connected to inflation means in economics in some way, though the details are a bit unclear to me.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 1,
+    "e2_c2": 1
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

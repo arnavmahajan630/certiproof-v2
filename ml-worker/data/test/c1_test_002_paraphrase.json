@@ -1,0 +1,15 @@
+{
+  "answer_id": "c1_test_002_paraphrase",
+  "question_id": "c1",
+  "derived_from_train_id": "c1_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "Heat is given off to the surroundings during an exothermic reaction, warming the area around it; burning wood is a typical example.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c1_c1": 2,
+    "c1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

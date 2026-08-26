@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_003_paraphrase",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_003",
+  "variant_type": "paraphrase",
+  "answer_text": "A variable is a name attached to a value that's allowed to change as the program executes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

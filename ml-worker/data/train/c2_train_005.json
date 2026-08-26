@@ -1,0 +1,14 @@
+{
+  "answer_id": "c2_train_005",
+  "question_id": "c2",
+  "style": "x_type_long_paragraph",
+  "answer_text": "Acids and bases are two categories of chemical compounds that behave very differently when dissolved in water, and chemists commonly distinguish them by the ions they release. An acid releases hydrogen ions (H+) when dissolved in water, and the more it does so, the more acidic the solution is, which corresponds to a pH value below 7 on the standard pH scale. A base, by contrast, releases hydroxide ions (OH-) when dissolved in water, corresponding to a pH above 7; the higher the concentration of hydroxide ions, the more strongly basic (or alkaline) the solution is. Pure water sits right in the middle at pH 7, which is considered neutral because it contains an exactly balanced, very small concentration of both H+ and OH- ions. Common household examples include lemon juice and vinegar, which are acidic, and soap or baking soda solutions, which are basic. When an acid and a base are mixed together in the right proportions, they undergo a neutralization reaction, typically producing water and a salt.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 2,
+    "c2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

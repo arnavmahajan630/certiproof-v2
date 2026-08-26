@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_005_negation_flipped",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "A stack does not push and pop from the same end to get Last In First Out behavior \u2014 that isn't how it works \u2014 even though a queue does still enqueue at the rear and dequeue from the front for First In First Out behavior, and stacks are still used for undo/call-tracking while queues suit task scheduling.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 0,
+    "q3_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "g1_test_002_paraphrase",
+  "question_id": "g1",
+  "derived_from_train_id": "g1_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "Earth's axial tilt, not its distance from the sun, causes the seasons by changing how directly sunlight hits each hemisphere over the year.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 2,
+    "g1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,14 @@
+{
+  "answer_id": "m1_train_004",
+  "question_id": "m1",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "A prime number is any number that is odd and cannot be divided by 2.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 0,
+    "m1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

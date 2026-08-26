@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_005",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "Density has nothing to do with whether an object floats or sinks in water; it's determined entirely by the object's color.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 0,
+    "p2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

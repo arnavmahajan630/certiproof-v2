@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_002_confidently_wrong",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A trade dispute between Britain and Germany triggered World War I; alliances, militarism, and nationalism are still cited as underlying causes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 0,
+    "h2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

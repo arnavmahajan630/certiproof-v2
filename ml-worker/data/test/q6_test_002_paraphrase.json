@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_002_paraphrase",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "Splitting government power across branches keeps any one branch from becoming too powerful; a veto that the legislature can override is one example of checks and balances.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

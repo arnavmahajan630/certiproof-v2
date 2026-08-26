@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_005_partial_credit_shift",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "A stack and a queue are both linear data structures used to store an ordered collection of elements, but they differ in the order elements come back out. A stack follows Last In First Out (LIFO) ordering: both insertion (push) and removal (pop) happen at the same end, called the top, so the most recently added element is always the first one removed, much like a stack of plates where you can only take from the top.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

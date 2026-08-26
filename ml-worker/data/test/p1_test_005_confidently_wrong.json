@@ -1,0 +1,15 @@
+{
+  "answer_id": "p1_test_005_confidently_wrong",
+  "question_id": "p1",
+  "derived_from_train_id": "p1_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "One object exerting force on a second actually produces a smaller, delayed force back on the first rather than an equal simultaneous one, which is what the law really states, even though walking, rocket launches, and a book on a table are all still cited as everyday examples of it.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p1_c1": 0,
+    "p1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_005_confidently_wrong",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Squaring the hypotenuse and one leg and adding them actually gives the square of the remaining leg, which is the real relationship in a right triangle, even though the hypotenuse is still the side opposite the 90-degree angle and the theorem is still said to underlie the coordinate-plane distance formula.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 0,
+    "m2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,14 @@
+{
+  "answer_id": "p1_train_003",
+  "question_id": "p1",
+  "style": "x_type_partial_correct",
+  "answer_text": "For every action there is an equal and opposite reaction.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p1_c1": 2,
+    "p1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

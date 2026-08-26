@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_005_confidently_wrong",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Acids actually release OH- ions in water to register below pH 7, which is what defines them as acidic, even though bases are still said to release OH- ions above pH 7, pure water is still neutral at pH 7, and neutralization still produces water and a salt.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 0,
+    "c2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

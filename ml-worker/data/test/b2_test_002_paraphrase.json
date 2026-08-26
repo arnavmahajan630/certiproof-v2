@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_002_paraphrase",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "As biological catalysts, enzymes make chemical reactions in the body proceed faster, and they come out of the reaction unchanged.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 2,
+    "b2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

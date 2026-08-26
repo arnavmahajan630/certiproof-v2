@@ -1,0 +1,15 @@
+{
+  "answer_id": "m1_test_003_negation_flipped",
+  "question_id": "m1",
+  "derived_from_train_id": "m1_train_003",
+  "variant_type": "negation_flipped",
+  "answer_text": "A prime number is not only evenly divisible by 1 and itself.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 0,
+    "m1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,14 @@
+{
+  "answer_id": "q6_train_001",
+  "question_id": "q6",
+  "style": "x_type_full_correct",
+  "answer_text": "Separation of powers divides government authority among the legislature, executive, and judiciary so that no single branch can dominate the others. This is reinforced through checks and balances, such as the judiciary being able to declare an executive action unconstitutional.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_002_confidently_wrong",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Enzymes slow down chemical reactions in the body to keep metabolism stable; they are not consumed by the reaction.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 0,
+    "b2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

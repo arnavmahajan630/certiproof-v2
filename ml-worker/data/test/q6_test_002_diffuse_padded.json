@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_002_diffuse_padded",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_002",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Civics as a subject covers how governments and institutions are structured and how they function. Separation of powers is a foundational principle in democratic governance where authority is split between the legislature, which makes laws, the executive, which enforces them, and the judiciary, which interprets them. This division prevents any one branch from accumulating excessive power and becoming authoritarian. Checks and balances support this system \u2014 for example, the executive can veto legislation passed by the legislature, but the legislature can override that veto with a sufficient majority. Different countries sometimes structure this kind of institution somewhat differently.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

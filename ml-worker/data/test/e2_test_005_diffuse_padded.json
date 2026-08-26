@@ -1,0 +1,15 @@
+{
+  "answer_id": "e2_test_005_diffuse_padded",
+  "question_id": "e2",
+  "derived_from_train_id": "e2_train_005",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This topic connects to several other core ideas covered in introductory economics. Inflation refers to a general and sustained increase in the overall price level of goods and services across an economy over time, which means that, on average, the same amount of money buys progressively less than it used to. This erosion of money's purchasing power is the key practical consequence of inflation: if your income doesn't rise at least as fast as prices are rising, your real standard of living effectively falls even though the number on your paycheck stays the same or grows more slowly. Inflation can be driven by a number of different causes, including too much money circulating in an economy relative to the goods and services available (sometimes called demand-pull inflation), or rising costs of production, such as wages or raw materials, being passed on to consumers as higher prices (cost-push inflation). Central banks, like the Federal Reserve in the United States, often try to keep inflation at a low, stable, and predictable rate, typically citing something like 2% per year as a common target, since both very high inflation and outright deflation (falling prices) tend to cause serious economic problems. Understanding this concept is useful background for later coursework in economics.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 2,
+    "e2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

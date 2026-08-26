@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.smoke/
+.test_proofs/
+app/models/zone2_circuit/
+app/models/proofs/
+.env
+*.log

@@ -1,0 +1,14 @@
+{
+  "answer_id": "q4_train_004",
+  "question_id": "q4",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "A variable is a type of loop that repeats a block of code multiple times.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 0,
+    "q4_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

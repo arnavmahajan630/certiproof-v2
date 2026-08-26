@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_002_confidently_wrong",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_002",
+  "variant_type": "confidently_wrong",
+  "answer_text": "The right to vote refers to a government official's ability to choose which citizens may run for office; it is still tied to age and citizenship rules.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 0,
+    "cv2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

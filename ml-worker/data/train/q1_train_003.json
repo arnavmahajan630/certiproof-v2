@@ -1,0 +1,14 @@
+{
+  "answer_id": "q1_train_003",
+  "question_id": "q1",
+  "style": "x_type_partial_correct",
+  "answer_text": "Plants look green because chlorophyll reflects green light instead of absorbing it.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

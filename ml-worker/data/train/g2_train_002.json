@@ -1,0 +1,14 @@
+{
+  "answer_id": "g2_train_002",
+  "question_id": "g2",
+  "style": "x_type_longer_explanation",
+  "answer_text": "This is a foundational concept in geography. A delta is a landform created when a river deposits sediment as it flows into a larger body of water, such as an ocean or lake, causing the river to split into multiple smaller channels. The Nile Delta in Egypt is a well-known example.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g2_c1": 2,
+    "g2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

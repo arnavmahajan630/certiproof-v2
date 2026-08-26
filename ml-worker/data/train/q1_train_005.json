@@ -1,0 +1,14 @@
+{
+  "answer_id": "q1_train_005",
+  "question_id": "q1",
+  "style": "x_type_long_paragraph",
+  "answer_text": "The green color of most plants comes down to a pigment called chlorophyll, which is packed inside chloroplasts in plant cells. Chlorophyll is very good at absorbing light in the red and blue parts of the visible spectrum, and it uses the energy from that absorbed light to drive photosynthesis, the process that converts carbon dioxide and water into glucose and oxygen. Green wavelengths of light, however, are largely not absorbed by chlorophyll \u2014 instead they are reflected back out of the leaf. Because our eyes perceive whatever wavelength of light reaches them, and in this case that is mostly the reflected green light, we see the plant as green. In autumn, when chlorophyll breaks down faster than it's replaced, other pigments like carotenoids become visible, which is why leaves can turn yellow or orange.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

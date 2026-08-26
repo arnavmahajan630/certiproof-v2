@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_002_diffuse_padded",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_002",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Mathematics as a subject builds heavily on concepts introduced in earlier coursework. This is a foundational concept in mathematics. The Pythagorean theorem states that in a right triangle, the square of the hypotenuse, the side opposite the right angle, equals the sum of the squares of the other two sides: a squared plus b squared equals c squared. This is a topic commonly covered in a standard mathematics curriculum.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 2,
+    "m2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "b1_test_005_negation_flipped",
+  "question_id": "b1",
+  "derived_from_train_id": "b1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Hemoglobin-packed red blood cells do not bind oxygen in the lungs for delivery to tissues \u2014 that isn't their function \u2014 even though lacking a nucleus does leave more room for hemoglobin, lets them fit through narrow capillaries, and means bone marrow must constantly replace them since they can't repair themselves.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b1_c1": 0,
+    "b1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

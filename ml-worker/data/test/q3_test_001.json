@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_001",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "A queue processes elements in the order they arrived \u2014 First In First Out \u2014 much like people waiting in a line. A stack does the opposite, removing the most recently added element first, which is Last In First Out, similar to a stack of plates where you take from the top.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

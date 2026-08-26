@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_005_scattered_evidence",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_005",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Osmosis is the passive movement of water molecules across a semipermeable membrane, one that lets water through but blocks larger solute particles. Biological systems tend to be highly interconnected, so one process often affects several others. Water moves from a region where solute concentration is low (and therefore water concentration is relatively high) toward a region where solute concentration is high, and this continues until the concentration is equal on both sides of the membrane, or until some opposing pressure balances it out. Some related biological topics are covered in more advanced coursework later on. No outside energy input is required because the process is driven purely by the concentration gradient, which is why it's classified as passive transport rather than active transport. Diagrams are often used in class to illustrate this kind of biological process. A classic classroom demonstration is placing a raisin in plain water: water moves into the raisin's cells because the solute concentration inside the dried fruit is much higher than in the surrounding water, causing the raisin to swell up.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

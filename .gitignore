@@ -1,0 +1,72 @@
+# --- Node (gateway, frontend) ---
+node_modules/
+npm-debug.log*
+.npm/
+dist/
+.vite/
+
+# --- Python (ml-worker) ---
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- Secrets / local env ---
+.env
+.env.local
+!.env.example
+
+# --- Gateway runtime state (regenerated, not source) ---
+gateway/data/*.db
+gateway/data/*.db-shm
+gateway/data/*.db-wal
+gateway/data/scorecards/
+
+# --- ML-Worker runtime/generated artifacts (RCAJ-X) ---
+# Everything needed to TRAIN on another machine after a plain `git clone` IS
+# committed: data/raw/rubrics.json, data/train/*.json, data/test/*.json (all
+# already un-ignored, not listed below), plus rcaj_x_best.pt and rcajx.onnx
+# (small, deterministic training output). Deliberately NOT committed:
+#   - bge_small_finetuned/ -- its model.safetensors is ~127MB, over GitHub's
+#     100MB plain-git limit (not worth a Git LFS dependency for one file).
+#     app/rcajx/preprocessing.py and app/rcajx/model_hash.py both fall back to
+#     the public un-fine-tuned base encoder (BAAI/bge-small-en-v1.5, downloaded
+#     from Hugging Face automatically) when this directory is missing, so a
+#     fresh clone still runs -- regenerate the fine-tuned checkpoint with
+#     `python training/finetune_encoder.py` (needs data/train + data/test,
+#     both already committed) for full quality.
+#   - the EZKL circuit artifacts -- rebuilt on a separate, RAM-heavier machine,
+#     see ml-worker/README.md "Circuit setup" and TRAINING_AND_EZKL_PLAN.md.
+ml-worker/app/models/rcajx/bge_small_finetuned/
+ml-worker/app/models/rcajx/rcajx_circuit/
+ml-worker/app/models/rcajx/proofs/
+# Stale Zone2-era demo proofs, superseded -- kept on disk, not tracked.
+ml-worker/app/models/proofs/
+ml-worker/data/*_embedded.pt
+ml-worker/data/rubric_cache/
+ml-worker/results/
+ml-worker/.smoke/
+ml-worker/.poseidon_smoke/
+ml-worker/.test_proofs/
+ml-worker/smoke_test_artifacts/
+
+# Hugging Face / EZKL local caches, if ever pointed at an in-repo path
+.cache/
+.ezkl/
+
+# --- Test run outputs (ephemeral, timestamped) ---
+scripts/results_*_test/
+
+# --- Docker ---
+*.pid
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/

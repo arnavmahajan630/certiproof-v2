@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_002_negation_flipped",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "The hypotenuse squared does not equal the sum of the squares of the two legs; the hypotenuse is still the side opposite the right angle.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 0,
+    "m2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

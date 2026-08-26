@@ -1,0 +1,15 @@
+{
+  "answer_id": "m1_test_003_diffuse_padded",
+  "question_id": "m1",
+  "derived_from_train_id": "m1_train_003",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This is one of several foundational ideas typically covered in this area of math. A prime number can only be divided evenly by 1 and itself. Related mathematical concepts are often introduced in the same unit as this topic.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 2,
+    "m1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

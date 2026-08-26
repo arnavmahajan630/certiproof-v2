@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_005_confidently_wrong",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Gutenberg's press was actually slower and more expensive per page than skilled scribes copying by hand, which limited its early impact, even though books were still scarce and expensive before it, and the press is still credited with fueling literacy and the Reformation.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 0,
+    "h1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

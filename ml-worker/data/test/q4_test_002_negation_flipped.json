@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_002_negation_flipped",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "A variable is not a named storage location holding a value that can change; `count = 5` is an example of declaring one.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 0,
+    "q4_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

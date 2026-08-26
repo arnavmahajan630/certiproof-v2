@@ -1,0 +1,15 @@
+{
+  "answer_id": "c1_test_003_genuinely_ambiguous",
+  "question_id": "c1",
+  "derived_from_train_id": "c1_train_003",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "This seems like it might involve happens during an exothermic reaction, but I wouldn't want to state that too confidently.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c1_c1": 1,
+    "c1_c2": 1
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

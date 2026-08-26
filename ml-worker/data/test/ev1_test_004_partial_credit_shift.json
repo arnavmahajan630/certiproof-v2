@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_004_partial_credit_shift",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_004",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "The greenhouse effect occurs when sunlight is",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 0,
+    "ev1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,7 @@
+# Extra deps needed only for retraining (training/ scripts), not the API runtime.
+# Install with: pip install -r requirements.txt -r requirements-training.txt
+-r requirements.txt
+scikit-learn
+pandas
+datasets
+accelerate>=1.1.0

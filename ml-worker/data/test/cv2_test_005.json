@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_005",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "The right to vote means citizens have no role in choosing government representatives, as this is decided entirely by appointed officials.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 0,
+    "cv2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

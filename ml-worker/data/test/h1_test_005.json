@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_005",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "The printing press slowed down the spread of information because books became more expensive and harder to produce than by hand.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 0,
+    "h1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

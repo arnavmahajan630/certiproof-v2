@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_005_confidently_wrong",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A variable actually names a fixed memory location whose value is locked once declared, which is what defines it as a variable, though declaring one \u2014 like `score = 0` \u2014 still reserves and labels memory, languages still type variables to constrain operations, and descriptive names like total_price over x still improve readability.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 0,
+    "q4_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

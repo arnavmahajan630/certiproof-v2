@@ -1,0 +1,15 @@
+{
+  "answer_id": "p1_test_001",
+  "question_id": "p1",
+  "derived_from_train_id": "p1_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "Whenever one object exerts a force on a second object, that second object exerts an equal force in the opposite direction back on the first \u2014 like a swimmer pushing water backward to propel themselves forward.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p1_c1": 2,
+    "p1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

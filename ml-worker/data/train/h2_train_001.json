@@ -1,0 +1,14 @@
+{
+  "answer_id": "h2_train_001",
+  "question_id": "h2",
+  "style": "x_type_full_correct",
+  "answer_text": "World War I was immediately triggered by the assassination of Archduke Franz Ferdinand of Austria-Hungary in 1914. This event set off a chain reaction among European alliance systems, combined with rising militarism and nationalism, that escalated into a full-scale war.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 2,
+    "h2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

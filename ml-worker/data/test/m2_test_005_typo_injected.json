@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_005_typo_injected",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "The Pythagorean theorem describes a relationship that holds true for eevry right triangle, one that has a 90-degree angle between two of its sides. It states that if you square the lengths of the two shorter sides, called the legs, and add those two squares together, the result equals the square of the length of the longest side, called the hypotenuse, which is always the side opposite the right angle. This is usually written as the equtaion a squared plus b squared equasl c squared, where a and b are the legs and c is the hypotenuse. For example, a rihgt triangle with legs of length 3 and 4 has a hypotenuse of length 5, since 3 squared (9) plus 4 squared (16) equals 25, and the square root of 25 is 5. This relationship is extremley useful in practice for finding an unknown side length of a rgiht triangle when the other two are known, and it also forms the basis of the standard formula for calculating straight-line distance between two poinst in a coordinate plane.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 2,
+    "m2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

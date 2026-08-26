@@ -1,0 +1,15 @@
+{
+  "answer_id": "q2_test_002",
+  "question_id": "q2",
+  "derived_from_train_id": "q2_train_001",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Cell membranes control what moves in and out of a cell. Water is one of the substances that can pass through freely. It moves from an area of low solute concentration to an area of high solute concentration until the system reaches equilibrium. A raisin dropped in water will swell up because of this movement.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q2_c1": 2,
+    "q2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

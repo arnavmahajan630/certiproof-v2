@@ -1,0 +1,15 @@
+{
+  "answer_id": "g2_test_005_confidently_wrong",
+  "question_id": "g2",
+  "derived_from_train_id": "g2_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "A river's current actually speeds up as it enters a larger body of water, which is what deposits sediment and builds a delta, even though the Nile and Mississippi deltas are still cited as examples, and deltas are still described as fertile, fan-shaped landforms.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g2_c1": 0,
+    "g2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

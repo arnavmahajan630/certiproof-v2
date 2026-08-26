@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_002_paraphrase",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "The range of species and organisms living in a given ecosystem or on Earth as a whole is called biodiversity, and higher biodiversity generally makes ecosystems more resilient.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 2,
+    "ev2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

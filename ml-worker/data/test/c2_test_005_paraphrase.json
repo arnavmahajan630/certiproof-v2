@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_005_paraphrase",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "In water, acids release H+ ions and sit below pH 7, while bases release OH- ions and sit above pH 7, with pure water neutral at pH 7 from a balanced tiny concentration of both ions; lemon juice and vinegar are common acidic examples, soap and baking soda are common basic ones, and mixing an acid with a base in the right ratio neutralizes into water and a salt.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 2,
+    "c2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

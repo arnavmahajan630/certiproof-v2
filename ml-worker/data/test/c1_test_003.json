@@ -1,0 +1,15 @@
+{
+  "answer_id": "c1_test_003",
+  "question_id": "c1",
+  "derived_from_train_id": "c1_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Chemical reactions are involved in countless everyday processes. The periodic table organizes elements based on their properties. In an exothermic reaction, energy is released to the surroundings, usually in the form of heat, causing the temperature around the reaction to rise. Combustion, such as burning wood, is a common example. Matter can exist in several different states depending on temperature and pressure.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c1_c1": 2,
+    "c1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

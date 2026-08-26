@@ -1,0 +1,13 @@
+{
+  "batch_id": "batch_1aa269ff-f422-48ff-9dd9-510efa882c49",
+  "clean": {
+    "evaluation_id": "eval_314d21e8-80bb-4dc2-815e-d75ec6bfa0f2",
+    "final_score": 68.1951904296875,
+    "note": "untouched, verifies clean"
+  },
+  "tampered": {
+    "evaluation_id": "eval_f7c80e9a-99ca-4c9e-8602-d180aed07b80",
+    "original_final_score": 57.689208984375,
+    "note": "witness-substitution vector: criterion_scores_json fabricated after proving; proof itself still structurally valid, witness_hash check catches it"
+  }
+}

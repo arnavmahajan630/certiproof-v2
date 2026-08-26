@@ -1,0 +1,15 @@
+{
+  "answer_id": "b1_test_003_paraphrase",
+  "question_id": "b1",
+  "derived_from_train_id": "b1_train_003",
+  "variant_type": "paraphrase",
+  "answer_text": "Hemoglobin inside red blood cells is what carries oxygen throughout the body.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b1_c1": 2,
+    "b1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

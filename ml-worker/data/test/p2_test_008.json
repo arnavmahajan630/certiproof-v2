@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_008",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_001",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "It depends on the object's material and how heavy it feels compared to water somehow.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 0.5,
+    "p2_c2": 0.5
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

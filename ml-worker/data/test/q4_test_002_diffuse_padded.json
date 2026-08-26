@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_002_diffuse_padded",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_002",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This is a common topic covered early in an introductory programming course. In programming, a variable acts as a label for a location in a computer's memory where data can be stored and later retrieved or modified. Variables are given names so the programmer can refer to the stored value throughout the program. For instance, `total = 0` declares a variable named total and initializes it with the value zero, and later the program might update it with `total = total + 10`. Software engineers deal with concepts like this on a regular basis.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

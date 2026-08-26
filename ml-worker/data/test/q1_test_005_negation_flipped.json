@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_005_negation_flipped",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Chlorophyll inside chloroplasts does not reflect green light back out \u2014 the plant's greenness isn't explained that way \u2014 even though chlorophyll does absorb red and blue light to fuel photosynthesis, and this same breakdown pattern is why autumn leaves reveal other pigments.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 0,
+    "q1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

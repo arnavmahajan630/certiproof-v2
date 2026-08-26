@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_005_paraphrase",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Gutenberg's movable-type press let pages be printed far faster and cheaper than hand-copying by scribes, replacing a process that had kept books scarce and expensive; the resulting mass availability of printed material fueled rising literacy and rapid spread of ideas across Europe, playing a direct role in events like the Protestant Reformation as Luther's writings spread faster than authorities could suppress them.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 2,
+    "h1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

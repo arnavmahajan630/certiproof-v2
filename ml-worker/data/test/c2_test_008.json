@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_008",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_001",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "One of them is more sour and the other is more like soap, and they're on opposite ends of some scale.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 0.5,
+    "c2_c2": 0.5
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

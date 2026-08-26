@@ -1,0 +1,15 @@
+{
+  "answer_id": "cs2_test_005_negation_flipped",
+  "question_id": "cs2",
+  "derived_from_train_id": "cs2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Compiled languages like C or Rust are not fully translated into machine code ahead of time by a compiler \u2014 that isn't what defines them as compiled \u2014 even though interpreted languages like Python are still executed statement-by-statement at runtime, compiled code still tends to run faster, and Java-style bytecode-plus-VM still blurs the line.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cs2_c1": 0,
+    "cs2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

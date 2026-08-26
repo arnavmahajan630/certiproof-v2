@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_005_partial_credit_shift",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "The green color of most plants comes down to a pigment called chlorophyll, which is packed inside chloroplasts in plant cells. Chlorophyll is very good at absorbing light in the red and blue parts of the visible spectrum, and it uses the energy from that absorbed light to drive photosynthesis, the process that converts carbon dioxide and water into glucose and oxygen.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

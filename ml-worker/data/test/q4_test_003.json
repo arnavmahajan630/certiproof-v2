@@ -1,0 +1,15 @@
+{
+  "answer_id": "q4_test_003",
+  "question_id": "q4",
+  "derived_from_train_id": "q4_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Programming languages provide many tools for organizing logic and data. Loops allow repeated execution of code. Functions group reusable blocks of logic. A variable is a named storage location in memory that holds a value which can change during execution \u2014 for example, `age = 25` creates a variable called age holding the value 25. Conditionals allow branching based on certain values.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q4_c1": 2,
+    "q4_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

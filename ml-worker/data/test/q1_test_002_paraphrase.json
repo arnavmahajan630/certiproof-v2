@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_002_paraphrase",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "Chlorophyll bounces green wavelengths back out rather than absorbing them, which is why we see plants as green; it does soak up red and blue light to power photosynthesis.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

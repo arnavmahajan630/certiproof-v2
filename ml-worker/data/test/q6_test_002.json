@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_002",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_001",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Governments organize authority in different ways depending on their structure. In many democracies, power is split among the legislature, executive, and judiciary so that no single branch dominates. As a concrete example of this balance, the judiciary can declare an executive action unconstitutional, which is a check on executive power.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

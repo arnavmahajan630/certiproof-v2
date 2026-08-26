@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_005_negation_flipped",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Dividing authority among the legislature, executive, and judiciary does not prevent any one branch from accumulating unchecked power \u2014 that isn't the purpose \u2014 even though checks and balances like an overridable veto or judicial review are still cited as examples, and major decisions are still said to need cross-branch agreement.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 0,
+    "q6_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

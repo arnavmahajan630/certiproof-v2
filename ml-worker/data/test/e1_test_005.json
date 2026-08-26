@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_005",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "Prices fall when demand exceeds supply and rise when supply exceeds demand.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 0,
+    "e1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

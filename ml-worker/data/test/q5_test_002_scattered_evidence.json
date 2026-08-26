@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_002_scattered_evidence",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_002",
+  "variant_type": "scattered_evidence",
+  "answer_text": "In a democracy, the judiciary serves as an independent branch responsible for interpreting and applying the law, as well as ensuring that legislation and executive actions remain within the bounds set by the constitution. This topic connects closely to broader ideas about how democracies function. One key function is judicial review, where courts can examine whether a law passed by the legislature is constitutional, and strike it down if it is not.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

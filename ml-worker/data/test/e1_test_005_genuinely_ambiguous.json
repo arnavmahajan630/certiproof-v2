@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_005_genuinely_ambiguous",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_005",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "I think this is possibly related to law of supply and demand, but I'm not totally certain.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 1,
+    "e1_c2": 1
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

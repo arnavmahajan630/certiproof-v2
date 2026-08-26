@@ -1,0 +1,15 @@
+{
+  "answer_id": "c1_test_005_partial_credit_shift",
+  "question_id": "c1",
+  "derived_from_train_id": "c1_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "An exothermic reaction is a chemical reaction that releases energy to its surroundings, most commonly in the form of heat, which is why the immediate environment around the reaction tends to warm up as it proceeds. This happens because the chemical bonds formed in the products store less energy overall than the bonds that were broken in the reactants, and that difference in energy is released outward rather than being absorbed.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c1_c1": 2,
+    "c1_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

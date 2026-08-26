@@ -1,0 +1,15 @@
+{
+  "answer_id": "cs2_test_003_confidently_wrong",
+  "question_id": "cs2",
+  "derived_from_train_id": "cs2_train_003",
+  "variant_type": "confidently_wrong",
+  "answer_text": "An interpreted language is translated into machine code before the program runs.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cs2_c1": 0,
+    "cs2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_006",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_001",
+  "variant_type": "confidently_wrong",
+  "answer_text": "The printing press was mainly used to produce clothing and textiles more efficiently during the Industrial Revolution.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 0,
+    "h1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

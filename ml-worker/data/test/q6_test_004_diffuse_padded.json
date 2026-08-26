@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_004_diffuse_padded",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_004",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This is a commonly discussed topic in introductory government or civics classes. Separation of powers means that different states in a country are allowed to have their own separate governments. Historical context is often useful for understanding why an institution works the way it does.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 0,
+    "q6_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

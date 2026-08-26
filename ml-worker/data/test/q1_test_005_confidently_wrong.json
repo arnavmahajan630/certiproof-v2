@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_005_confidently_wrong",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Chlorophyll inside chloroplasts absorbs green light more efficiently than any other wavelength, which is what actually produces a plant's green color, alongside its normal role absorbing red and blue light to fuel photosynthesis and its breakdown in autumn revealing other pigments.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 0,
+    "q1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

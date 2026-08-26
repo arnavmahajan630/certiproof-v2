@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_005_confidently_wrong",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Demand outpacing supply actually pushes a good's price DOWN as sellers compete to attract the excess buyers, which is what really happens, even though excess supply is still said to push price down too, and a phone launch's fading initial price is still cited as an example.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 0,
+    "e1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_003_typo_injected",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_003",
+  "variant_type": "typo_injected",
+  "answer_text": "A stack only allows you to add and remove elements from one end, following LIFO order.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 2,
+    "q3_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,14 @@
+{
+  "answer_id": "p1_train_005",
+  "question_id": "p1",
+  "style": "x_type_long_paragraph",
+  "answer_text": "Newton's third law of motion states that whenever one object exerts a force on a second object, the second object simultaneously exerts a force of equal magnitude but in the opposite direction back on the first object. These are often called the action force and the reaction force, and it's important to note they act on two different objects, not the same one, and they occur at the exact same instant rather than one causing the other with a delay. A simple everyday example is walking: when you push backward against the ground with your foot, the ground pushes forward on you with equal force, and that reaction force is what actually propels you ahead. Another example is a rocket launching \u2014 the rocket engine pushes hot gas downward and out of the nozzle, and the gas pushes back on the rocket with equal force in the opposite direction, which is what lifts the rocket upward. This law applies constantly all around us, even when the forces aren't obvious, such as a book resting on a table pressing down on the table while the table presses back up on the book with equal force.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p1_c1": 2,
+    "p1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

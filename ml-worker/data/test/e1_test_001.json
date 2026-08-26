@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_001",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_001",
+  "variant_type": "paraphrase",
+  "answer_text": "Prices climb when what people want to buy outstrips what's available, and fall when there's more supply than demand \u2014 a shortage of a popular toy around the holidays driving prices up illustrates this well.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 2,
+    "e1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_004_genuinely_ambiguous",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_004",
+  "variant_type": "genuinely_ambiguous",
+  "answer_text": "This might have something to do with a fundamental right is in a constitution, though it's hard to say for sure.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 1,
+    "cv1_c2": 1
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

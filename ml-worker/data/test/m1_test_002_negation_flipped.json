@@ -1,0 +1,15 @@
+{
+  "answer_id": "m1_test_002_negation_flipped",
+  "question_id": "m1",
+  "derived_from_train_id": "m1_train_002",
+  "variant_type": "negation_flipped",
+  "answer_text": "A prime number does not have exactly two distinct positive divisors of 1 and itself; 11 is still an example given for this.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 0,
+    "m1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

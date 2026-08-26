@@ -1,0 +1,20 @@
+{
+  "name": "certiproof-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "migrate": "node src/db/migrate.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "multer": "^2.0.1",
+    "pdf-parse": "^1.1.1",
+    "pdfkit": "^0.15.1",
+    "qrcode": "^1.5.4"
+  }
+}

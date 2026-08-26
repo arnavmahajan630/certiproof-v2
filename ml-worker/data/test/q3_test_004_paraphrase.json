@@ -1,0 +1,15 @@
+{
+  "answer_id": "q3_test_004_paraphrase",
+  "question_id": "q3",
+  "derived_from_train_id": "q3_train_004",
+  "variant_type": "paraphrase",
+  "answer_text": "A stack and a queue are really just two names for the same data structure used interchangeably across languages.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q3_c1": 0,
+    "q3_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

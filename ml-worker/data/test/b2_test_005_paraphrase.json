@@ -1,0 +1,15 @@
+{
+  "answer_id": "b2_test_005_paraphrase",
+  "question_id": "b2",
+  "derived_from_train_id": "b2_train_005",
+  "variant_type": "paraphrase",
+  "answer_text": "Enzymes are proteins that catalyze biological reactions by lowering the activation energy required, letting otherwise-too-slow reactions run fast enough to sustain life, and because each enzyme's active site fits only specific substrates, they tend to be highly reaction-specific and reusable, though extreme temperature or pH can distort their shape and shut them down.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "b2_c1": 2,
+    "b2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

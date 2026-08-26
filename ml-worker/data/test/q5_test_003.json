@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_003",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Democracies are built on several institutions that work together to govern a country. The legislature makes laws, the executive enforces them, and elections determine who holds these positions. The judiciary interprets laws and ensures they comply with the constitution, and it can use judicial review to strike down unconstitutional laws. Citizens also play a role in democracy by voting and participating in civic life.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

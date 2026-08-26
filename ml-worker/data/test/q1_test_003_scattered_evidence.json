@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_003_scattered_evidence",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_003",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Living organisms share a number of common features across otherwise very different species. Plants look green because chlorophyll reflects green light instead of absorbing it.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

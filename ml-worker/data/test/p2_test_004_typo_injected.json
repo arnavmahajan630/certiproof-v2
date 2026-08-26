@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_004_typo_injected",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_004",
+  "variant_type": "typo_injected",
+  "answer_text": "Objects float or sink dpeending only on their weight \u2014 hevaier objects always float and lighter objcets always sink.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 0,
+    "p2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,14 @@
+{
+  "answer_id": "cs2_train_005",
+  "question_id": "cs2",
+  "style": "x_type_long_paragraph",
+  "answer_text": "The main difference between compiled and interpreted languages comes down to when the source code gets translated into instructions the machine can actually run. A compiled language, such as C or Rust, uses a compiler to translate the entire program into machine code ahead of time, producing a standalone executable file; once compiled, that executable can be run directly by the operating system without needing the original source code or compiler present. An interpreted language, such as Python, instead uses an interpreter that reads and executes the source code line by line at runtime, translating and running each statement on the fly rather than all at once beforehand. Compiled programs tend to run faster since the translation work is already done before execution, while interpreted programs are often easier to test and debug interactively since there's no separate build step required before you can run your code. Many modern languages, like Java, blur this line by compiling to an intermediate bytecode that a virtual machine then interprets.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cs2_c1": 2,
+    "cs2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q5_test_002_typo_injected",
+  "question_id": "q5",
+  "derived_from_train_id": "q5_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "In a democracy, the jduiciary serves as an independent branch repsonsible for interpreting and applying the law, as well as ensuring that legsilation and executive actions remain within the bounds set by the constitution. One key function is judicial review, wehre courts can examine whether a law passed by the legislature is consttiutional, and strike it down if it is not.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

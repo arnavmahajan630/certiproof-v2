@@ -1,0 +1,15 @@
+{
+  "answer_id": "m2_test_005_negation_flipped",
+  "question_id": "m2",
+  "derived_from_train_id": "m2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "Squaring both legs and adding the results does not give the square of the hypotenuse \u2014 that relationship doesn't hold \u2014 even though the hypotenuse is still the side opposite the 90-degree angle, the 3-4-5 example is still commonly cited, and the theorem still underlies the coordinate-plane distance formula.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m2_c1": 0,
+    "m2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

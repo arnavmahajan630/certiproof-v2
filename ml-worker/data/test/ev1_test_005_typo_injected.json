@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_005_typo_injected",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "The greenhouse effect is a natural process by which certain gsaes in Earth's atmosphere, most notably cabron dioxide, methane, and water vapor, trap heat that would otherwise escape back out into space, keeping the planet's surface significantly warmer than it wuold be without them. Sunlight passes throuhg the atmosphere and warms Earth's sruface, which then radiates some of that energy back outward as infrared heat; greenhouse gases absorb a portion of this outgoing infrared radiation and re-emit it in all directions, including back down toward the surface, which effectiveyl traps extra heat within the lwoer atmosphere. Without any greenhouse effect at all, Earth's average surface temperature wolud be well below freezing, far too cold to support most life as we know it, so the nautral greenhouse effect is actually essential to a habitable planet. The concern with human-caused climate change is not that the greenhouse effect exists, but that burning fossil fuels has sharply increaesd the concentration of greenhouse gases like carbon dioxide in the atmosphere, intesnifying the effect and pushing global averaeg temperatures higher than they would otehrwise be.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 2,
+    "ev1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

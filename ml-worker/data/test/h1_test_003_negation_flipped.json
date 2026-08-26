@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_003_negation_flipped",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_003",
+  "variant_type": "negation_flipped",
+  "answer_text": "The printing press did not speed up book production compared to copying by hand.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 0,
+    "h1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

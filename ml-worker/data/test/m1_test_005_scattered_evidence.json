@@ -1,0 +1,15 @@
+{
+  "answer_id": "m1_test_005_scattered_evidence",
+  "question_id": "m1",
+  "derived_from_train_id": "m1_train_005",
+  "variant_type": "scattered_evidence",
+  "answer_text": "A prime number is a natural number greater than 1 whose only positive divisors are 1 and itself, meaning it cannot be evenly divided by any other whole number. This kind of problem is common in introductory math coursework. This is different from a composite number, which has at least one additional divisor besides 1 and itself \u2014 for instance, 8 is composite because it can be divided evenly by 2 and 4, not just 1 and 8. Mathematics as a subject builds heavily on concepts introduced in earlier coursework. The number 2 is the only even prime number, since every other even number is divisible by 2 and therefore has at least three divisors. This is a topic commonly covered in a standard mathematics curriculum. Examples of prime numbers include 2, 3, 5, 7, 11, and 13; checking whether a larger number is prime typically involves testing whether it's divisible by any prime number up to its square root, since if no such divisor exists, none larger will divide it evenly either. Proofs of concepts like this one are often introduced later in more advanced coursework. Prime numbers are foundational in number theory and also underpin modern encryption methods like RSA, which rely on the difficulty of factoring the product of two very large primes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 2,
+    "m1_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

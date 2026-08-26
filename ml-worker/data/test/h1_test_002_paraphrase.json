@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_002_paraphrase",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_002",
+  "variant_type": "paraphrase",
+  "answer_text": "Gutenberg's movable-type press let books be printed far faster than hand-copying, and that mass production helped spread literacy and events like the Reformation.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 2,
+    "h1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

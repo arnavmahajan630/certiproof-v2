@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev2_test_004_scattered_evidence",
+  "question_id": "ev2",
+  "derived_from_train_id": "ev2_train_004",
+  "variant_type": "scattered_evidence",
+  "answer_text": "Diagrams are often used in class to illustrate this kind of environmental process. Biodiversity refers to the total number of humans living in a particular country or region.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev2_c1": 0,
+    "ev2_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "e1_test_004_diffuse_padded",
+  "question_id": "e1",
+  "derived_from_train_id": "e1_train_004",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Economics as a subject covers both individual decision-making and large-scale market behavior. The law of supply and demand states that prices are fixed by the government regardless of how much of a good is available. This is a commonly discussed topic in introductory economics courses.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e1_c1": 0,
+    "e1_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

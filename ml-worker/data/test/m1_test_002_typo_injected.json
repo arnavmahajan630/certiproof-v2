@@ -1,0 +1,15 @@
+{
+  "answer_id": "m1_test_002_typo_injected",
+  "question_id": "m1",
+  "derived_from_train_id": "m1_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "This is a foundational cnocept in mathematics. A prime number is a natural number greater than 1 that has exactly two distinct poistive divisors: 1 and itself. For exapmle, 7 is prime because it can only be divided evenly by 1 and 7.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "m1_c1": 2,
+    "m1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

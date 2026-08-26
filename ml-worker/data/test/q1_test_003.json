@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_003",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Plants are remarkable organisms that have adapted to countless environments over millions of years. They need sunlight, water, and nutrients to grow. Leaf shapes vary widely between species. Chlorophyll, present in plant cells, absorbs red and blue light for photosynthesis but reflects green light instead of absorbing it, which is why leaves appear green. Photosynthesis also releases oxygen, which is essential for most life on Earth.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

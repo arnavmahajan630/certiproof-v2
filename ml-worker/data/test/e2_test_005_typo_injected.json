@@ -1,0 +1,15 @@
+{
+  "answer_id": "e2_test_005_typo_injected",
+  "question_id": "e2",
+  "derived_from_train_id": "e2_train_005",
+  "variant_type": "typo_injected",
+  "answer_text": "Inflation refers to a gneeral and sustained increase in the ovreall price level of goods and serivces across an economy over time, wihch means that, on average, the same amount of money buys progressively less than it used to. This erosino of money's purchasing power is the key practical consequence of inflation: if your income doesn't rise at leats as fast as prices are risnig, your real standard of living effectivley falls even though the number on your paycheck stays the same or grows more slowly. Inflation can be driven by a number of different causes, including too much money criculating in an economy relative to the goods and services available (sometimes caleld demand-pull inflation), or rising costs of production, such as wages or raw materials, being passed on to consuemrs as higher prices (cost-push inflation). Cenrtal banks, like the Federal Reserve in the United States, often try to keep inflation at a low, stbale, and predictable rate, typically citing smoething like 2% per year as a common target, since both very high inflation and outright deflation (falling pricse) tend to cause serious economic problmes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "e2_c1": 2,
+    "e2_c2": 2
+  },
+  "length_bucket": "long",
+  "data_source": "synthetic"
+}

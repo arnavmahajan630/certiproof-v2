@@ -1,0 +1,102 @@
+{
+  "papers": [
+    {
+      "paper_id": "biology_photosynthesis",
+      "title": "Biology \u2014 Q3: Explain the process of photosynthesis.",
+      "question_text": "Explain, in your own words, how photosynthesis works. Mention what goes in, what comes out, and where in the cell it happens.",
+      "criteria": [
+        {
+          "criterion_text": "Mentions sunlight as the energy source",
+          "weight": 1.0,
+          "reference_answer": "Plants use sunlight as their energy source to power photosynthesis.",
+          "criterion_id": "biology_photosynthesis_c1",
+          "max_marks": 2
+        },
+        {
+          "criterion_text": "Mentions water and carbon dioxide as inputs",
+          "weight": 1.0,
+          "reference_answer": "Water absorbed from the soil and carbon dioxide taken in from the air are the raw materials converted during photosynthesis.",
+          "criterion_id": "biology_photosynthesis_c2",
+          "max_marks": 2
+        },
+        {
+          "criterion_text": "Mentions glucose and oxygen as outputs",
+          "weight": 1.0,
+          "reference_answer": "Photosynthesis converts water and carbon dioxide into glucose, releasing oxygen as a byproduct.",
+          "criterion_id": "biology_photosynthesis_c3",
+          "max_marks": 2
+        },
+        {
+          "criterion_text": "Mentions chlorophyll or the chloroplast as the site of the reaction",
+          "weight": 0.5,
+          "reference_answer": "This reaction takes place inside the chloroplast, using the green pigment chlorophyll to capture light energy.",
+          "criterion_id": "biology_photosynthesis_c4",
+          "max_marks": 2
+        }
+      ]
+    },
+    {
+      "paper_id": "history_french_revolution",
+      "title": "History \u2014 Q5: What caused the French Revolution?",
+      "question_text": "Describe the main causes that led to the outbreak of the French Revolution in 1789.",
+      "criteria": [
+        {
+          "criterion_text": "Mentions economic hardship, debt, or food scarcity",
+          "weight": 1.0,
+          "reference_answer": "France was deeply in debt and facing food shortages that hurt the common people.",
+          "criterion_id": "history_french_revolution_c1",
+          "max_marks": 2
+        },
+        {
+          "criterion_text": "Mentions social inequality between the estates",
+          "weight": 1.0,
+          "reference_answer": "The rigid estate system created huge inequality between the privileged First and Second Estates and the burdened Third Estate.",
+          "criterion_id": "history_french_revolution_c2",
+          "max_marks": 2
+        },
+        {
+          "criterion_text": "Mentions the influence of Enlightenment ideas",
+          "weight": 0.75,
+          "reference_answer": "Enlightenment thinkers like Rousseau and Voltaire spread new ideas about liberty and equality that inspired revolutionary sentiment.",
+          "criterion_id": "history_french_revolution_c3",
+          "max_marks": 2
+        },
+        {
+          "criterion_text": "Mentions the weak leadership of Louis XVI or the monarchy",
+          "weight": 0.5,
+          "reference_answer": "King Louis XVI's weak and indecisive leadership failed to address the kingdom's mounting problems.",
+          "criterion_id": "history_french_revolution_c4",
+          "max_marks": 2
+        }
+      ]
+    },
+    {
+      "paper_id": "physics_newtons_laws",
+      "title": "Physics \u2014 Q2: State Newton's three laws of motion.",
+      "question_text": "State Newton's three laws of motion and briefly explain what each one means.",
+      "criteria": [
+        {
+          "criterion_text": "Correctly states the first law (inertia)",
+          "weight": 1.0,
+          "reference_answer": "Newton's first law states that an object at rest stays at rest and an object in motion stays in motion unless acted on by an external force \u2014 this is called inertia.",
+          "criterion_id": "physics_newtons_laws_c1",
+          "max_marks": 2
+        },
+        {
+          "criterion_text": "Correctly states the second law (F = ma)",
+          "weight": 1.0,
+          "reference_answer": "Newton's second law states that force equals mass times acceleration, or F=ma.",
+          "criterion_id": "physics_newtons_laws_c2",
+          "max_marks": 2
+        },
+        {
+          "criterion_text": "Correctly states the third law (action-reaction pairs)",
+          "weight": 1.0,
+          "reference_answer": "Newton's third law states that for every action there is an equal and opposite reaction.",
+          "criterion_id": "physics_newtons_laws_c3",
+          "max_marks": 2
+        }
+      ]
+    }
+  ]
+}

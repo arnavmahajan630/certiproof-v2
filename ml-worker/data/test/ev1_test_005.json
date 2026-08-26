@@ -1,0 +1,15 @@
+{
+  "answer_id": "ev1_test_005",
+  "question_id": "ev1",
+  "derived_from_train_id": "ev1_train_001",
+  "variant_type": "negation_flipped",
+  "answer_text": "The greenhouse effect causes the atmosphere to release heat into space more quickly, cooling the planet down.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "ev1_c1": 0,
+    "ev1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

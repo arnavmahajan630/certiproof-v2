@@ -1,0 +1,14 @@
+{
+  "answer_id": "c1_train_003",
+  "question_id": "c1",
+  "style": "x_type_partial_correct",
+  "answer_text": "An exothermic reaction releases energy to the surroundings.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c1_c1": 2,
+    "c1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

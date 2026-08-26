@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_004_diffuse_padded",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_004",
+  "variant_type": "diffuse_padded",
+  "answer_text": "This topic connects closely to broader ideas about how democracies function. A fundamental right is any privilege granted by the government that can be revoked at any time by a new law. Debates about this kind of institution come up regularly in public discussion.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 0,
+    "cv1_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

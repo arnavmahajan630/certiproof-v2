@@ -1,0 +1,15 @@
+{
+  "answer_id": "h2_test_005_negation_flipped",
+  "question_id": "h2",
+  "derived_from_train_id": "h2_train_005",
+  "variant_type": "negation_flipped",
+  "answer_text": "The assassination of Archduke Franz Ferdinand did not give Austria-Hungary a pretext to declare war on Serbia \u2014 that isn't what set events in motion \u2014 even though alliance networks are still credited with pulling in Russia, Germany, France, and Britain, and nationalism plus an arms race are still cited as underlying causes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h2_c1": 0,
+    "h2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv2_test_005_partial_credit_shift",
+  "question_id": "cv2",
+  "derived_from_train_id": "cv2_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "The right to vote is the ability of eligible citizens to participate directly in choosing who represents them and governs on their behalf, typically by casting a ballot in periodic elections for offices like legislators, executives, or local representatives. It's considered one of the core mechanisms through which a democracy remains accountable to its population, since elected officials generally need to seek re-election and therefore have an incentive to respond to what voters want.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv2_c1": 2,
+    "cv2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

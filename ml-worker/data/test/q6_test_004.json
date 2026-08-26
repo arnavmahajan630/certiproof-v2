@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_004",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_001",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Separation of powers divides authority among the legislature, executive, and judiciary.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 2,
+    "q6_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

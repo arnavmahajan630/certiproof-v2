@@ -1,0 +1,444 @@
+[
+  {
+    "question_id": "q1",
+    "question_text": "Explain why plants appear green.",
+    "subject": "biology",
+    "criteria": [
+      {
+        "criterion_id": "q1_c1",
+        "text": "Correctly attributes the green color to chlorophyll reflecting/not absorbing green light",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "q1_c2",
+        "text": "Mentions chlorophyll's role in absorbing red/blue light for photosynthesis",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "q2",
+    "question_text": "Explain the process of osmosis.",
+    "subject": "biology",
+    "criteria": [
+      {
+        "criterion_id": "q2_c1",
+        "text": "Correctly defines osmosis as movement of water across a semipermeable membrane from low to high solute concentration",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "q2_c2",
+        "text": "Gives a valid real-world example or application of osmosis",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "q3",
+    "question_text": "What is the difference between a stack and a queue?",
+    "subject": "computer_science",
+    "criteria": [
+      {
+        "criterion_id": "q3_c1",
+        "text": "Correctly describes a stack as LIFO (Last In First Out)",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "q3_c2",
+        "text": "Correctly describes a queue as FIFO (First In First Out)",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "q4",
+    "question_text": "Explain what a variable is in programming.",
+    "subject": "computer_science",
+    "criteria": [
+      {
+        "criterion_id": "q4_c1",
+        "text": "Defines a variable as a named storage location that holds a value which can change",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "q4_c2",
+        "text": "Gives a valid example of declaring or using a variable",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "q5",
+    "question_text": "What is the role of the judiciary in a democracy?",
+    "subject": "civics",
+    "criteria": [
+      {
+        "criterion_id": "q5_c1",
+        "text": "Explains that the judiciary interprets laws and ensures they comply with the constitution",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "q5_c2",
+        "text": "Gives an example of judicial function such as judicial review or dispute resolution",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "q6",
+    "question_text": "Why is separation of powers important in government?",
+    "subject": "civics",
+    "criteria": [
+      {
+        "criterion_id": "q6_c1",
+        "text": "Explains that dividing power among branches prevents concentration/abuse of power",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "q6_c2",
+        "text": "Gives an example of checks and balances between branches",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "b1",
+    "question_text": "Explain the function of red blood cells.",
+    "subject": "biology",
+    "criteria": [
+      {
+        "criterion_id": "b1_c1",
+        "text": "Correctly states red blood cells carry oxygen (via hemoglobin) from lungs to body tissues",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "b1_c2",
+        "text": "Mentions they lack a nucleus (or another correct structural detail)",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "b2",
+    "question_text": "Explain what enzymes do in the body.",
+    "subject": "biology",
+    "criteria": [
+      {
+        "criterion_id": "b2_c1",
+        "text": "Correctly states enzymes act as biological catalysts that speed up chemical reactions",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "b2_c2",
+        "text": "Mentions they are not consumed/changed by the reaction (or substrate specificity)",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "c1",
+    "question_text": "Explain what happens during an exothermic reaction.",
+    "subject": "chemistry",
+    "criteria": [
+      {
+        "criterion_id": "c1_c1",
+        "text": "Correctly states energy/heat is released to the surroundings",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "c1_c2",
+        "text": "Gives a valid example (e.g. combustion)",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "c2",
+    "question_text": "Explain the difference between an acid and a base.",
+    "subject": "chemistry",
+    "criteria": [
+      {
+        "criterion_id": "c2_c1",
+        "text": "Correctly states acids release H+ ions / have pH below 7",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "c2_c2",
+        "text": "Correctly states bases release OH- ions / have pH above 7",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "p1",
+    "question_text": "Explain Newton's third law of motion.",
+    "subject": "physics",
+    "criteria": [
+      {
+        "criterion_id": "p1_c1",
+        "text": "Correctly states for every action there is an equal and opposite reaction",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "p1_c2",
+        "text": "Gives a valid example",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "p2",
+    "question_text": "Explain what causes objects to float or sink in water.",
+    "subject": "physics",
+    "criteria": [
+      {
+        "criterion_id": "p2_c1",
+        "text": "Correctly references buoyant force / density comparison with water",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "p2_c2",
+        "text": "Gives a valid example",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "cs1",
+    "question_text": "Explain what recursion is in programming.",
+    "subject": "computer_science",
+    "criteria": [
+      {
+        "criterion_id": "cs1_c1",
+        "text": "Correctly states a function calling itself",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "cs1_c2",
+        "text": "Mentions the need for a base case to stop it",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "cs2",
+    "question_text": "Explain the difference between compiled and interpreted languages.",
+    "subject": "computer_science",
+    "criteria": [
+      {
+        "criterion_id": "cs2_c1",
+        "text": "Correctly states compiled languages are translated to machine code before execution",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "cs2_c2",
+        "text": "Correctly states interpreted languages are executed line by line at runtime",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "m1",
+    "question_text": "Explain what a prime number is.",
+    "subject": "mathematics",
+    "criteria": [
+      {
+        "criterion_id": "m1_c1",
+        "text": "Correctly defines a prime number as having exactly two distinct positive divisors (1 and itself)",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "m1_c2",
+        "text": "Gives a valid example",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "m2",
+    "question_text": "Explain the Pythagorean theorem.",
+    "subject": "mathematics",
+    "criteria": [
+      {
+        "criterion_id": "m2_c1",
+        "text": "Correctly states a^2 + b^2 = c^2 for a right triangle",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "m2_c2",
+        "text": "Correctly identifies c as the hypotenuse",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "cv1",
+    "question_text": "Explain what a fundamental right is in a constitution.",
+    "subject": "civics",
+    "criteria": [
+      {
+        "criterion_id": "cv1_c1",
+        "text": "Correctly states fundamental rights are basic rights guaranteed and protected by the constitution",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "cv1_c2",
+        "text": "Gives a valid example",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "cv2",
+    "question_text": "Explain what the right to vote means in a democracy.",
+    "subject": "civics",
+    "criteria": [
+      {
+        "criterion_id": "cv2_c1",
+        "text": "Correctly states it is the right of eligible citizens to elect their representatives/government",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "cv2_c2",
+        "text": "Mentions it's typically tied to age/citizenship eligibility",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "h1",
+    "question_text": "Explain the significance of the printing press.",
+    "subject": "history",
+    "criteria": [
+      {
+        "criterion_id": "h1_c1",
+        "text": "Correctly states it allowed mass production of books/faster spread of information",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "h1_c2",
+        "text": "Gives a valid consequence or example (e.g. spread of literacy/Reformation)",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "h2",
+    "question_text": "Explain what caused World War I to begin.",
+    "subject": "history",
+    "criteria": [
+      {
+        "criterion_id": "h2_c1",
+        "text": "Correctly identifies the assassination of Archduke Franz Ferdinand as the immediate trigger",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "h2_c2",
+        "text": "Mentions underlying causes like alliances/militarism/nationalism",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "g1",
+    "question_text": "Explain what causes the seasons on Earth.",
+    "subject": "geography",
+    "criteria": [
+      {
+        "criterion_id": "g1_c1",
+        "text": "Correctly attributes seasons to Earth's axial tilt (not distance from the sun)",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "g1_c2",
+        "text": "Explains how this changes solar energy received in each hemisphere over the year",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "g2",
+    "question_text": "Explain what a delta is in geography.",
+    "subject": "geography",
+    "criteria": [
+      {
+        "criterion_id": "g2_c1",
+        "text": "Correctly defines a delta as a landform formed by sediment deposited where a river meets a larger body of water",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "g2_c2",
+        "text": "Gives a valid example",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "e1",
+    "question_text": "Explain the law of supply and demand.",
+    "subject": "economics",
+    "criteria": [
+      {
+        "criterion_id": "e1_c1",
+        "text": "Correctly states price rises when demand exceeds supply (and vice versa)",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "e1_c2",
+        "text": "Gives a valid example",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "e2",
+    "question_text": "Explain what inflation means in economics.",
+    "subject": "economics",
+    "criteria": [
+      {
+        "criterion_id": "e2_c1",
+        "text": "Correctly defines inflation as a general/sustained rise in prices over time (reducing purchasing power)",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "e2_c2",
+        "text": "Gives a valid example or cause",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "ev1",
+    "question_text": "Explain what the greenhouse effect is.",
+    "subject": "environmental_science",
+    "criteria": [
+      {
+        "criterion_id": "ev1_c1",
+        "text": "Correctly states greenhouse gases trap heat in the atmosphere, warming the planet",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "ev1_c2",
+        "text": "Gives a valid example of a greenhouse gas",
+        "max_marks": 2
+      }
+    ]
+  },
+  {
+    "question_id": "ev2",
+    "question_text": "Explain what biodiversity means.",
+    "subject": "environmental_science",
+    "criteria": [
+      {
+        "criterion_id": "ev2_c1",
+        "text": "Correctly defines biodiversity as the variety of living species/organisms in an ecosystem or on Earth",
+        "max_marks": 2
+      },
+      {
+        "criterion_id": "ev2_c2",
+        "text": "Mentions why it matters (ecosystem stability/resilience)",
+        "max_marks": 2
+      }
+    ]
+  }
+]

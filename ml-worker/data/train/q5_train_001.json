@@ -1,0 +1,14 @@
+{
+  "answer_id": "q5_train_001",
+  "question_id": "q5",
+  "style": "x_type_full_correct",
+  "answer_text": "The judiciary interprets the laws made by the legislature and ensures that they are consistent with the constitution. For example, courts can strike down a law through judicial review if it violates constitutional provisions.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q5_c1": 2,
+    "q5_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

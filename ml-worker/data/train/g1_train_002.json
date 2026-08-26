@@ -1,0 +1,14 @@
+{
+  "answer_id": "g1_train_002",
+  "question_id": "g1",
+  "style": "x_type_longer_explanation",
+  "answer_text": "This is a foundational concept in geography. Seasons are caused by the tilt of Earth's axis, not by changes in distance from the sun. As Earth orbits the sun, this tilt causes different hemispheres to receive more or less direct sunlight at different times of year, creating summer, winter, and the seasons in between.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "g1_c1": 2,
+    "g1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

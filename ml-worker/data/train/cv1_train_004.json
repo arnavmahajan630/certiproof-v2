@@ -1,0 +1,14 @@
+{
+  "answer_id": "cv1_train_004",
+  "question_id": "cv1",
+  "style": "x_type_clearly_incorrect",
+  "answer_text": "A fundamental right is any privilege granted by the government that can be revoked at any time by a new law.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 0,
+    "cv1_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

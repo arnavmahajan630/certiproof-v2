@@ -1,0 +1,15 @@
+{
+  "answer_id": "q6_test_004_negation_flipped",
+  "question_id": "q6",
+  "derived_from_train_id": "q6_train_004",
+  "variant_type": "negation_flipped",
+  "answer_text": "Separation of powers does not refer to different states each running independent governments.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q6_c1": 0,
+    "q6_c2": 0
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_002_scattered_evidence",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_002",
+  "variant_type": "scattered_evidence",
+  "answer_text": "This is a foundational concept in civics. Citizens interact with institutions like this in a variety of everyday ways. A fundamental right is a basic right guaranteed to citizens by the constitution, which the state cannot ordinarily take away and which courts can enforce. Textbooks often compare this concept across different systems of government. The right to freedom of speech is a common example of a fundamental right.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 2,
+    "cv1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

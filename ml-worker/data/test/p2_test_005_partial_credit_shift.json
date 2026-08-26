@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_005_partial_credit_shift",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_005",
+  "variant_type": "partial_credit_shift",
+  "answer_text": "Whether an object floats or sinks in water comes down to a comparison between the object's density and the density of water, roughly 1 gram per cubic centimeter. Any object placed in water experiences an upward buoyant force equal to the weight of the water it displaces, a relationship known as Archimedes' principle.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 2,
+    "p2_c2": 0
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

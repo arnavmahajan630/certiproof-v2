@@ -1,0 +1,15 @@
+{
+  "answer_id": "h1_test_003",
+  "question_id": "h1",
+  "derived_from_train_id": "h1_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Understanding the past helps explain many aspects of the present. Many turning points in history involved political and social change. The printing press, invented by Johannes Gutenberg, allowed books to be mass-produced much faster and more cheaply than by hand-copying. This led to a rapid spread of information and ideas, contributing to increased literacy and events like the Protestant Reformation. Historical events are often shaped by a complex mix of causes.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "h1_c1": 2,
+    "h1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

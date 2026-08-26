@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_002_typo_injected",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "Plant cells contain a pgiment called chlorophyll, which plays a cetnral role in photosynthesis. Chlorophyll strongly absrobs light in the red and blue wavelengths, which it uses to pwoer the conversion of light energy into chemical energy. However, it does not absorb green wavelengths of light \u2014 instead it reflects them back, and that reflected green light is what we perceive when we look at a leaf.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

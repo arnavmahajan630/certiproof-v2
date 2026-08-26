@@ -1,0 +1,15 @@
+{
+  "answer_id": "p1_test_003",
+  "question_id": "p1",
+  "derived_from_train_id": "p1_train_001",
+  "variant_type": "diffuse_padded",
+  "answer_text": "Many everyday phenomena can be explained using basic physical principles. Motion and energy are central topics in classical mechanics. Newton's third law states that for every action force, there is an equal and opposite reaction force. For example, when you push against a wall, the wall pushes back on you with equal force. Physics studies the fundamental forces and matter that make up the universe.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p1_c1": 2,
+    "p1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

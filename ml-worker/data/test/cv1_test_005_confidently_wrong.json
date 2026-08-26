@@ -1,0 +1,15 @@
+{
+  "answer_id": "cv1_test_005_confidently_wrong",
+  "question_id": "cv1",
+  "derived_from_train_id": "cv1_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "Fundamental rights are actually granted through ordinary legislation and can be revised by a simple legislative majority like any other law, rather than being constitutionally entrenched, even though free speech, freedom of religion, and a fair trial are still commonly cited as examples of them.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "cv1_c1": 0,
+    "cv1_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

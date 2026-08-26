@@ -1,0 +1,15 @@
+{
+  "answer_id": "p2_test_005_confidently_wrong",
+  "question_id": "p2",
+  "derived_from_train_id": "p2_train_005",
+  "variant_type": "confidently_wrong",
+  "answer_text": "An object actually floats based on its surface area touching the water rather than its density relative to water, which is the real deciding factor, even though buoyant force still follows Archimedes' principle, a steel ship is still said to float due to trapped air, and a solid steel block is still said to sink.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "p2_c1": 0,
+    "p2_c2": 2
+  },
+  "length_bucket": "medium",
+  "data_source": "synthetic"
+}

@@ -1,0 +1,15 @@
+{
+  "answer_id": "q1_test_007",
+  "question_id": "q1",
+  "derived_from_train_id": "q1_train_001",
+  "variant_type": "typo_injected",
+  "answer_text": "Chlorphyll in plant cels absorbs red and blu light for photosynthesis but reflcts green light, which is why plants appear green to us.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "q1_c1": 2,
+    "q1_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}

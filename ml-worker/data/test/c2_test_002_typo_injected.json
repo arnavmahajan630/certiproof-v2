@@ -1,0 +1,15 @@
+{
+  "answer_id": "c2_test_002_typo_injected",
+  "question_id": "c2",
+  "derived_from_train_id": "c2_train_002",
+  "variant_type": "typo_injected",
+  "answer_text": "This is a foundational cnocept in chemistry. Acids release hydrogen ions when dissolved in water and have a pH below 7, while baess release hydroxide ions and have a pH above 7.",
+  "human_reviewed": true,
+  "ai_generated": true,
+  "human_scores": {
+    "c2_c1": 2,
+    "c2_c2": 2
+  },
+  "length_bucket": "short",
+  "data_source": "synthetic"
+}
