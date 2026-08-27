@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-coorg-people-land_train_000",
+  "question_id": "cbse-eng-coorg-people-land",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Coorg sits in the hills, soaked by rain, covered in coffee and forest. Its people, the Kodavus, are known for bravery and for welcoming guests. Some tales say they descend from Alexander's army or from Arab settlers, and they still wear the Kuppia. Rivers hold mahaseer, and treks climb Brahmagiri, so land and culture together feel fiercely independent.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-coorg-people-land_c1": 3.0
+  },
+  "data_source": "cbse"
+}

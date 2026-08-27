@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_002",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The first type of movement is called active transport. In this kind of movement the cell has to use energy to transport substances across the membrane. This type of movement requires energy from the cell. An example of active transport is moving particles from an area of lesser concentration to an area of greater concentration. The next for of transport is facilitated diffusion. In this type of transport the cell does not use energy. An example of facilitated diffusion is moving particles from an area of greater concentration to an area of lesser concentration. The last process is passive transport. This is when the particles move with the concentration gradient and require no energy.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

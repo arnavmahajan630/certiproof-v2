@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-household-fuse_train_001",
+  "question_id": "cbse-sci-household-fuse",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Parallel wiring gives every device the same voltage. A series fuse protects against overload. Here the two devices draw about 9 A, so a 10 A fuse stays intact.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-household-fuse_c1": 3.0
+  },
+  "data_source": "cbse"
+}

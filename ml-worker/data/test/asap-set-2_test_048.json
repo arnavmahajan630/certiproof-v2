@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_048",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "According to the student's data, plastic B stretched the most with an average of 22.5mm. Plastic D was the second most flexible because it stretched an average of 20mm, while plastic C was the third most flexible plastic because it stretched an average of 13.5mm. Lastly, plastic A stretched the least with an average of 11mm. However, these results are not valid. In order to make them valid, the students would need to use plastics that are the same length; and use the same weight to stretch. This would ensure valid results, because it would be guaranteed the same size plastic was being pulled with the same forces.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

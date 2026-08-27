@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-thief-story-change_test_002",
+  "question_id": "cbse-eng-thief-story-change",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Hari Singhh introducess himself with a lie and means to rob Anil when the time is ripe. Anil, who is not rich, still feeds him, ignores a ruined meal, and starts teaching him to write. That slow gift matters more than cash becuase Hari sees that a literate man can make a real living. On the night he takes the six hundred rupees he reaches the station, then turns back: the rain is soaking the notes, the train of his old life looks poor beside the chance to study, and he cannot bear to lose Anil's unshowy trust. He replaces the money under the mattress. Next morning Anil does not accuse him; he offers a regular wage and more lessons, perhaps knowing everything. The change of heart is not a speech. It is a boy discovering that being trusted feels better than a wet bundle of stolen notes, and that education is the theft he actually wants: stealing a future from his own ignorant past.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-thief-story-change_c1": 6.0
+  },
+  "data_source": "cbse"
+}

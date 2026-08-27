@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_012",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "mRNA leaves the nucleasmRNA codes for tRNAamino acids on tRNA bond to form a chain of amino acidsthe chain of amino acids folds into a protein.mRNA leaves the nucleas after being copied from DNA. This mRNA is single stranded and contains codons for specific types of proteins.mRNA then travels to a ribosome. At the ribosome, the mRNA is run through, and tRNA with anticodons on one end attach to the mRNA.Each tRNA particle has an amino acid attached on the opposite end of the anticodon. When two tRNA particles connect to the mRNA at the same time, a peptide bond forms between the two amino acids and the first piece of tRNA can disconnect. As this process continues, the amino acids begin to form a chain.Once the strand of mRNA contains a stop codon and tRNA reaches it, the final amino acid will bond to the chain. Once this animo acid disconnects with the tRNA, the strand folds up into a specific protein.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

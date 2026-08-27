@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-how-tell-wild-animals-method_train_001",
+  "question_id": "cbse-eng-how-tell-wild-animals-method",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Each stanza offers a mock tip that only works if you are already the animal's victim. Bear hugs, hyena smiles and crocodile tears continue the same delayed, comic identification.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-how-tell-wild-animals-method_c1": 3.0
+  },
+  "data_source": "cbse"
+}

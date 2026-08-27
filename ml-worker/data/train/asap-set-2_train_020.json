@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_020",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The student can conclude that type B was the most stretchable while type A was the least. The student should have given an exact length for each plastic to be stretched. The student should also have the exact amount of weighs that was to be applied.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

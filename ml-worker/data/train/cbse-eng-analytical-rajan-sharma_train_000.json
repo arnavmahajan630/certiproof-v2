@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-analytical-rajan-sharma_train_000",
+  "question_id": "cbse-eng-analytical-rajan-sharma",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Mr Rajan Sharma is the more suitable speaker if the Debate Society wants contest-ready students. A decade of coaching and public speaking, plus a trail of national-level wins, shows he can hand over methods that actually raise scores. He already works with school and university crowds, so he knows how to talk to Class 10 listeners. Ms Kapoor's international prizes and real-world themes would inspire, yet they are less tightly tied to the drills of a school competition. For this event, Sharma's practical coaching edge outweighs Kapoor's broader, less technical profile.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-analytical-rajan-sharma_c1": 5.0
+  },
+  "data_source": "cbse"
+}

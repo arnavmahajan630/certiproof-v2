@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-amanda-repetition_test_002",
+  "question_id": "cbse-eng-amanda-repetition",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "The adultt voicee keeps firing the same kind of order, so we feel Amanda is never left alone. Each 'Amanda!' is a tug on her fredom. In the quiet gaps she becomes a mermaid, an orphan or Rapunzel, and those pictures are not nagging loops. The contrast shows control outside and a private wish to be herself.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-amanda-repetition_c1": 3.0
+  },
+  "data_source": "cbse"
+}

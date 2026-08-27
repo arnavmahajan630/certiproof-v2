@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E04.Q04_train_001",
+  "question_id": "mohler-E04.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "All elements are initialized to zero if not explicitly initialized for a static array, while a non-static array is not initialized to zero.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E04.Q04_c1": 4.5
+  },
+  "data_source": "mohler"
+}

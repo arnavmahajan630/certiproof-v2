@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q06_train_001",
+  "question_id": "mohler-E02.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "a prototype does not include any actual code where the function has all the code that is executed in the program.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q06_c1": 3.0
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_018",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Three processes that cells use to move substances across the membrane are diffusion, osmosis, and endocytosis. Diffusion occurs when there is a high concentration of materials out side of the cell, and a low concentration of the materials inside the cell. The materials then pass through the membrane into the cell to balance it out without using energy. Osmosis is similar to diffusion, but occurs with water. The water passes through the cell membrane to balance out the concentration of the water, without using energy. Endocytosis is a form of active transport where energy is used to bring materials from a low concentration into a higher concentration, into the cell, through the membrane.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

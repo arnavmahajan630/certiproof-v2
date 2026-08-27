@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_010",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "1. After mRNA leaves the nucleus it travels to the ribosome where rRNA recognizes the mRNA strand and a start codon and coordinates the ribosome to attache to the mRNA.2. Once the mRNA is within the ribosome, sections of three nitrogenous bases are identified on the mRNA strand, otherwise known as a codon, and a corresponding anticodon attached to tRNA and an amino acid are signalled to attach.3.tRNA continues to attach itself to the mRNA strand via the identification process aided by codons and anticodons. In doing so the tRNA, which have attached amino acids, begin to form a string of amino acid that are attached together by peptide bonds to form a protein.4. Once the the protein has been formed, which is usually composed of around 20 amino acids, the ribosome comes to a stop codon which signals for the protein to be released from the ribosome. From there the protein then folds up into a three dimensional shape in order to function properly.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

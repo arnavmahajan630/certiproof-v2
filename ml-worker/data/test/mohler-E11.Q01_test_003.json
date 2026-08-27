@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q01_test_003",
+  "question_id": "mohler-E11.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Class name, {}, semicoln at the end of the defination, private and bublic followed by \": \"",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q01_c1": 3.0
+  },
+  "data_source": "mohler"
+}

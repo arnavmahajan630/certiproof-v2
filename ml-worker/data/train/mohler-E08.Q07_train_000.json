@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E08.Q07_train_000",
+  "question_id": "mohler-E08.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "You would have to keep using peek or getTop to see what the top element is then popping the top element until peek or getTop provides the element you are looking for.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E08.Q07_c1": 3.0
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-refraction-snell_train_001",
+  "question_id": "cbse-sci-refraction-snell",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Refraction is coplanar, and sin i / sin r is constant. Refractive index equals c/v and tells how much a ray bends on entering a denser medium.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-refraction-snell_c1": 3.0
+  },
+  "data_source": "cbse"
+}

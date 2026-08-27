@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-crafts-consumer-role_train_001",
+  "question_id": "cbse-eng-crafts-consumer-role",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Official programmes need shoppers. If buyers ignore indigenous crafts, platforms and subsidies cannot save them. Everyday purchase decisions decide whether handmade work survives beside mass production.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-crafts-consumer-role_c1": 2.0
+  },
+  "data_source": "cbse"
+}

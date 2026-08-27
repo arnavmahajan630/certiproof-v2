@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E09.Q01_train_000",
+  "question_id": "mohler-E09.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A queue is similar to an array, except that the data can only be accessed sequentially rather than at random. Unlike a stack, a queue follows FIFO. First in, First out.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E09.Q01_c1": 5.0
+  },
+  "data_source": "mohler"
+}

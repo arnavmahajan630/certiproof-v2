@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_046",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A) From the experiment the students performed we can conclude that plastic type A stretched the most as compared to plastics type B,C,D because from \"T2\" it started at 10 and to T2 it went to 12. Whereas for the others it stretched only 1mm and in type \"A it stretched 2mm\". ^p B0 The students could improve this experiment by adding more trials so they could get better and more precise results. They could also be more specific about the weights and tell us what to start with, small weights and then gradually get to heavier ones or use all the same.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

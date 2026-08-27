@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E05.Q04_train_000",
+  "question_id": "mohler-E05.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The best case is the same as the worst case O(n log n) for a recursive merge sort.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E05.Q04_c1": 2.0
+  },
+  "data_source": "mohler"
+}

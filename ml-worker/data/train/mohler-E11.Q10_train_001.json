@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q10_train_001",
+  "question_id": "mohler-E11.Q10",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "merge sort splits the array of elements into smaller arrays until the arrays reach size 1 and then the merge sort merges the smaller arrays into arrays of size 2 then it moves to the next step and merges the next arrays.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q10_c1": 5.0
+  },
+  "data_source": "mohler"
+}

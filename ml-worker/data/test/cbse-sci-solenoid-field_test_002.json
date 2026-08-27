@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-solenoid-field_test_002",
+  "question_id": "cbse-sci-solenoid-field",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "A solenoidd is a cylindricall coil of many closely wound turns of insulated copper wire. When current flows, the field inside is nearly uniform and parallel to the axis, similar to the field of a bar magnet. One end behaves as a north pole and the other as a south pole, depending on the direction of current (right-hand grip rule). Outside, the field is weak. A soft-iron core placed inside makes a strong electromagnet used in electric bells and cranes.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-solenoid-field_c1": 3.0
+  },
+  "data_source": "cbse"
+}

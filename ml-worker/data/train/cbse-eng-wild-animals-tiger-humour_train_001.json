@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-wild-animals-tiger-humour_train_001",
+  "question_id": "cbse-eng-wild-animals-tiger-humour",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Humour comes from mock-serious advice: look at the coat, then notice if you are dinner. Majesty and appetite are yoked together so the reader laughs at fear.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-wild-animals-tiger-humour_c1": 2.0
+  },
+  "data_source": "cbse"
+}

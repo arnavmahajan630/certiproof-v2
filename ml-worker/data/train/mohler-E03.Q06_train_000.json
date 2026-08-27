@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q06_train_000",
+  "question_id": "mohler-E03.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Incorrect or missing base case. Must reduce to the base case. The function must get simpler each time it is run (converge to the base case).",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q06_c1": 5.0
+  },
+  "data_source": "mohler"
+}

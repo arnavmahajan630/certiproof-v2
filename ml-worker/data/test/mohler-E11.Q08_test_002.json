@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q08_test_002",
+  "question_id": "mohler-E11.Q08",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In arrays strings are stored as a characters (char[]), each character of string will be stored in each memory location of the array, while string of characters is only one memory location.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q08_c1": 2.0
+  },
+  "data_source": "mohler"
+}

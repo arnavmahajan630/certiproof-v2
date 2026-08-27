@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_013",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The additional information you would need in order to replicate the experiment would be first, naming the four different samples given to you. Secondly, you would need the amount of vinegar needed to pour into the containers and what kind of containers. Thirdly, you would need to know how you would determine the mass (example, with an electric balance). The students need to be more specific on their materials.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

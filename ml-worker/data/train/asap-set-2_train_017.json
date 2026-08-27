@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_017",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A)Based on the student's data, the plastic that has has the most stretchability is plastic type A. It started at 10 mm and then the weight added on it stretched to 12mm. Plastic type D has no stretchability, It remained at 20 mm for the second trial.^p (b) One way the student could have improved the results and validity of them is by stating how much weight was added to each type of plastic bag. Also if you record the length A was before adding weights, you can see how for each bag stretched from itself. Right now there is no constant in the experiment.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

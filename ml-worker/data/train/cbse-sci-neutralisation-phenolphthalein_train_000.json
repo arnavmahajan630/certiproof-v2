@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-neutralisation-phenolphthalein_train_000",
+  "question_id": "cbse-sci-neutralisation-phenolphthalein",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Sodium hydroxide reacts with sulphuric acid as 2NaOH + H2SO4 -> Na2SO4 + 2H2O. The base is neutralised to a salt and water. It is also a double displacement reaction because Na+ and H+ exchange partners. It is not a precipitation reaction, since sodium sulphate dissolves in water. Phenolphthalein is pink in the alkaline NaOH and turns colourless once enough acid has been added to destroy the basic medium.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-neutralisation-phenolphthalein_c1": 3.0
+  },
+  "data_source": "cbse"
+}

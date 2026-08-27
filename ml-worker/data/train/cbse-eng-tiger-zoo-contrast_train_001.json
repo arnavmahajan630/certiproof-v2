@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-tiger-zoo-contrast_train_001",
+  "question_id": "cbse-eng-tiger-zoo-contrast",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The cage shrinks a hunter into a restless exhibit. The imagined forest restores his rightful power: stealth, hunger and fear in others. The poem's contrast is a protest against zoos that display wildness without granting it.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-tiger-zoo-contrast_c1": 3.0
+  },
+  "data_source": "cbse"
+}

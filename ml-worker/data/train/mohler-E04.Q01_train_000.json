@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E04.Q01_train_000",
+  "question_id": "mohler-E04.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "One way is to declare a size of the array using a variable that is equal to an integer. The other way, if the size is omitted in the declaration, the compiler determines the size of the array based on the size of the initializer list.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E04.Q01_c1": 5.0
+  },
+  "data_source": "mohler"
+}

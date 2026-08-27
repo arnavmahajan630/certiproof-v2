@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_011",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A) In conclusion plastic type",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

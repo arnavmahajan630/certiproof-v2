@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-periodic-table-compare_test_002",
+  "question_id": "cbse-sci-periodic-table-compare",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Mendeleev arranged elements in order of rising atomic mass so that those with similar properties fell in the same group. He left blank spaces for elements that had not yet been found and predicted thier properties, wich were later confirmed. Noble gases, discovered later, could be given a seperate group without disturbing his order. The table still had problems: cobalt was placed before nickel even though cobalt has a slightly higher mass, and isotopes would have needed extra slots. The modern periodic law uses atomic number instead of mass. Elements are placed in 18 groups and 7 periods according to electronic configuration. Becuase atomic number is unique, cobalt and nickel fall in the correct order and all isotopes of an element occupy one box. Valence electrons now explain why group properties repeat.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-periodic-table-compare_c1": 5.0
+  },
+  "data_source": "cbse"
+}

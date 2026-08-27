@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_002",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A- In conclusion, plastic type \"B\" streched the most. The data says, it streched 22mm on trial one and 23mm on trial 2. ^p B- One way the student could change the procedure, is allow them to hang for 10 min instead of 5 minutes. Also they could change it up by, changing the weights every time.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

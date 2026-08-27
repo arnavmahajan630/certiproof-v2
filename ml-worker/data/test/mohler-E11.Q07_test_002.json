@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q07_test_002",
+  "question_id": "mohler-E11.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "a static array can be can be edited throughout the program, while a non-static array can only be edited within a given function",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q07_c1": 3.5
+  },
+  "data_source": "mohler"
+}

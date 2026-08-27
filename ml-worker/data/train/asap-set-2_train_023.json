@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_023",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A) From this data, it can be concluded that plastic type B is the most flexible because it has the longest length stretched in both trial 1 and 2 additionally. Plastic type A is the least flexible since it had the shortest length stretched in both trials. B) One way the experimental design could be improved is by adding more trials for each plastic because more trials lead to more accurate results. Additionally the design could show how much weight is used on each plastic because if the weights are not the same for each plastic and trial, the results are clearly not valid.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

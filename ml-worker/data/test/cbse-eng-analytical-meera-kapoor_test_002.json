@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-analytical-meera-kapoor_test_002",
+  "question_id": "cbse-eng-analytical-meera-kapoor",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Based on the two letters, Ms Meera Kapoor is the stronger guest speaker for a school debate. Both applicants are skilled, but her international awards and habit of linking arguements to global and social issues match what senior students care about. She treats debating as a way to grow in confidence and public speaking, wich suits teenagers still finding a voice. Mr Sharma has ten years of coaching and a record at national contests, yet his letter stresses technique more than lived examples. For a mixed high-school audience, Kapoor's relatability and wider exposure are more likely to hold attention and show why debate matters beyond the classroom.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-analytical-meera-kapoor_c1": 5.0
+  },
+  "data_source": "cbse"
+}

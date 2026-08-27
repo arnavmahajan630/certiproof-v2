@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_016",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "codons are made on the rna strand.the codons are tranferred to amino acids.the amino acids make proteins.the stop codon is used to stop the production of more amino acids.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

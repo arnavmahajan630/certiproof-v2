@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-thief-story-change_train_001",
+  "question_id": "cbse-eng-thief-story-change",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Anil never locks doors or lectures. Hari still steals, but the thought of losing reading lessons and a kind home outweighs the money. He returns, accepting work and learning. Ruskin Bond shows reform as something caught from patience, with literacy as the prize that makes crime look small.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-thief-story-change_c1": 6.0
+  },
+  "data_source": "cbse"
+}

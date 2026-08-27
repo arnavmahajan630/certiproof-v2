@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-balancing-conservation_train_001",
+  "question_id": "cbse-sci-balancing-conservation",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "We balance equations so atom counts match on both sides, as required by conservation of mass. The formation of water is written 2H2 + O2 -> 2H2O.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-balancing-conservation_c1": 2.0
+  },
+  "data_source": "cbse"
+}

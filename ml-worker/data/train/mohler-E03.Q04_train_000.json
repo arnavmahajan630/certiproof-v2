@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q04_train_000",
+  "question_id": "mohler-E03.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Gives the called function the ability to access and modify the caller's argument data directly.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q04_c1": 3.0
+  },
+  "data_source": "mohler"
+}

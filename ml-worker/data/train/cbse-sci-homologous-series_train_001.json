@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-homologous-series_train_001",
+  "question_id": "cbse-sci-homologous-series",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Homologues differ by CH2, keep the same functional group, react chemically alike, and show a gradation in physical properties as mass increases.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-homologous-series_c1": 2.0
+  },
+  "data_source": "cbse"
+}

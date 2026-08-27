@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q04_train_000",
+  "question_id": "mohler-E11.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Contains the function name and its paramaters. The return type is not included",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q04_c1": 5.0
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-concave-lens-nature_train_001",
+  "question_id": "cbse-sci-concave-lens-nature",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Concave lenses always give a small upright virtual image. Convex lenses do so only when the object lies inside the focal length.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-concave-lens-nature_c1": 2.0
+  },
+  "data_source": "cbse"
+}

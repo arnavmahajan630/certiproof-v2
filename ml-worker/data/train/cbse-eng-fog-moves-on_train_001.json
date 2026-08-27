@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-fog-moves-on_train_001",
+  "question_id": "cbse-eng-fog-moves-on",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "'Moves on' makes the fog a guest, not a resident. Life's moods and scenes behave the same way, arriving softly and departing before we can hold them.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-fog-moves-on_c1": 3.0
+  },
+  "data_source": "cbse"
+}

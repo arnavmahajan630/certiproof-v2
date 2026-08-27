@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q09_test_003",
+  "question_id": "mohler-E12.Q09",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "if it has no children, you just delete it. if it only has one child, just replace the node with whichever child it has. if it has both children, replace it with one of its children, and send the other child down along the other side of the new node.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q09_c1": 4.0
+  },
+  "data_source": "mohler"
+}

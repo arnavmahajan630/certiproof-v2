@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-consumer-rights_train_000",
+  "question_id": "cbse-sst-consumer-rights",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Markets are unequal: companies have more information and power, so buyers can face unsafe goods, underweight packs or false ads. India passed the Consumer Protection Act (COPRA), 1986, giving rights to safety, information, choice and redressal through consumer courts.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-consumer-rights_c1": 3.0
+  },
+  "data_source": "cbse"
+}

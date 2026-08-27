@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-party-functions_train_000",
+  "question_id": "cbse-sst-party-functions",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Parties contest elections by putting up candidates. They bundle similar opinions into policies that guide government. In the legislature they debate and pass laws. Losers form the opposition and criticise failures. Parties also shape public opinion, raise issues, and help ordinary people reach government welfare schemes more easily than approaching an officer directly.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-party-functions_c1": 5.0
+  },
+  "data_source": "cbse"
+}

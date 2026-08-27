@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q06_train_001",
+  "question_id": "mohler-E10.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "It travels left to right",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q06_c1": 3.5
+  },
+  "data_source": "mohler"
+}

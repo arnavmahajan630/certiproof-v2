@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q06_train_000",
+  "question_id": "mohler-E11.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "itteration, like a for loop, a while loop, or a do while loop",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q06_c1": 5.0
+  },
+  "data_source": "mohler"
+}

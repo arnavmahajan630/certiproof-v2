@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_006",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A. In conclusion Plastic B was the best because it had the highest amount stretched for both trials in the first it stretched 22 while A,10, C 14, D 20 the second trial that it went up a mm to 23 while A,12,C,13, D 20. ^p One way they could improve the validity is more trials your experiment will only get more valid with more trials. The second way is to be more specific with what trials with what kind of tape, how much tape your using and were you measuring from weather it's the whole thing or just the part hanging.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

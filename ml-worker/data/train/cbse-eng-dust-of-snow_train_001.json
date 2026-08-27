@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-dust-of-snow_train_001",
+  "question_id": "cbse-eng-dust-of-snow",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Crow and hemlock should deepen gloom, yet the falling snow changes the speaker's mood from rue to cheer. The poem values a small, chance touch of winter as enough to redeem hours of sadness.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-dust-of-snow_c1": 3.0
+  },
+  "data_source": "cbse"
+}

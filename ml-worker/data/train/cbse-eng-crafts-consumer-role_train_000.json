@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-crafts-consumer-role_train_000",
+  "question_id": "cbse-eng-crafts-consumer-role",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Policies and training help, but they fail if nobody buys the products. Consumers create the market: when they choose handmade goods over cheap factory items, artisans get work and crafts stay visible. Their spending is what turns support schemes into real income and keeps cultural heritage alive.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-crafts-consumer-role_c1": 2.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-presbyopia-age_test_002",
+  "question_id": "cbse-sci-presbyopia-age",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Presbyopiaa appearss in older people who find it hard to read or do close work. With age the crystalline lens loses flexibility and the ciliary muscles weaken, so the lens cannot become thick enough to focus on nearby objects. The near point recedes. A convex lens of suitable power restores near vision. If the person is also myopic, bifocal spectacles are used: the upper part is concave for distant vision and the lower part is convex for reading.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-presbyopia-age_c1": 3.0
+  },
+  "data_source": "cbse"
+}

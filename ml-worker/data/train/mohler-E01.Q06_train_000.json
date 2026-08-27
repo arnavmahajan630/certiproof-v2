@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E01.Q06_train_000",
+  "question_id": "mohler-E01.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Variables are declared before they are actually used. They can be declared before main() to use globally",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E01.Q06_c1": 4.0
+  },
+  "data_source": "mohler"
+}

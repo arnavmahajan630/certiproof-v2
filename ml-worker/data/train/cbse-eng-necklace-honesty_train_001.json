@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-necklace-honesty_train_001",
+  "question_id": "cbse-eng-necklace-honesty",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The story punishes concealment. Secret replacement, not the party, ruins them. Truth at the start would have ended the crisis, proving a frank admission protects peace of mind.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-necklace-honesty_c1": 3.0
+  },
+  "data_source": "cbse"
+}

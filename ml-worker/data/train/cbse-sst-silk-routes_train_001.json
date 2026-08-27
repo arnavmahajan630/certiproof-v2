@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-silk-routes_train_001",
+  "question_id": "cbse-sst-silk-routes",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Goods such as pottery from China and spices from India moved west on the silk routes, and precious metals moved east from Europe. Culture travelled with commerce, so Buddhism, Christianity and Islam all spread along these intersecting trade roads.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-silk-routes_c1": 2.0
+  },
+  "data_source": "cbse"
+}

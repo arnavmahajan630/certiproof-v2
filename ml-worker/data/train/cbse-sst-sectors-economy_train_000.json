@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-sectors-economy_train_000",
+  "question_id": "cbse-sst-sectors-economy",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The primary sector uses natural resources, as in agriculture, fishing and mining. The secondary sector manufactures goods, for example a factory turning leather into shoes. The tertiary sector provides services such as transport, shops, banks and schools.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-sectors-economy_c1": 3.0
+  },
+  "data_source": "cbse"
+}

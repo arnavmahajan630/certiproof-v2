@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-eye-defects-accommodation_test_002",
+  "question_id": "cbse-sci-eye-defects-accommodation",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "The eye focuses both distant and nearby objects on the retina by changing the thickness of the crystalline lens. This power of accomodation has limits, so defects of vision appear. In myopia the far point is nearer than infinity and the image of a distant object forms in front of the retina, usually becuase the eyeball is too long or the lens is too converging. A concave spectacle lens diverges the rays first so they meet on the retina. In hypermetropia the near point is farther than 25 cm and the image of a close object forms behind the retina; a convex lens supplies extra converging power. Presbyopia comes with age when the lens stiffens and ciliary muscles weaken, so near work is blurred. It is corrected with convex reading glasses or with bifocals that combine a concave upper part for distance and a convex lower part for reading. Lens power is 1/f in metres, in dioptre.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-eye-defects-accommodation_c1": 5.0
+  },
+  "data_source": "cbse"
+}

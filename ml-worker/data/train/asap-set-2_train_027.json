@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_027",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "a) A conclusion that I can draw based on the students data is that plastic \"B\" stretches alot more then any of the other plastics and plastic \"a\" is the least stretchy. I know that because plastic B's lowest trial was trial 1 with 22mm stretched whitch higher than any of the others on the data table. Also plastic \"a's\" highest was in trial 2 at 12mm stretched and that the lowest on the board (besides its own t1). As you can see the conclusion I drew and why it is an accurate one. B.) Two ways it could have been improved was by - doing 3 trials bc the more trials the more accurate the experiment is and you're supposed to do 3. - he should have allowed the them to hang for more then 5 minutes in step 4. This way it will have more time to stretch.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_016",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The additional information I would need in order to replicate this experiment are the mass of the containers because if you placed the substance in with the sample, in order to find the mass of only the sample, you need to subtract the mass of the container. Also it is necessary to know how much vinegar to mix in with the sample. I also need to know what type of environment to put the samples when I am waiting 24 hours. Lastly, I need to know what type of container to put the samples in because it may have an affect on how the samples react.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-blue-sky-scattering_train_000",
+  "question_id": "cbse-sci-blue-sky-scattering",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Sunlight is scattered by air molecules. According to Rayleigh scattering, intensity of scattered light varies as 1/lambda^4, so violet and blue are scattered much more than red. Although violet is scattered slightly more than blue, the human eye is more sensitive to blue than to violet, so the daytime sky looks blue.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-blue-sky-scattering_c1": 2.0
+  },
+  "data_source": "cbse"
+}

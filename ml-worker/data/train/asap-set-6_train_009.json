@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_009",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Cells use processes to move substances across the cell membrane. Three ways to do this are active, passive, and diffusion. Active transport requires energy, this may use transport protiens. Passive transport does not require energy, the molecules just pass through the membrane. And diffusion is the the net movement of particles from an area of high concentration to an area of low concentration.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-combination-decomposition_train_000",
+  "question_id": "cbse-sci-combination-decomposition",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "In a combination reaction two or more reactants join to give a single product, for example carbon burning in oxygen to form carbon dioxide, which releases heat. In a decomposition reaction one compound splits into two or more products. Electrolysis of water, 2H2O -> 2H2 + O2, is a decomposition that absorbs electrical energy, so it is endothermic.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-combination-decomposition_c1": 2.0
+  },
+  "data_source": "cbse"
+}

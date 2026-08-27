@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_029",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In my experiment I would include steps: ^p 1. Gathering materials. ^p 2. Observation of the substances. ^p 3. Making sure no particles were lost in the rinsing of water.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

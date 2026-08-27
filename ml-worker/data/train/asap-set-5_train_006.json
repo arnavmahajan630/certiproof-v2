@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_006",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "1) tRNA reads the strand of mRNA using anticodons.2) tRNA retrieves amino acids.3) The process continues until a stop codon is reached.4) The newly formed polypeptide is released.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

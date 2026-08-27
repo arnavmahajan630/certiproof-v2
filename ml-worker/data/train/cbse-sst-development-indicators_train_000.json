@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-development-indicators_train_000",
+  "question_id": "cbse-sst-development-indicators",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Per capita income is useful but hides how unevenly income is shared and what goods actually cost. Development also means health, schooling, literacy, life expectancy and access to public facilities, which UNDP combines in the Human Development Index.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-development-indicators_c1": 3.0
+  },
+  "data_source": "cbse"
+}

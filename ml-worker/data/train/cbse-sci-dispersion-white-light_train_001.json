@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-dispersion-white-light_train_001",
+  "question_id": "cbse-sci-dispersion-white-light",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A prism splits white light because glass refracts each wavelength by a different amount. Violet deviates most and red least, producing VIBGYOR.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-dispersion-white-light_c1": 3.0
+  },
+  "data_source": "cbse"
+}

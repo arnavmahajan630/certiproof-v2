@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-hybrid-pens-viable_train_001",
+  "question_id": "cbse-eng-hybrid-pens-viable",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Mixing ballpoint toughness with micro-tip neatness would appeal across ages and purposes. Broader usefulness means stronger demand, which makes the design profitable for manufacturers.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-hybrid-pens-viable_c1": 2.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_004",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "After the mRNA leave the nucleus, there are four other major steps involved in protein synthesis. First, a tRNA attaches to the strand of mRNA. The first codon of nucleotide bases on the mRNA match the codon on the tRNA. The tRNA codes for an amino acid. Next, another tRNA connects to the next codon, bringing in another amino acid. The first tRNA floats away, leaving the amino acid behind. The amino acids bond. This continues, creating a strand of amino acids, until a stop codon is reached. Then the chain of amino acids is released.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

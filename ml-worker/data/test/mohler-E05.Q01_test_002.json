@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E05.Q01_test_002",
+  "question_id": "mohler-E05.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "have a marker and sort everything to the left of the value for every new value when moving to the right.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E05.Q01_c1": 3.0
+  },
+  "data_source": "mohler"
+}

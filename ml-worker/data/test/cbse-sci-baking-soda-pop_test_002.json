@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-baking-soda-pop_test_002",
+  "question_id": "cbse-sci-baking-soda-pop",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Bakingg soda is sodiumm hydrogencarbonate, NaHCO3. On heating it gives carbon dioxide, wich makes cakes rise; it is also a mild antacid and is used in soda-acid fire extinguishers. Plaster of Paris is calcium sulphate hemihydrate, CaSO4.1/2H2O. It is obtained by heating gypsum, CaSO4.2H2O, at about 373 K so that it loses water. Mixed with water it sets to a hard mass and is used to support fractured bones.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-baking-soda-pop_c1": 3.0
+  },
+  "data_source": "cbse"
+}

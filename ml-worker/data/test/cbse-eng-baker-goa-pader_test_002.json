@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-baker-goa-pader_test_002",
+  "question_id": "cbse-eng-baker-goa-pader",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Even afterr the Portuguesee left, the pader still woke the village. Children ran to his basket for bread-bangles, and no marriage was complete without those sweets. He announced himself with a bamboo staff that thudded and jingled. A prosperous baker was plump, and sons often took over the mixers, so the trade was both food supply and living heritage.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-baker-goa-pader_c1": 3.0
+  },
+  "data_source": "cbse"
+}

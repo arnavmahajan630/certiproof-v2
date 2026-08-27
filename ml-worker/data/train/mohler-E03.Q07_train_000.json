@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q07_train_000",
+  "question_id": "mohler-E03.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Incorrectly writing either can result in infinite loops, both perform the same task over and over.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q07_c1": 3.5
+  },
+  "data_source": "mohler"
+}

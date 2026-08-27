@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-copper-dome-corrosion_test_002",
+  "question_id": "cbse-sci-copper-dome-corrosion",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Copper slowly reacts with air, carbon dioxide and moisture to form a green coating of basic copper carbonate. That layer sticks to the metal and prevents further corrosion, so a copper dome lasts. Iron would form rust, Fe2O3.xH2O, wich is loose and flakes off, exposing fresh iron untill the structure weakens. Copper is also highly malleable, so it can be beaten into thin sheets and curved to the shape of a roof.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-copper-dome-corrosion_c1": 3.0
+  },
+  "data_source": "cbse"
+}

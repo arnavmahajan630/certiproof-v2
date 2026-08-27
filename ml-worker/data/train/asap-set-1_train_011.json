@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_011",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "There is much additional information necessary in these procedure in order for one to be able to repeat it in step 1, the four samples should be specified as marble, limestone etc as they were in the data table. In step 2, how much vinegar (ie in ml) should be desorined as well as the type of container (a jar/plastic/beaker etc) also in steps vi, determining the mass could be also tried more by saying what type of measurement should be used such as beams. Lastly, there should be a step 7 directing us to find the differences in mass as it does in the data table.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q05_train_001",
+  "question_id": "mohler-E10.Q05",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "a tree where each node has at most two nodes and the node on the left is less than the root and the node on the right is greater than the root.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q05_c1": 4.5
+  },
+  "data_source": "mohler"
+}

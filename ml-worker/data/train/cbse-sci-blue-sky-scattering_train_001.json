@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-blue-sky-scattering_train_001",
+  "question_id": "cbse-sci-blue-sky-scattering",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Short wavelengths scatter strongly in the atmosphere. Blue dominates what we see because our eyes respond more to blue than to the even shorter violet.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-blue-sky-scattering_c1": 2.0
+  },
+  "data_source": "cbse"
+}

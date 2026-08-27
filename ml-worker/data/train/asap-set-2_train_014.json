@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_014",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "a.) A conclusion I can draw from the experiment is that that plastic type B has the most stretchability because it stretched the greatest amount of mm which wass 22mm in trial 1 and 23mm in trial 2. ^p b.) The student could improve this experiment by specifying a certain length all polymer plastics should start out as so they all begin on the same level and therefore the data is accurate. Also, the student could specify how many milimeters of each plastic should be taped to the table so they all start put the same length & make the data more accurate.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

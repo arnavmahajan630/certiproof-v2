@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q05_test_003",
+  "question_id": "mohler-E10.Q05",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "a binary search tree is a special tree in which each node has at most two children, labeled left child and right child",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q05_c1": 2.5
+  },
+  "data_source": "mohler"
+}

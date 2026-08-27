@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-electric-motor-rule_train_001",
+  "question_id": "cbse-sci-electric-motor-rule",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The left-hand rule relates field, current and force. A motor uses that force on two sides of a coil, with a commutator to keep the coil turning in one direction.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-electric-motor-rule_c1": 3.0
+  },
+  "data_source": "cbse"
+}

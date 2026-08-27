@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_003",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Once the mRNA leaves the nucleus it go to the ribosomes where protein will be made. Then the protein will make its way to the mitochondria where it will be transfered into energy the cell can use.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-hypermetropia-correction_train_001",
+  "question_id": "cbse-sci-hypermetropia-correction",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Long-sighted people cannot see close work clearly because the image falls behind the retina. A converging spectacle lens corrects the defect.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-hypermetropia-correction_c1": 3.0
+  },
+  "data_source": "cbse"
+}

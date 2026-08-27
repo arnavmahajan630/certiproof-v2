@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-refraction-snell_test_002",
+  "question_id": "cbse-sci-refraction-snell",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "The firstt law of refractionn is that the incident ray, the refracted ray and the normal at the point of incidence all lie in one plane. The second law, Snell's law, says that for a given pair of media and a given colour, sin i divided by sin r is constant. That constant is the refractive index of the second medium with respect to the first. The absolute refractive index of a medium is c/v, the speed of light in vacuum divided by the speed in that medium. Glass has n about 1.5, so light slows down on entering glass and bends towards the normal.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-refraction-snell_c1": 3.0
+  },
+  "data_source": "cbse"
+}

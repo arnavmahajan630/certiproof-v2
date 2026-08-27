@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_019",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "According to the experiment, the type of plastic that had the greatest ability to stretch was plastic B. In both trials, this plastic stretched a few mm more than the rest. In the first trial it stretched 22mm and in the second 22mm. ^P The student could have improved the experiment by using a certain amount of weights added so that all the plastics would be under the same pressure and to add a control such as no weights. The control would have made a good bomparison to the data gathered and the amount of weights would have made created controlled variables.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

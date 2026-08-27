@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-gender-inequality_train_001",
+  "question_id": "cbse-sst-gender-inequality",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Patriarchy shows up in education gaps, unequal pay, a falling child sex ratio and violence against women at home and at work.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-gender-inequality_c1": 2.0
+  },
+  "data_source": "cbse"
+}

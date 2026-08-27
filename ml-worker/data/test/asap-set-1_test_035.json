@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_test_035",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "To replicate this experiment first off I have to know which sample is which. When recording the mass I will not know which belongings to the correct sample. Also it does not tell us in what metric unit we are measuring the samples with, so this needs to be clearer. Last of all, in order to replicate this experiment I need to know how much vinegar needs to be added into the containers, because different amounts of vinegar can change the results. Last of all in step 4 it tell us to remove the samples, but I do not know ways to remove those samples, in a seperat cup or container?",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

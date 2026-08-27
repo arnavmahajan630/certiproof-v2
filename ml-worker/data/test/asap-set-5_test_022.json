@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_test_022",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "the mRNA moves across th cytoplasm.then it gets the the cytoplasm were it reads the mRNA to make a copy of itthe copy is make to tRNA to make amino acid.then the ribosome makes the amino acid to make protein",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

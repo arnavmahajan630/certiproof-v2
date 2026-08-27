@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q03_test_002",
+  "question_id": "mohler-E02.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "constructor creates the class object into memory where functions perform actions against that object",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q03_c1": 3.0
+  },
+  "data_source": "mohler"
+}

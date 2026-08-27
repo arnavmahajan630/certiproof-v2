@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q01_train_001",
+  "question_id": "mohler-E11.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Constructor Data members Methods",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q01_c1": 4.5
+  },
+  "data_source": "mohler"
+}

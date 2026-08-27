@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q03_test_003",
+  "question_id": "mohler-E11.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "they are initialized to 0",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q03_c1": 1.0
+  },
+  "data_source": "mohler"
+}

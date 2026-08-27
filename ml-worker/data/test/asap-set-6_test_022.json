@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_test_022",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Facilitated diffusion- is a way that substances move from one form of concentration to another form of consintration, diffusion- it takes substances from an area of high concentration to low consintraion, osmosis- deals with the water bieng moved",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

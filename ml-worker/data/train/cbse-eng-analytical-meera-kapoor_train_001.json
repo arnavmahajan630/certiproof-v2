@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-analytical-meera-kapoor_train_001",
+  "question_id": "cbse-eng-analytical-meera-kapoor",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Ms Kapoor is the better invite. She has spoken at world forums, won praise on public issues, and promises to show students how debate touches real life and personal growth. Mr Sharma is an experienced school and university coach who builds competitive skill, but that strength is narrower. The Debate Society needs a speaker who can inspire as well as instruct, and Kapoor's global, student-centred approach fits that need more closely than a purely technical session.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-analytical-meera-kapoor_c1": 5.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-redox-zn-cuso4_train_000",
+  "question_id": "cbse-sci-redox-zn-cuso4",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A redox reaction is one in which oxidation and reduction take place together. Zinc metal displaces copper: Zn + CuSO4 -> ZnSO4 + Cu. Zinc atoms lose electrons and become Zn2+, so zinc is oxidised. Copper(II) ions gain those electrons and become copper metal, so copper is reduced. Because electrons are transferred from zinc to copper, the displacement is a redox reaction.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-redox-zn-cuso4_c1": 2.0
+  },
+  "data_source": "cbse"
+}

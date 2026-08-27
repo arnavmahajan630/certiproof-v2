@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_018",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "During protein synthesis the mRNA first leaves the nucleus. It then goes on to the Golgi Apparatus. The next step is the Endoplasmic Reticulum (ER). After the mRNA leaves the ER it makes its way to the nucleus.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

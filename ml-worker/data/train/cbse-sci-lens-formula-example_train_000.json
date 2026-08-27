@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-lens-formula-example_train_000",
+  "question_id": "cbse-sci-lens-formula-example",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The lens formula is 1/v - 1/u = 1/f, where distances to the left of the optical centre are negative. For a concave lens the object distance u is -20 cm. The virtual image lies on the same side, so v is -10 cm. Then 1/f = 1/(-10) - 1/(-20) = -1/10 + 1/20 = -1/20, so f = -20 cm. The negative focal length shows that the lens is diverging, that is, concave.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-lens-formula-example_c1": 3.0
+  },
+  "data_source": "cbse"
+}

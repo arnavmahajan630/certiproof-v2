@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_008",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "After the the mRNA leaves the cells nuclaer envolope throught the pores in the envolope the m RNA seeks out a ribosome ( an organelle that synthisize protien based on the codons it get for the messenge RNA) to synthisize the proteins it has codons for. After the mRNA finds a ribosome to synthisize the proteins it attaches on to the ribosome for it to read the codon sequance it contians. A codone is a sequence of three molacuole of nueclear acid that when read stand for one amino acid ( Amino Acid- the building blocks for proteins) As the ribosomes read the codon sequence, the ribosome calls tRNA to retrive the amino acids it need to create a protien chain. After a protein chain has been made the mRNA has no more use and it desolves back into the cytoplasm. After the protien chain has been fully synthisied it get sent to the rought endoplasmic reticulum to have final touches added to it. After all the final touches are added to the protein chain, it is then sent to the golgi apparatus to be prepare to be shipped out to another part of the body. After the golgi apparatus has prepared the protein chain to be shipped out it is then sent to the cell membrance to exit through a protein channal. After the protein has exited the cell it is shiped off else where in the body to be used",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

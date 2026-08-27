@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_test_023",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The mRNA leaves the nucleus through a small hole, only sizable for it. It then goes to the ribosome. Once its in, the tRNA begings to match it up with the opposite letters in pairs of three. The strand leaves the ribosome in pairs of three, the amino acid sequence to make the protiens we need.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

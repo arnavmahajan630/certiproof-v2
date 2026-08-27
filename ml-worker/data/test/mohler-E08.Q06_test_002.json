@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E08.Q06_test_002",
+  "question_id": "mohler-E08.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "infix expressions are pointers evaluated by reference to the memory location",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E08.Q06_c1": 1.5
+  },
+  "data_source": "mohler"
+}

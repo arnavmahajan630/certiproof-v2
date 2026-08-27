@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E06.Q02_train_001",
+  "question_id": "mohler-E06.Q02",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "It returns the memory address of it's operand. That is, if applied to a normal variable, it gives the variable's memory address, just as a pointer variable might.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E06.Q02_c1": 4.5
+  },
+  "data_source": "mohler"
+}

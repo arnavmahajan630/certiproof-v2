@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_003",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In order to replicate the experiment , a list of materials should be included, especially the dependent variables ( marble, limestone,wood, plastic). It is not sufficient to have the indepent inciable be listed in the data table. Each substance (marble,limestone wood and plastic) should replace the word\"samples\" in step 1.The procedure should also include how much distilled water rinse with because washing with different amounts of water can create hidden variables,because some sample retain water better than others (Wood,retains water better than plastic). There is also no indication when the experimentor should stop rinsing the samples. In addition the students did not mention that the mass should be determined using an electronic balance measuring in grams.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

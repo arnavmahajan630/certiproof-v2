@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-mandela-liberate-both_train_000",
+  "question_id": "cbse-eng-mandela-liberate-both",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Mandela said the oppressor is also imprisoned by prejudice. Today that means talking across communities, not only punishing one side. Laws should lift those who were shut out, but schools and public life must also teach the privileged to drop hatred. Otherwise inequality just changes hands instead of ending.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-mandela-liberate-both_c1": 3.0
+  },
+  "data_source": "cbse"
+}

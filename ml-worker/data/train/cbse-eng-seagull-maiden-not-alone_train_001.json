@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-seagull-maiden-not-alone_train_001",
+  "question_id": "cbse-eng-seagull-maiden-not-alone",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Parents and siblings filled the sky as soon as he left the ledge. Their calls and aerobatics prove the maiden flight was shared, not a lonely triumph.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-seagull-maiden-not-alone_c1": 2.0
+  },
+  "data_source": "cbse"
+}

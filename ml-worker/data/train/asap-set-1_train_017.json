@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_017",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "One piece of information needed is write samples you will be working with in the procedure. They repeat over and over about different samples, but never once tell you what they were.The second piece of information needed is letting the people who are doing the experiment know that they must make a table and record the starting mass,ending mass and then the difference between the two for each sample. Finally the 3rd thing they should make known is how much of each sample is needed and how much vinegar you need to add and what unit of measure is being used.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

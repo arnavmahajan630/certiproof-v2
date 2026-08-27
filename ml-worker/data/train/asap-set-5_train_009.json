@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_009",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "First, the mRNA attaches to a ribosome and then the ribosome reads the mRNA in segments of three, called codons. For each codon, there is a complementary amino acid. Secondly, tRNA picks up the needed amino acids and brings them to the ribosome. Thirdy, the amino acids attach to each other and form a chain of amino acids according to the way in which the codons are read on the mRNA strand by the ribosome. The chain continues to form until the ribosome reaches the stop codon on the mRNA strand. Lastly, the ribosome disconnects from the mRNA strand and the protein is relased to perform its job in the cell.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

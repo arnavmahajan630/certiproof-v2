@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-extraction-metals-reactivity_test_002",
+  "question_id": "cbse-sci-extraction-metals-reactivity",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "A metal's place in the reactivity series decides how it is won from its ore. Sodium and potassium are too reactive for carbon to reduce them, so molten NaCl is electrolysed: Na+ is reduced at the cathode. Aluminium is obtained by electrolysis of molten alumina. Metals in the middle, such as iron and zinc, have thier oxides reduced by coke in a blast furnace, or by aluminium in the thermite process. Gold and silver are so unreactive that they are found free or are obtained by simple heating. Iron in moist air forms rust, hydrated ferric oxide, wich flakes off. Painting, oiling, galvanising with zinc, or making stainless steel by alloying with chromium and nickel all keep oxigen and water away from the iron.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-extraction-metals-reactivity_c1": 5.0
+  },
+  "data_source": "cbse"
+}

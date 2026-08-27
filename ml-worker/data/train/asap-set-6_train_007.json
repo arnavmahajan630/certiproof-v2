@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_007",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The cell can use passive transport, which allows things to freely move in and out of the cell given the concentration of the matter. Active transport uses energy from the cell to move materials against the gradient. One form of this moves materials out, called endosymbiosis. Another form moves them inside the cell, called exosymbiosis.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

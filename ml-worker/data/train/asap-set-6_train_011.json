@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_011",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Cells have receptors on their outside, that are in the phospholipid bilayer, that only allow substances in if they match up to the receptors perfectly. Cells also use a process in which they form a 'bubble' around a substance (endocytosis) that they want to bring into the cell (this uses ATP). Another process that cells use to control the movement of substances across the membrane is exocytosis, which is when the cell gets rid of substances by forming a 'bubble' around the substance and sending it out of the cell. This is very similar to endocytosis except it is used for the opposite goal.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

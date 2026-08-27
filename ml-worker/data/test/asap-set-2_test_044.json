@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_044",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A) Based on the data, plastic B was the most strethible plastic. This is because, on average, it stretched 22.5mm in length. The next highest amount stretched, by plastic D, was an average of 20mm in length, showing that plastic B stretched the most. B) One way the student's could've improved their design is by adding a third trial. This could help make sure there was no faulty data, such as an outlier. They also could've written the amount of weight that was stretching the plastics. Otherwise, for all the & prove they could've been changing these weights, which would've given them 2 independent variables, therefore, making their experiment invalid.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

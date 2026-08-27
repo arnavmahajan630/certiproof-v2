@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-soap-hard-water_train_001",
+  "question_id": "cbse-sci-soap-hard-water",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Ca2+ and Mg2+ waste soap as scum. Detergent molecules do not form that precipitate, so they still foam in hard water.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-soap-hard-water_c1": 2.0
+  },
+  "data_source": "cbse"
+}

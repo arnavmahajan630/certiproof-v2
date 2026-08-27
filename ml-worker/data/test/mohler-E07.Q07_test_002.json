@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E07.Q07_test_002",
+  "question_id": "mohler-E07.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "It takes up twice the storage needed.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E07.Q07_c1": 5.0
+  },
+  "data_source": "mohler"
+}

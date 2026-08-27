@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E08.Q04_train_001",
+  "question_id": "mohler-E08.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Keep a pointer pointing to the last element entered at the front of the array and move the pointer \"back\" when you delete an element.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E08.Q04_c1": 2.5
+  },
+  "data_source": "mohler"
+}

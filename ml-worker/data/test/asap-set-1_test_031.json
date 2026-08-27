@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_test_031",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "There are a few additional pieces of information that one would need in order to replicate the experiment. First of all, the procedure fails to mention what the sample materials are, so their names would have to be included in the first step. Additionally, the procedure also does not mention how much vinegar to pour in each container. In order to replicate the experiment, one would need to know how much vinegar to put in each of the containers. Finally, the last step states, to determine the mass of each sample, but does not give a unit of measurement. Therefore, it would need to include that the mass is to be measured in grams. With this additional information, one could now replicate the experiment.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

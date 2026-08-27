@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-refraction-atmosphere-scattering_train_001",
+  "question_id": "cbse-sci-refraction-atmosphere-scattering",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Uneven air bends starlight and makes stars twinkle, and it also makes the sun visible a little before dawn. Scattering makes the sky blue and sunsets red. Rainbows come from dispersion and reflection inside raindrops.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-refraction-atmosphere-scattering_c1": 5.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_013",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "1. mRNA heads to the Ribosome2. mRNA gets decoded3. tRNA grabs an amino acid and brings it back to the decoded mRNA4. rRNA is taken back to the nucleus",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

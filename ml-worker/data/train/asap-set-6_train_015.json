@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_015",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The first process used by cells to cross the membrane would be known as diffusion. Diffusion uses no energy when particles are moving from a concentration of high to low. If they are moving from a concentration of low to high then this does use energy. Diffusion continues until the membrane has obtained equillibrium on both sides. The second process of cells moving across the membrane is known as osmosis. This is the same as diffusion only water molecules are attempting to cross the membrane. This type of diffusion is known as passive transport and requires no energy. Water needs to be moved in and out of the cell by osmosis to maintain homeostasis. Facilitated Diffusion is the third process by which substances move across the membrane. This is done by a membrane protein and requires signal molecules to signal the protein to open and close. Once the substance has entered the membrane protein, the protein closes on the outside of the membrane and opens on the inside of the membrane, letting the substance in.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

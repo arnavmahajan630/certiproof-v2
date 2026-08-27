@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_024",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "a) One conclusion that can be made is that the strongest plastic is \"A\" because it stretched the least in both trials. b) One way the students could have improved this experiment would have been to also test a control. This experiment needs something to compare to or else the results are not totally valid. Something else the students could fix is to be more specific in this procedure. Most of the procedure is very vague it would be quite different to try to re-perform this experiment with this procedure. For example, the procedure says: \" Add weights to the clamp and allow them to hang for five minutes\". The reader does not know the weight or size of the weights her does he know where to put them.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

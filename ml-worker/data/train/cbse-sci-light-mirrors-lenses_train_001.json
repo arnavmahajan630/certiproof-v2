@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-light-mirrors-lenses_train_001",
+  "question_id": "cbse-sci-light-mirrors-lenses",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Mirrors use 1/v + 1/u = 1/f and lenses use 1/v - 1/u = 1/f. Real images can be thrown on a screen; virtual ones cannot. Concave mirrors and convex lenses converge; convex mirrors and concave lenses diverge and have the everyday uses listed above.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-light-mirrors-lenses_c1": 5.0
+  },
+  "data_source": "cbse"
+}

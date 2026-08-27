@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_007",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In protein sythesis the mRNA travels to ribosomes in the cytoplasm. There, a ribosome reads the code on the mRNA. As the ribosome reads the code, tRNA find free amino acids and bring them to the mRNA to be arranged. When they are arranged they form peptide bonds that help them to serve their function as a protein.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

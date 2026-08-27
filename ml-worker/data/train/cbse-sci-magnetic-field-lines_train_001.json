@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-magnetic-field-lines_train_001",
+  "question_id": "cbse-sci-magnetic-field-lines",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Lines run north to south outside, never cross, and crowd together where the field is intense, such as at the poles.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-magnetic-field-lines_c1": 2.0
+  },
+  "data_source": "cbse"
+}

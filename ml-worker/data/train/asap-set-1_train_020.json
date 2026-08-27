@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_020",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Three pieces of procedure would need to be further explained in order to replicate the experiment. First is how much vinegar should be alloted to each individual cup, as different amounts of the substance may have different effects on the samples. The next bit of info would be the size and shape of all samples, though the mass is given the surface area of each material is not. Third is the conditions that the cups must be put in during the 24 hour wait period. Should they be covered or placed in a concentrated environment ? Factors like this can have a large effect on the experiment.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

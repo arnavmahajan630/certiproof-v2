@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E09.Q04_train_000",
+  "question_id": "mohler-E09.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "create a node with the input data, continue to add to the list. when dequeueing - get the first elements data and set the next element in the list as the new first element",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E09.Q04_c1": 4.0
+  },
+  "data_source": "mohler"
+}

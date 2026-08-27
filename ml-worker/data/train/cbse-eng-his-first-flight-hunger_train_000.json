@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-his-first-flight-hunger_train_000",
+  "question_id": "cbse-eng-his-first-flight-hunger",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "For a whole day the young seagull's family will not feed him on the ledge. When his mother flies near with a fish and stops just beyond his beak, hunger beats terror. He leans, falls, and his wings open of their own accord. Need, not lectures, gets him into the air.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-his-first-flight-hunger_c1": 3.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-resistivity-meaning_train_001",
+  "question_id": "cbse-sci-resistivity-meaning",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "R equals rho times length over area. Using the given rho and A, the copper wire must be roughly 3.3 m long to give 0.12 ohm.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-resistivity-meaning_c1": 3.0
+  },
+  "data_source": "cbse"
+}

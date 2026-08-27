@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-balancing-conservation_test_002",
+  "question_id": "cbse-sci-balancing-conservation",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "A chemical equation must be balanced becuase mass is conserved: the number of atoms of each element on the reactant side equals that on the product side. Hydrogen burns in oxigen to give water. Two molecules of hydrogen react with one molecule of oxygen to give two molecules of water, so the balanced equation is 2H2 + O2 -> 2H2O.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-balancing-conservation_c1": 2.0
+  },
+  "data_source": "cbse"
+}

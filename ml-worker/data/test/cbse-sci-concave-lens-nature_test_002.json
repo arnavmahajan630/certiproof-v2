@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-concave-lens-nature_test_002",
+  "question_id": "cbse-sci-concave-lens-nature",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "A concavee lens is divergingg, so rays never meet on the other side. For any object position it forms a virtual, erect and smaller image on the same side as the object. A convex lens can also form a virtual image: if the object is placed betwen the optical centre and F, the image is virtual, erect and magnified, as in a simple magnifying glass.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-concave-lens-nature_c1": 2.0
+  },
+  "data_source": "cbse"
+}

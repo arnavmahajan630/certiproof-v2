@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-crafts-welcome-trend_train_000",
+  "question_id": "cbse-eng-crafts-welcome-trend",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The trend is welcome because handmade crafts resist a market flooded with factory goods and usually have a lighter environmental footprint than industrial products. They also give artisans a living and keep regional arts, stories and techniques from disappearing in a globalised culture.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-crafts-welcome-trend_c1": 2.0
+  },
+  "data_source": "cbse"
+}

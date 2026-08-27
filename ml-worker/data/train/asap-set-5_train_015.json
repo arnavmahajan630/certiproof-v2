@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_015",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "tRNA then attaches to the mRNA, matching its bases to those of the mRNA. The segments formed by the mRNA are called codons. These codons code for specific amino acids. The amino acids form a chain on the tRNA, forming a protein.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-crafts-heritage-uniqueness_train_000",
+  "question_id": "cbse-eng-crafts-heritage-uniqueness",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A craft object is a small history: terracotta, tiles or weaving show how a community has worked and believed for generations. Mass-made goods look alike, but a handmade piece is one of a kind because an artisan's hand and imagination are in it, so the buyer owns something personal as well as traditional.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-crafts-heritage-uniqueness_c1": 2.0
+  },
+  "data_source": "cbse"
+}

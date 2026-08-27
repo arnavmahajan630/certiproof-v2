@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-baker-coorg-assam-tourism_train_000",
+  "question_id": "cbse-eng-baker-coorg-assam-tourism",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "These three pieces work like friendly travel writing. 'A Baker from Goa' keeps the Portuguese pader in view: the jingling bamboo staff, bread-bangles at weddings, and the plump baker who was a children's friend. Readers taste Goa's food and easy village pace and want to walk those lanes. 'Coorg' offers rain-wet coffee hills, stories of Greek or Arab descent, the Kuppia, open hospitality, river mahaseer and the Brahmagiri trek, so the region looks both wild and welcoming. 'Tea from Assam' spreads acres of bushes before the eye, retells the Chinese emperor and Bodhidharma legends, and reminds us that crores of cups are drunk each day, which invites estate tours. Together the lessons make culture visible and turn curiosity into a reason to visit.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-baker-coorg-assam-tourism_c1": 6.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_024",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "After reading the groups procedure, i determined that in order to replicate the exeperiment additional information is needed. First, the procudere doesn't state what is being tested, we need to know what specific samples are being refered to next we haven't been told how much of each sample is required in the individual containers. Lastly, we need to know how much vinegar is needed in each container.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

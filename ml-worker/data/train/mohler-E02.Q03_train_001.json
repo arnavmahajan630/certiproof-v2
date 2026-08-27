@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q03_train_001",
+  "question_id": "mohler-E02.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A constructor is a function used to initialize an object's data when it is created.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q03_c1": 3.5
+  },
+  "data_source": "mohler"
+}

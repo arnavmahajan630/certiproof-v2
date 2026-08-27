@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-series-vs-parallel_test_002",
+  "question_id": "cbse-sci-series-vs-parallel",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "In series the same current flows throuh each resistor and the total resistence is the sum of the individual resistances, so the combination is more resistive than any one resistor. In parallel each resistor gets the same voltage, currents split, and 1/Rp = 1/R1 + 1/R2, so the equivalent resistance is less than the smallest of the resistors. Household appliances are therfore wired in parallel.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-series-vs-parallel_c1": 2.0
+  },
+  "data_source": "cbse"
+}

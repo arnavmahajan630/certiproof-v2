@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-metallic-nonmetallic-oxides_test_002",
+  "question_id": "cbse-sci-metallic-nonmetallic-oxides",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Oxidess of metalss such as CaO are basic and turn red litmus blue, while oxides of non-metals such as CO2 are acidic and turn blue litmus red. Calcium oxide is an ionic solid. When it is molten the Ca2+ and O2- ions can move, so it conducts electrisity. In the solid the ions are locked in the lattice, and carbon dioxide is a covalent molecule with no ions at all, so neither solid CaO nor CO2 gas conducts.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-metallic-nonmetallic-oxides_c1": 3.0
+  },
+  "data_source": "cbse"
+}

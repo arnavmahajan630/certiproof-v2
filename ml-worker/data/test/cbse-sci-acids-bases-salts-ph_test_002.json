@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-acids-bases-salts-ph_test_002",
+  "question_id": "cbse-sci-acids-bases-salts-ph",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Acidss ionisee in water to give hydrogen ions, so thier pH is less than 7. Bases give hydroxide ions and have pH greater than 7. Neutralisation of an acid with a base produces a salt and water. pH matters in daily life. Bacteria in the mouth produce acid from sugar; if pH drops below 5.5, tooth enamel starts to dissolve, so a mildly basic toothpaste is used. Plants grow well only in a suitable soil pH; acidic soil is treated with slaked lime. Rain with pH below 5.6 is acid rain and corrodes marble as well as harming fish. Salts we use every day include NaCl as food salt, NaHCO3 as baking soda, and washing soda Na2CO3.10H2O for laundry. Bleaching powder, CaOCl2, is used to disinfect water.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-acids-bases-salts-ph_c1": 5.0
+  },
+  "data_source": "cbse"
+}

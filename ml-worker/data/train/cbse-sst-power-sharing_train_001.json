@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-power-sharing_train_001",
+  "question_id": "cbse-sst-power-sharing",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Sharing power keeps the peace among communities and is morally required because a democracy belongs to all citizens, not one group.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-power-sharing_c1": 2.0
+  },
+  "data_source": "cbse"
+}

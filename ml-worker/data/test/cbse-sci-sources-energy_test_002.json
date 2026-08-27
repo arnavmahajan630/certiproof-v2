@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-sources-energy_test_002",
+  "question_id": "cbse-sci-sources-energy",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Renewablee sourcess such as solar radiation, wind and flowing water are replaced continuously by nature, so they will not run out on a human timescale. Non-renewable sources such as coal, petroleum and natural gas formed over millions of years and cannot be remade quickly. Burning fossil fuels releases carbon dioxide, wich adds to global warming, and oxides of sulphur and nitrogen that cause acid rain. Their stocks are also limited, which is why alternative sources are needed.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-sources-energy_c1": 3.0
+  },
+  "data_source": "cbse"
+}

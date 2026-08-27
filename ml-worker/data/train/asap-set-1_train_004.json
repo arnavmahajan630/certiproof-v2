@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_004",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In the given procedure it would help replicate the experiment if is included in it a list of what materials were used this is important to know as well as how much vinegar should to used to pour into each beaker. If we do not know this information then we may get wildly different results. Inably what was need to determine ble mass of the samples. Depending on the need a different method we possibly a different mass could be found. Also it may help to have the four samples start made at tha same mass so you don't get skewed results",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

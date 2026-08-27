@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_013",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Based on the students data, plastic B stretches more than the other plastics. The students could improve this experiment by checking the temperature of the room because plastic's elasticity varies on the temperature. Another improvement would be to measure the amount of weight that is being put into each bag.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

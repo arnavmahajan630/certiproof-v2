@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-metallic-nonmetallic-oxides_train_001",
+  "question_id": "cbse-sci-metallic-nonmetallic-oxides",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Metal oxides are basic and non-metal oxides acidic. Molten CaO conducts because ions are free; solid CaO and covalent CO2 do not.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-metallic-nonmetallic-oxides_c1": 3.0
+  },
+  "data_source": "cbse"
+}

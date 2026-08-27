@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_028",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Based on the results from the data table, the two trials do not differ much but the second trial had a couple longer length, so something could have been done differently from the first trial. The data should that plastic B stretched the farthest during the first trial and that it is the \"stretchiest\" the way the student could have improved the design or validity of the results is to repeat it 2 more trials exactly like before to ensure the results are accurate. A second way the student could have improved the experimental design is to say how much weight to add to each plastic, instead of just saying changed.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

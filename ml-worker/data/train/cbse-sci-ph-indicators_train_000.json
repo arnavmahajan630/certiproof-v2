@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ph-indicators_train_000",
+  "question_id": "cbse-sci-ph-indicators",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The pH scale runs from 0 to 14 and reports how acidic or basic a solution is. Acids have pH less than 7, pure water is 7, and bases have pH more than 7. Blue litmus paper turns red in an acid and red litmus turns blue in a base. Phenolphthalein stays colourless in acids and turns pink in basic solutions, so it is used in acid-base titrations.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ph-indicators_c1": 2.0
+  },
+  "data_source": "cbse"
+}

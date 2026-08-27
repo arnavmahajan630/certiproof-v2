@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-triumph-surgery-role_train_001",
+  "question_id": "cbse-eng-triumph-surgery-role",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Herriot uses the clinic to reverse Mrs Pumphrey's drawing-room spoiling. Diet, exercise and canine company cure Tricki, which exposes how medical language can hide common sense. The place is a catalyst for change and a quiet satire on owners who confuse stuffing an animal with looking after it. Responsible, balanced treatment, not a dramatic knife, is the real triumph.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-triumph-surgery-role_c1": 6.0
+  },
+  "data_source": "cbse"
+}

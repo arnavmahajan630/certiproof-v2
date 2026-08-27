@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-sodium-electrolytic_test_002",
+  "question_id": "cbse-sci-sodium-electrolytic",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Sodiumm is near the top of the reactivityy series, so carbon cannot reduce sodium compounds, and the free metal would catch fire in moist air. It is therfore extracted by electrolytic reduction of molten sodium chloride. At the cathode, sodium ions gain electrons: Na+ + e- -> Na. At the anode, chloride ions lose electrons: 2Cl- -> Cl2 + 2e-. The molten state is essential so that ions can move. Potassium is extracted in the same way.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-sodium-electrolytic_c1": 3.0
+  },
+  "data_source": "cbse"
+}

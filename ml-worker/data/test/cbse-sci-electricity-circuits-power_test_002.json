@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-electricity-circuits-power_test_002",
+  "question_id": "cbse-sci-electricity-circuits-power",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Ohm's law states that current throuh a conductor is proportional to the potential difference across it, provided temprature is constant, so V = IR. Resistances in series add, Rs = R1 + R2, and the same current flows through each. In parallel the reciprocal of the equivalent resistence is the sum of the reciprocals, and each branch receives the same voltage. Electric power is the rate of doing work or of consuming energy, P = VI. Using Ohm's law this is also I^2 R or V^2 / R. For a 1200 W heater on 240 V, R = V^2 / P = 57600 / 1200 = 48 ohm. The current at rated voltage is I = P/V = 5 A. Heat produced in time t is I^2 R t, wich is why the heater coil is made of high-resistivity nichrome.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-electricity-circuits-power_c1": 5.0
+  },
+  "data_source": "cbse"
+}

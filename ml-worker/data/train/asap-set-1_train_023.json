@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_023",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "In order to replicate this experiment, I would first need to know how much vinegar was poured into each container so I don't put in too much or too little. I would also need to know the size of the containers they used because bigger or smaller containers could affect how the vinegar affected the 4 samples and lastly, if I had only looked at the group's procedure, I would need to know what four samples the students used so that I could replicate the experiment. And then, I would need to know where the containers were kept so I could give mine the same amount of light and other things.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

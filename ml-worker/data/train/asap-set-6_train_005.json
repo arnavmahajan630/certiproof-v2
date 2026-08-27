@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_005",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Three processes used by cells to control the movement of substances across the cell membrane are diffusion, osmosis, and endocytosis. Diffusion is the movement of molecules across the cell membrane from an area of high concentration to an area of low concentration. The goal of diffusion is to maintain an equilibrium, and have everything balanced. Osmosis is the diffusion of water across a selectively permeable membrane. Both osmosis and diffusion are forms of passive transport. Passive transport requires no energy from the cell to move substances across its membrane. However, endocytosis is a form of active transport. Endocytosis is the process of moving larger molecules, such a food into the cell. This takes more energy from the cell, and may use enzymes to quicken the process.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

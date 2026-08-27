@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q04_train_001",
+  "question_id": "mohler-E03.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "You are able to modify the variable that is referenced directly.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q04_c1": 3.5
+  },
+  "data_source": "mohler"
+}

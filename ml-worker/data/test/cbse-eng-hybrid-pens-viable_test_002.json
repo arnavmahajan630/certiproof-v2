@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-hybrid-pens-viable_test_002",
+  "question_id": "cbse-eng-hybrid-pens-viable",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "A hybridd pen that writess as fast and reliably as a ballpoint but as neatly as a micro-tip would suit notes, exams and personal writing at once. Younger students want cheap speed; older ones want fine lines. One product covering both habits would sell more widely than pens built for a single task.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-hybrid-pens-viable_c1": 2.0
+  },
+  "data_source": "cbse"
+}

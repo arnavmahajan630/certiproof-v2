@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-britain-nation_train_000",
+  "question_id": "cbse-sst-britain-nation",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Britain did not become a nation through one revolution. People first identified as English, Welsh, Scottish or Irish. The Act of Union 1707 joined England and Scotland as the United Kingdom of Great Britain, and English power suppressed Scotland\u2019s institutions. Highlanders were forbidden to speak Gaelic or wear national dress and many were cleared from their land. In Ireland, English-backed Protestants dominated a Catholic majority, and Ireland was forced into the United Kingdom in 1801. The Union Jack, the anthem and the English language were promoted, while the older nations survived only as junior partners.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-britain-nation_c1": 5.0
+  },
+  "data_source": "cbse"
+}

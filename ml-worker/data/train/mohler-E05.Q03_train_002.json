@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E05.Q03_train_002",
+  "question_id": "mohler-E05.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "1 where there is a list of two ints and only one must be moved.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E05.Q03_c1": 2.5
+  },
+  "data_source": "mohler"
+}

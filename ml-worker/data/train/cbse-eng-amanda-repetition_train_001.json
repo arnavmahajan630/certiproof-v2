@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-amanda-repetition_train_001",
+  "question_id": "cbse-eng-amanda-repetition",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Repetition makes the parent's expectations sound endless and heavy. Amanda answers not by arguing but by drifting into unique daydreams, which proves she wants space more than she wants to obey.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-amanda-repetition_c1": 3.0
+  },
+  "data_source": "cbse"
+}

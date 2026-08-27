@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-electrolysis-water_train_001",
+  "question_id": "cbse-sci-electrolysis-water",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Cathode gives H2 and anode gives O2 in a 2:1 volume ratio. Acid or salt is added because pure water is a poor conductor. The process is electrolytic decomposition and redox.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-electrolysis-water_c1": 3.0
+  },
+  "data_source": "cbse"
+}

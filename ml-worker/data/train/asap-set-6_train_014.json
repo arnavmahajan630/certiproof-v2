@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_014",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "THe three types are diffusion, facilitated diffusion, and active transport. Diffusion doesn't use energy to move substances. The movement will always go from high concentration of the substance to low concentration. Once the concentration of the substance reaches equilibrium, or is the equal, the substance will move back and forth equally.A specific type of diffusion is osmosis, the diffusion of water. Facilitaed diffusion is used to transport substances that canot go through te semipermeable cell membrane. It uses no energy because it still diffusion. It uses the channel protiens in the cell membrane so that the substance can pass through. Active transport is used when a substance goes from low to high concentration. This type of transportation does use energy because it 'goes against the flow.' It is used when a cell need to take in nutrients or get rid of waste.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

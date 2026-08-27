@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_006",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "You would need the the for sample rocks ,vinegar but what we don't know is how much vinegar fore the plastic containers, put the rocks in the containers in different and then tape and label what kind of rock, then pour vinegar , leave for 24 hours to dry to used which stone is better, after 24 hours time to longer from the container, leave stons sitting for 30 min to dry so that they can be examined (but each or that you should measure the mass of rocks in amount of viner thats being put in,then after 24 hours measure mass and record all the data.)",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

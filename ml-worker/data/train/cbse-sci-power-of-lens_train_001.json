@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-power-of-lens_train_001",
+  "question_id": "cbse-sci-power-of-lens",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Lens power is 1/f in metres, measured in dioptre. Converging lenses are given +P and diverging lenses -P.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-power-of-lens_c1": 2.0
+  },
+  "data_source": "cbse"
+}

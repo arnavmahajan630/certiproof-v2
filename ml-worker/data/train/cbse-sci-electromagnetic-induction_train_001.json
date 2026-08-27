@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-electromagnetic-induction_train_001",
+  "question_id": "cbse-sci-electromagnetic-induction",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Changing flux induces emf. Faster motion, a stronger magnet and more turns all raise the emf, and Fleming's right-hand rule gives the current direction.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-electromagnetic-induction_c1": 3.0
+  },
+  "data_source": "cbse"
+}

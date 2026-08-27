@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-sri-lanka-belgium_test_002",
+  "question_id": "cbse-sst-sri-lanka-belgium",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "In Sri Lanka the majoritarian goverment privileged Sinhala, wich Tamils resisted; distrust turned into civil war, deaths and refugees. Belgium avoided that path: Dutch and French ministers are equal in the centre, many powers went to regional governments, Brussels has equal representation, and a comunitee government handles language and culture. No single community can decide everything alone.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-sri-lanka-belgium_c1": 4.0
+  },
+  "data_source": "cbse"
+}

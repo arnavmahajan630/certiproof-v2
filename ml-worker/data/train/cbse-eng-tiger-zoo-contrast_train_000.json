@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-tiger-zoo-contrast_train_000",
+  "question_id": "cbse-eng-tiger-zoo-contrast",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Leslie Norris shows two tigers in one animal. Behind bars he pads a short path on velvet pads, his strength turned inward, and at night he looks at stars he cannot reach. Free, he would hide in jungle shadow, move through grass toward plump deer, and make the village afraid at the water hole. Captivity has stolen that life and left only contained anger.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-tiger-zoo-contrast_c1": 3.0
+  },
+  "data_source": "cbse"
+}

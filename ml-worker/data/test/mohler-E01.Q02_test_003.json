@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E01.Q02_test_003",
+  "question_id": "mohler-E01.Q02",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Refining, production, and maintenance",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E01.Q02_c1": 3.0
+  },
+  "data_source": "mohler"
+}

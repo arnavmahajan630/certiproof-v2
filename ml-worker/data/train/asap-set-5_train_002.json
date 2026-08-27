@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_002",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "When the mRNA leaves the nucleus it finds a portion of DNA, and uses an enzyme to 'unzip it'. The mRNA then copies the bases of the DNA to form a new strand of RNA. When the new RNA is made its nucleotides code for amino acids, so it attaches to an codon which makes the amino acids, which form protiens.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

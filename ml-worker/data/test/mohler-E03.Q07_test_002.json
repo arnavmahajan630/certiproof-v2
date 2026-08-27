@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q07_test_002",
+  "question_id": "mohler-E03.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "both need to have some kind of base case to tell when the loop needs to stop.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q07_c1": 3.0
+  },
+  "data_source": "mohler"
+}

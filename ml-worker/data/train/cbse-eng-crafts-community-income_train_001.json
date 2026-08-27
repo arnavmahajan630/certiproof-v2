@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-crafts-community-income_train_001",
+  "question_id": "cbse-eng-crafts-community-income",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "When people choose handmade work, small communities gain reliable wages. Artisans can live by their skill, and limited labour markets become less crushing, so craft traditions and local prosperity support each other.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-crafts-community-income_c1": 2.0
+  },
+  "data_source": "cbse"
+}

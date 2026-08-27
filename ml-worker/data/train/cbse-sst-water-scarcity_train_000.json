@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-water-scarcity_train_000",
+  "question_id": "cbse-sst-water-scarcity",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Water scarcity is not only low rainfall. Over-pumping of groundwater for irrigation, unequal access, pollution of rivers, and rising demand from a growing urban population all make usable water scarce even in high-rainfall regions.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-water-scarcity_c1": 3.0
+  },
+  "data_source": "cbse"
+}

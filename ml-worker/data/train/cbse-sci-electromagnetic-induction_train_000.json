@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-electromagnetic-induction_train_000",
+  "question_id": "cbse-sci-electromagnetic-induction",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Faraday found that a changing magnetic field through a coil induces an emf. If the circuit is closed, an induced current flows. The size of the emf is larger if the magnet is moved faster, if the field is stronger, or if the coil has more turns. Fleming's right-hand rule gives the direction of the induced current: thumb for motion, forefinger for field, middle finger for current. An AC generator uses this induction as a coil rotates in a magnetic field.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-electromagnetic-induction_c1": 3.0
+  },
+  "data_source": "cbse"
+}

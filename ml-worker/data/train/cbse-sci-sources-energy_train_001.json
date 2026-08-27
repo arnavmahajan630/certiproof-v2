@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-sources-energy_train_001",
+  "question_id": "cbse-sci-sources-energy",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Sun, wind and hydro are renewable; coal and oil are not. Fossil fuels pollute and will eventually be exhausted.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-sources-energy_c1": 3.0
+  },
+  "data_source": "cbse"
+}

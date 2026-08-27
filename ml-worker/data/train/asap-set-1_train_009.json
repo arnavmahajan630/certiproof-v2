@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_009",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Additional information to replicate this experiment would be how much vinegar should be poured into the containers. Another would be how much distilled water should be used to use the samples. The third would be by what method should the mass of the samples be determined.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

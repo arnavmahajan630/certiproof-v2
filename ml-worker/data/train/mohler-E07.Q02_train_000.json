@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E07.Q02_train_000",
+  "question_id": "mohler-E07.Q02",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Linked lists have an indefinite size. They can be added to and taken away from very easily with little difficulty in the shifting of data.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E07.Q02_c1": 5.0
+  },
+  "data_source": "mohler"
+}

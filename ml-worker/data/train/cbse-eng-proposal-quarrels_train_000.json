@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-proposal-quarrels_train_000",
+  "question_id": "cbse-eng-proposal-quarrels",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Chekhov turns a drawing-room proposal into a shouting match so that we see how thin good manners are among the gentry. Lomov arrives in evening dress, already ill with palpitations, to ask for Natalya, but he cannot drop his claim to Oxen Meadows or his boast that Guess is a better dog than Squeezer. Natalya, who has wanted marriage, still leaps into the fight and calls him names until her father tells her why he came. Then she changes in a second and they are forced into an engagement while still abusing each other. Chubukov blesses them because a neighbour's land will stay in the family web, not because anyone has spoken of love. The satire is that property, pedigree dogs and nerves matter more than affection. Even at the moment of 'yes' the three of them are ridiculous, which is Chekhov's point about a class that argues over meadows while pretending to celebrate a wedding.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-proposal-quarrels_c1": 6.0
+  },
+  "data_source": "cbse"
+}

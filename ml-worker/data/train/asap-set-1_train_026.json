@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_026",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "To replicate the experiment, the amount of vinegar put in the container would be needed so it would not vary the results inappropriately. Also, the amount of each sample needs to be added because a greater sample to vinegar ratio will change the mass of the experiment. Also, in the table we can see that the people measured the mass before the samples were put in the vinegar, but without the table we would not know to do it because the procedure did not state if this needs to be added between steps 2 and 3 so later on the difference can be found and the change seen.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

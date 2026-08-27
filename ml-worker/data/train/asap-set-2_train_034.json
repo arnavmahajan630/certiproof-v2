@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_034",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A: The conclusion is that the plastic type B in the second trial stretched the most to 25mm.^p B: The could have added a third trial and control variables.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

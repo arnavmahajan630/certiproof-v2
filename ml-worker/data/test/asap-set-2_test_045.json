@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_045",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Based on the student's data plastic B both trials had the most millimeters for the amount the plastic stretched. Plastic B first trial had 22 mm and the second trial had 23 mm. Also plastic D was the second plastic to have the most millimeters for plastic stretched. At trial one it was at 20mm also for trial two . One way the students could have improved their experiments is by letting us know if were suppose put weights in one at a time or how many. Also, for the second trial the time to allow the plastic to hang could of decrease or increase.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

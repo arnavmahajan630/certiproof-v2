@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-resistivity-meaning_test_002",
+  "question_id": "cbse-sci-resistivity-meaning",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Resistivity is the resistence of a wire of unit length and unit cross-sectional area; it depends on the material and temprature, not on the size of the sample. Resistance R = rho l / A, so a longer or thinner wire has larger R. For the copper wire, A is about 5 x 10^-7 m2. Then l = R A / rho = (0.12 x 5 x 10^-7) / (1.6 x 10^-8) wich is about 3.3 m. That length of the given wire provides 0.12 ohm.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-resistivity-meaning_c1": 3.0
+  },
+  "data_source": "cbse"
+}

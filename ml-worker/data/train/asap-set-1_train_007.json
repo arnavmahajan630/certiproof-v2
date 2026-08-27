@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_007",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "We would need to know how much vinegar the students used in the experiment. We would also need to know what kind of container they used. These two bits of information are important to know so that we can make sure that the replication samples were covered with vinegar the same as the original. We would also need to know the dimensions of the samples because a change in surface area would greatly alter the experiment (for if an object has a higher surface area to volume ratio, it will dissolve more quickly than a sample with a lower ratio). Lastly, we need to know the concentration of the vinegar.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

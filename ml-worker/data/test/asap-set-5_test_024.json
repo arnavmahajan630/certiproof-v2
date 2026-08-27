@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_test_024",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "the mRNA travels to the ribosomes. there the ribosomes will transcribe the mRNA into amino acids. The amino acids than go back to the nucleus. And the proccess starts over again with the nucleus decidding what amino acids it needs.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-baker-goa-pader_train_001",
+  "question_id": "cbse-eng-baker-goa-pader",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Goan mornings were timed by the baker. Daily bread, festival baking and the friendly fat pader with his musical staff made him central to home life and to Portuguese memory in the village.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-baker-goa-pader_c1": 3.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-lens-formula-example_train_001",
+  "question_id": "cbse-sci-lens-formula-example",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Using 1/v - 1/u = 1/f with u = -20 cm and v = -10 cm gives f = -20 cm, which identifies a concave lens.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-lens-formula-example_c1": 3.0
+  },
+  "data_source": "cbse"
+}

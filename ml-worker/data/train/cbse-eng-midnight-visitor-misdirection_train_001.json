@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-midnight-visitor-misdirection_train_001",
+  "question_id": "cbse-eng-midnight-visitor-misdirection",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The story points everyone toward a balcony that exists only in speech. That planted detail creates expectation, then the fake police knock forces Max to use the invented exit. When he falls, the reader shares his error. Arthur thus hides the climax inside Ausable's chatter, proving suspense can come from a convincingly told untruth rather than from chases, and the last twist feels both surprising and fair.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-midnight-visitor-misdirection_c1": 6.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E01.Q07_train_000",
+  "question_id": "mohler-E01.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "while statements will evaluate the statement BEFORE executing a cycle of the loop, including the first cycle, meaning that a while loop will not always execute. A do...while will run evaluate the statement AFTER running through a cycle of the loop, ensuring that the loop always executes at least one time.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E01.Q07_c1": 5.0
+  },
+  "data_source": "mohler"
+}

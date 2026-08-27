@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_033",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "a. Plastic B stretch the furthest and therefore had the most elasticity ( stretchability). Plastic A was the least stretchy. These results were most likely due to the combination of polymers in each plastic controlling their physical attributes. ^p b. One way the student could have improved the experimental design originally is by stating how long the plastic should be cut to be. So 25 to make the experiment uniform. He should have increased this in his table so people could see how the lengths changed. Then he should have specified how much weight to add to the clamps for consistency.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q01_test_002",
+  "question_id": "mohler-E10.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "one or more nodes in a hierarchy starting with the root and branching off like a tree to subtrees",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q01_c1": 5.0
+  },
+  "data_source": "mohler"
+}

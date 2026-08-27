@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E07.Q07_train_000",
+  "question_id": "mohler-E07.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "More difficult to delete and create nodes.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E07.Q07_c1": 3.0
+  },
+  "data_source": "mohler"
+}

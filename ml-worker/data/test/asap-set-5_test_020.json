@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_test_020",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The mRNA enters the ribosome.Start codon enters P site, second codon at A site.tRNA adds a amino acid to the codon at the P site and A site.The P site codon breaks apart and the codon at the A site takes its place and the process continues until you hit a stop codon, the chain of amino acids creates a protein.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

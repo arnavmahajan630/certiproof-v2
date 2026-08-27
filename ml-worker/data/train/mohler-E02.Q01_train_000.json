@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q01_train_000",
+  "question_id": "mohler-E02.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "For us it is usually a set, get, and displayMessge or other messages that tell you what properties a class has but does not reveal its implementations. You could have anything you want in your own class definition.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q01_c1": 2.0
+  },
+  "data_source": "mohler"
+}

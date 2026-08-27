@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q03_train_000",
+  "question_id": "mohler-E03.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Placing the qualifier inline before a function's return type in the function definition \"advises\" the compiler to generate a copy of the function's code in place to avoid a function call.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q03_c1": 5.0
+  },
+  "data_source": "mohler"
+}

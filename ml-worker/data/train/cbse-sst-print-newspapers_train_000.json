@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-print-newspapers_train_000",
+  "question_id": "cbse-sst-print-newspapers",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "More people began to care about politics, and newspapers explained those developments clearly. They also carried news of social and scientific change and became a space to criticise government policies, almost like an opposition press.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-print-newspapers_c1": 2.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-his-first-flight-family_train_001",
+  "question_id": "cbse-eng-his-first-flight-family",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Parents and siblings first withdraw food, then tempt him, then escort him in the sky. Hunger starts the dive; their presence turns panic into joy. Liam O'Flaherty thus shows a family using both tough love and joyful example so the last timid chick can join the flock.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-his-first-flight-family_c1": 6.0
+  },
+  "data_source": "cbse"
+}

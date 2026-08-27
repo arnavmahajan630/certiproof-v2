@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-electrolysis-water_test_002",
+  "question_id": "cbse-sci-electrolysis-water",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "When acidifiedd waterr is electrolysed, hydrogen ions are reduced at the cathode to hydrogen gas and oxide ions (or water) are oxidised at the anode to oxigen gas. Twice as much hydrogen as oxygen is collected, matching the formula H2O. Distilled water barely conducts, so dilute sulphuric acid or a little salt is added to supply ions. The change is a decomposition and a redox reaction that takes in electrical energy, so it is endothermic.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-electrolysis-water_c1": 3.0
+  },
+  "data_source": "cbse"
+}

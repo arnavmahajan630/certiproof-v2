@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_005",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A conclusion that can be drawn is that plastic type B is the most flexible plastic and can stretch the farthest. The student could have improved their experiment by stating how heavy the weights were that were attached to the clamp. Right now, one can only guess what weight that was. Another way the student could have improved their experiment is by stating the original length of all the plastics, cutting them all to a certain length would improve the validity of the experiment because it would show plastic B actually stretched the farthest and did not just showed off changes.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

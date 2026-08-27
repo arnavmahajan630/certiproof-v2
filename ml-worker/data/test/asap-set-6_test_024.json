@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_test_024",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Active transport-requires energyPassive transport- requires no energyosmosis- the movement of water from one place to another",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

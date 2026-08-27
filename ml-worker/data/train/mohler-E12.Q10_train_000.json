@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q10_train_000",
+  "question_id": "mohler-E12.Q10",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "It would take n/2 elements, given n.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q10_c1": 1.5
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ethanoic-acid-ester_test_002",
+  "question_id": "cbse-sci-ethanoic-acid-ester",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Vinegarr is a 5 to 8 percentt solution of ethanoic acid in water. When ethanoic acid is warmed with ethanol and a few drops of concentrated sulphuric acid, ethyl ethanoate and water are formed. The ester has a sweet, fruity smell; this is esterification. Ethanoic acid also reacts with sodium hydrogencarbonate to give sodium ethanoate, water and carbon dioxide, wich turns lime water milky, confirming the acidic nature of the carboxylic group.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ethanoic-acid-ester_c1": 3.0
+  },
+  "data_source": "cbse"
+}

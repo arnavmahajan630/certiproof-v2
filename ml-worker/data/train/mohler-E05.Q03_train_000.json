@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E05.Q03_train_000",
+  "question_id": "mohler-E05.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The number of operations for insertions sort, under best-case, is n(n-1)/2. The best case for insertion sort is on a sorted list where it runs is O(n).",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E05.Q03_c1": 3.0
+  },
+  "data_source": "mohler"
+}

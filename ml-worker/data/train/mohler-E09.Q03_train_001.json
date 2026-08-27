@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E09.Q03_train_001",
+  "question_id": "mohler-E09.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "add in data from the first element to the last, take out data from the first element to the last.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E09.Q03_c1": 3.0
+  },
+  "data_source": "mohler"
+}

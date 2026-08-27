@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_012",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "a) Based on the students data, plastic type B stretched the most at an average of 22.3mm, while plastic A stretched a mere 11mm average. Plastic D stretched the second most with an average of 20mm and then plastic with 13.5 average mm. The average in stretchability is due to the different chemical composites of each plastic. ^p b) The student could have improved the validity and design by recording how much weight was used, which would allow someone to replicate the experiment and recording the percentage stretched rather than just how much. A sample that is 10cm but stretched 10mm is a much more significant change than one that is 10 meters and stretched 10mm, but the data table fails to recognize that.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q07_train_000",
+  "question_id": "mohler-E11.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A static array will have a null character at the end of the array.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q07_c1": 3.0
+  },
+  "data_source": "mohler"
+}

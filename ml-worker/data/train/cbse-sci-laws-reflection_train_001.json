@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-laws-reflection_train_001",
+  "question_id": "cbse-sci-laws-reflection",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Reflection keeps the three directions coplanar, and the incoming angle to the normal matches the outgoing angle.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-laws-reflection_c1": 2.0
+  },
+  "data_source": "cbse"
+}

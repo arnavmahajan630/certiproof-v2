@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q07_train_001",
+  "question_id": "mohler-E10.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "It takes at most 3 comparisons to find and element in a binary search tree",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q07_c1": 1.5
+  },
+  "data_source": "mohler"
+}

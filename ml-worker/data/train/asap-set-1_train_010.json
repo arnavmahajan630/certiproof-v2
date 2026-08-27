@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_010",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "After reading the group's procedure, additional information that a would need in order to replicate the experiment are that a need to know the size of the containers that the samples are put in, for they need to be identical. U also need to know tha amount of samples u need to put in each container in order to obtain tha same starting mass the group of students recieved from the samples. Another factor a should know is the amount no vinegar that u pour into the containers concerning the oud example of the experiment. Another good peice of information would be the location where the samples are drying and amount of sunlight.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

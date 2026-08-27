@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-mandela-liberate-both_train_001",
+  "question_id": "cbse-eng-mandela-liberate-both",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Modern equality work should free victims and reform the thinking of people who exclude them. Dialogue plus education of the powerful, not revenge, is how Mandela's twin liberation can work now.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-mandela-liberate-both_c1": 3.0
+  },
+  "data_source": "cbse"
+}

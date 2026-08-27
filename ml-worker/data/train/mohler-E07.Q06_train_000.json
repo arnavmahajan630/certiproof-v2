@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E07.Q06_train_000",
+  "question_id": "mohler-E07.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Doubly linked lists can be traversed in both directions",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E07.Q06_c1": 3.5
+  },
+  "data_source": "mohler"
+}

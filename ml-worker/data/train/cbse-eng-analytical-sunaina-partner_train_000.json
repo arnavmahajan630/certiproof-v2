@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-analytical-sunaina-partner_train_000",
+  "question_id": "cbse-eng-analytical-sunaina-partner",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Sunaina is the best partner for Jaspreet. Jaspreet can invent ideas and present them well, but she loses time and likes to work with others. Sunaina finishes work on schedule and juggles tasks, which is exactly the support an art-integrated project needs. She is quieter, yet that need not block teamwork: Jaspreet can lead brainstorming and the talk, while Sunaina keeps the calendar. Tabassum is a gifted artist but drifts off task, which would double Jaspreet's timing problem. Alice produces polished slides but likes to dominate, which would frustrate someone who wants a real partnership. Complementary discipline, not extra sparkle, is what Jaspreet lacks.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-analytical-sunaina-partner_c1": 5.0
+  },
+  "data_source": "cbse"
+}

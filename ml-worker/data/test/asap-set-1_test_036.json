@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_test_036",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "After reading the groups procedure, additional information that would be needed to replicate the experiment would be the number of trials that this experiment has to be done in order for u to be in a more valid. Their would also need to put for how long the samples need to be rinsed because if one sample was rinsed longer than another it would affect the difference in mass at the end of the experiment. And most importantly they should be more specific in exactly what the objects are being soaked in this experiment for 24 hours or this experiment would be convincing to follow.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q02_train_001",
+  "question_id": "mohler-E03.Q02",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "If a variable is declared global, any function or class can use that variable.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q02_c1": 4.5
+  },
+  "data_source": "mohler"
+}

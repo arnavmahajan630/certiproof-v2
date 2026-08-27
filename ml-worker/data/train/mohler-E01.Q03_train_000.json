@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E01.Q03_train_000",
+  "question_id": "mohler-E01.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Reusable components, Extensibility, Maintainability, it reduces large problems into smaller more manageable problems.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E01.Q03_c1": 4.0
+  },
+  "data_source": "mohler"
+}

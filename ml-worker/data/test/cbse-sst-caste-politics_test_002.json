@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-caste-politics_test_002",
+  "question_id": "cbse-sst-caste-politics",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Partiess pick candidatess who can win caste blocs in a constituency. Caste groups also press for a share of tickets and offices. At the same time one-person-one-vote has forced leaders to build wider caste coalitions rather than rely on a single caste.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-caste-politics_c1": 2.0
+  },
+  "data_source": "cbse"
+}

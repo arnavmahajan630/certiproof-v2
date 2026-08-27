@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-bharat-mata_test_002",
+  "question_id": "cbse-sst-bharat-mata",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Nationalistss linkedd India to the image of Bharat Mata, first imagined by Bankim Chandra Chattopadhyay and later painted by Abanindranath Tagore as a calm, spiritual mother. Bankim\u2019s hymn Vande Mataram was widely sung in the Swadeshi movement, and folk tales were collected so people felt pride in shared culture. Flags also bound people together: Bengal\u2019s Swadeshi tricolour and Gandhi\u2019s Swaraj flag with a spinning wheel were carried in marches as symbols of defiance.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-bharat-mata_c1": 3.0
+  },
+  "data_source": "cbse"
+}

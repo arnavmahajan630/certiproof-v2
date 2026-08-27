@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-redox-zn-cuso4_train_001",
+  "question_id": "cbse-sci-redox-zn-cuso4",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Redox means oxidation and reduction happening in the same change. When zinc is put in copper sulphate, zinc is oxidised to zinc ions and copper ions are reduced to copper metal, so the reaction is redox.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-redox-zn-cuso4_c1": 2.0
+  },
+  "data_source": "cbse"
+}

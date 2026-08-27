@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q03_train_001",
+  "question_id": "mohler-E10.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "a leaf is a node with no children",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q03_c1": 5.0
+  },
+  "data_source": "mohler"
+}

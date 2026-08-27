@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_018",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "From reading this students procedure and reviewing their data, I have realized some plastics are significantly better than others. The data shows that plastic type B that stretched 22mm and 23mm, and plastic type D stretched 20mm both times. Types B and C because that table shows A that stretched 10 and 12mm are type C stretched 14 and 13 mm. In conclusion, plastic type B and D are much stronger than A and C. b) Two ways they could have improved the experimental design is allowing them to hang for more than 5 minutes to get better data. Also, running a third trial will improve their results.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

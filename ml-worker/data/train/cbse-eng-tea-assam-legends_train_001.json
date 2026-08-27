@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-tea-assam-legends_train_001",
+  "question_id": "cbse-eng-tea-assam-legends",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "One legend is accidental Chinese brewing; the other is Bodhidharma's eyelids becoming tea plants. Rajvir uses them to show Pranjol that tea is as much story as commerce.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-tea-assam-legends_c1": 3.0
+  },
+  "data_source": "cbse"
+}

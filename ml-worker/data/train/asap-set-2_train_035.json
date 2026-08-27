@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_035",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Based on the data collected by the experiment, plastic type B has the greatest stretchability when attatched to weights. However, there are ways in which this experiment could be improved. The student did not specify how much weight or how many weights were added to the clamp. He/she should write how many weights they used or even add trials where they utilize different amounts. Also, a third trial should have been conducted to formulate an average stretchability length. Only 2 measurements is not clear, a third would allow the student to achieve an average length for each plastic, making the numbers more simple to process.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

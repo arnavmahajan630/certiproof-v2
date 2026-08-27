@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_019",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Firtst, mRNA leaves the nucleus and attaches iself to a free ribosome. Then, the sequence has amino acids come and are attached by an enzyme to the RNA strand, and after the protein stand has been made the RNA releases itself from the ribosome so the process can be repeated.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

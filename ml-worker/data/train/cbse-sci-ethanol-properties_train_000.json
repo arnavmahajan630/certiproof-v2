@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ethanol-properties_train_000",
+  "question_id": "cbse-sci-ethanol-properties",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Ethanol, C2H5OH, is a colourless liquid that reacts with sodium metal to release hydrogen and form sodium ethoxide: 2C2H5OH + 2Na -> 2C2H5ONa + H2. When heated with concentrated sulphuric acid at 443 K it loses water and gives ethene, so sulphuric acid acts as a dehydrating agent. Hot alkaline potassium permanganate oxidises ethanol to ethanoic acid, and the purple colour of KMnO4 is discharged.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ethanol-properties_c1": 3.0
+  },
+  "data_source": "cbse"
+}

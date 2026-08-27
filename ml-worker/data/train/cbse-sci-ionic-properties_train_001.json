@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ionic-properties_train_001",
+  "question_id": "cbse-sci-ionic-properties",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Strong ion-ion attraction makes ionic solids hard to melt. Conduction occurs only when the lattice is broken by melting or dissolving so ions can travel.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ionic-properties_c1": 2.0
+  },
+  "data_source": "cbse"
+}

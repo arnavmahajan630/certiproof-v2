@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ohms-law_test_002",
+  "question_id": "cbse-sci-ohms-law",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Ohm's law states that, if the temprature is kept constant, the potential difference across a conductor is directly proportional to the current throuh it. The constant of proportionality is resistence, so V = IR. For an ohmic conductor the graph of V against I is a straight line passing through the origin, and its slope equals R.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ohms-law_c1": 2.0
+  },
+  "data_source": "cbse"
+}

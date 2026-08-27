@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-power-of-lens_train_000",
+  "question_id": "cbse-sci-power-of-lens",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The power of a lens is the reciprocal of its focal length in metres, P = 1/f. The SI unit is the dioptre, and 1 D is the power of a lens of focal length 1 m. A convex lens converges light, so f is taken positive and power is positive. A concave lens diverges light, so f and power are negative.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-power-of-lens_c1": 2.0
+  },
+  "data_source": "cbse"
+}

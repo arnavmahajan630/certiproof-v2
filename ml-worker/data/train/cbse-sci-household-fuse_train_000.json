@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-household-fuse_train_000",
+  "question_id": "cbse-sci-household-fuse",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Appliances are wired in parallel so that each receives 220 V and can be turned on or off without affecting the others. The fuse is placed in series with the live wire so that if the current becomes unsafe the fuse wire melts and disconnects the entire circuit. Current drawn is P/V, so the heater takes 6.82 A and the fan 2.27 A. Together they draw 9.09 A, which is less than the 10 A rating, so the fuse will not blow and is suitable for this load.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-household-fuse_c1": 3.0
+  },
+  "data_source": "cbse"
+}

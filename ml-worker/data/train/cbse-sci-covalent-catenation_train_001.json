@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-covalent-catenation_train_001",
+  "question_id": "cbse-sci-covalent-catenation",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Carbon shares electrons rather than forming ions. It always makes four bonds and can chain to other carbon atoms, which is why so many carbon compounds exist.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-covalent-catenation_c1": 3.0
+  },
+  "data_source": "cbse"
+}

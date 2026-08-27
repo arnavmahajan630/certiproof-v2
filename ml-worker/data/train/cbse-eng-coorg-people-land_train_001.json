@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-coorg-people-land_train_001",
+  "question_id": "cbse-eng-coorg-people-land",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The lesson paints Kodagu as misty coffee country whose martial, generous Kodavus keep a separate dress and origin story. Nature (fish, hills, rain) and a warrior hospitality define the place.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-coorg-people-land_c1": 3.0
+  },
+  "data_source": "cbse"
+}

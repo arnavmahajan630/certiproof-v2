@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_001",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In order to replicate the experiment, I would need to know how much mass of each sample I would need. I would also need to know what I should use in order to calculate the masses. Another thing I would need to know is what material I am massing, they dont tell you any of that in the procedure. I also need to know how much vinegar to pour in each sample, because it seems here the vinegar is supposed to be the control of the experiment, but if the same amount isn't used each time then it won't be a control.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

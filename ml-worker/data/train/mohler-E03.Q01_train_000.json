@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q01_train_000",
+  "question_id": "mohler-E03.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "It includes the name of the program, the type of parameters it can take. It should also include a brief description of what the function does.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q01_c1": 4.5
+  },
+  "data_source": "mohler"
+}

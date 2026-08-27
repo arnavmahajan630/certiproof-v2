@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-magnetic-effects-current_test_002",
+  "question_id": "cbse-sci-magnetic-effects-current",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Oerstedd saw that a compasss needle near a wire swings when current is switched on, proving that electrisity produces magnetism. For a straight wire the right-hand thumb rule gives the field: point the thumb along the current and the fingers curl in the direction of the circular field lines. A long solenoid produces a field like that of a bar magnet, uniform inside and with definite north and south ends, so with a soft-iron core it is used as an electromagnet. An electric motor converts electrical energy to rotation: a current-carrying coil in a magnetic field experiences a force given by Fleming's left-hand rule. A generator does the reverse. A coil is rotated in a field so the flux changes, an emf is induced (Faraday's law), and Fleming's right-hand rule gives the current direction.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-magnetic-effects-current_c1": 5.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_008",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Based on the student's data, I can conclude that plastic B is more flexible. This is because for each trial, it stretched the most. On the other hand, plastic A stretched the least because it only stretched 10mm and 12 mm while B stretched 22mm and 23mm. ^p To improve the validity of the results, the student could have done a third or even fourth trial. This adittional data will make the results clearer. Also, the student should state how much the weights weigh so that others can preform his experiment and get similar results. He might have also wanted to include how long the pieces of plastic were originally.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q04_test_002",
+  "question_id": "mohler-E03.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "only the memory address is sent to the function, so no copy of the object sent needs to be made. It makes the function run faster, and saves memory.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q04_c1": 5.0
+  },
+  "data_source": "mohler"
+}

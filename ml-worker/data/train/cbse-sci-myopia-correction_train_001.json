@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-myopia-correction_train_001",
+  "question_id": "cbse-sci-myopia-correction",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Short sight puts the image of a distant object in front of the retina. A diverging lens reduces the converging power of the eye and restores a sharp image on the retina.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-myopia-correction_c1": 3.0
+  },
+  "data_source": "cbse"
+}

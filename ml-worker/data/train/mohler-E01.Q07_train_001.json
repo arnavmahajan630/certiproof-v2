@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E01.Q07_train_001",
+  "question_id": "mohler-E01.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A while loop terminates at the beginning of the loop, a do/while terminates at the end of the loop.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E01.Q07_c1": 3.5
+  },
+  "data_source": "mohler"
+}

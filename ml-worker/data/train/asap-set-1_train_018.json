@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_018",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "To replicate the experiment you would need to know the following information, what are four samples? You would need to know that so the experiment will be the same. They should also include the amount of vinegar that you need. The last thing they should include is are you pouring it on the sample or just in the container?",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

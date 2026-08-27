@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_003",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "One way is the tRNA moves proteins to the cytoplasm.Another way is through Active Transport, Active Transport uses energy to force substances out of the membrane. Passive Transport also moves substances out of the membrane, but it does not require energy.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

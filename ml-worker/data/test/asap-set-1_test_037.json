@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_test_037",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Without the table, a lot wouldn't be known by looking just at the procedure. First, in order to replicate the experiment, you would need to know what four samples you would be taking the mass of. Second, you would also need to know how much vinegar you should pour into the containers. Lastly, in order to replicate the experiment, the person would need to know how much distilled water should be used to rinse the materials. It would also help if it was specified in the procedure, with what should the person be finding the mass of the materials (balance?). In what unit (grams?).",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

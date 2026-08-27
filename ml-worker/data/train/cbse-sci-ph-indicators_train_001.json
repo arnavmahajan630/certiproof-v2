@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ph-indicators_train_001",
+  "question_id": "cbse-sci-ph-indicators",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "pH below 7 means acidic and above 7 means basic. Litmus changes red or blue with acid or base, while phenolphthalein is colourless in acid and pink in alkali.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ph-indicators_c1": 2.0
+  },
+  "data_source": "cbse"
+}

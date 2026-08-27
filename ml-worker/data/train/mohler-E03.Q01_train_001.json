@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q01_train_001",
+  "question_id": "mohler-E03.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The name of the function and the types of its arguments.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q01_c1": 5.0
+  },
+  "data_source": "mohler"
+}

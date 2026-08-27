@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q06_test_002",
+  "question_id": "mohler-E10.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Level order traversal is a traversal method by which levels are visited successively starting with level 0 (the root node), and nodes are visited from left to right on each level, with Push and Pop methods.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q06_c1": 2.0
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-light-mirrors-lenses_train_000",
+  "question_id": "cbse-sci-light-mirrors-lenses",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "For a spherical mirror the relation between object distance u, image distance v and focal length f is 1/v + 1/u = 1/f. For a thin lens it is 1/v - 1/u = 1/f. Distances to the left of the pole or optical centre are negative in the New Cartesian convention. A real image is formed where rays actually converge; it is inverted and can be caught on a screen. A virtual image is formed where rays only appear to diverge from; it is erect. A concave mirror converges light and is used in torches and as a shaving mirror. A convex mirror always gives a diminished erect virtual image and a wide field, so it is used as a rear-view mirror. A convex lens is used as a magnifying glass and to correct hypermetropia. A concave lens corrects myopia.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-light-mirrors-lenses_c1": 5.0
+  },
+  "data_source": "cbse"
+}

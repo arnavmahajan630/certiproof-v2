@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E04.Q02_train_001",
+  "question_id": "mohler-E04.Q02",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "when using an array individual characters can be accessed and manipulated.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E04.Q02_c1": 2.5
+  },
+  "data_source": "mohler"
+}

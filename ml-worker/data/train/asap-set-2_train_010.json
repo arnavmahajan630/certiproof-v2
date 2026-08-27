@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_010",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The student's results show that plastic B was the most elastic. Plastic D was second. Plastic C was third and plastic A was fourth. In terms of stretchability plastic B is the most and A is the least. ^p Two ways the student could have improved the experimental design and or validity is by doing more trials with different amounts of weight to really understand how stretchy the plastic is. Another way it could be changed is by changing the times of the trials to see how long it took each plastic to let the plastic get to the maximum length.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

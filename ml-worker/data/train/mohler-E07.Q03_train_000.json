@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E07.Q03_train_000",
+  "question_id": "mohler-E07.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Arrays are good for random access and good for sequential access which are both in constant time. Where linked lists are linear for random access. Arrays are faster in this case.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E07.Q03_c1": 5.0
+  },
+  "data_source": "mohler"
+}

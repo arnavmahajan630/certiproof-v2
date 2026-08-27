@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_025",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "After reading the groups procedure, some information I would need to replicate this experiment would be the temperature of the distilled water. Also, I would need to know how much vinegar that the group put in each cup. Lastly, you would need to do multiple trials for reliability.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

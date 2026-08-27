@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E09.Q01_train_001",
+  "question_id": "mohler-E09.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Queue is a buffer, which store element in a particular order",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E09.Q01_c1": 3.5
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-acids-bases-salts-ph_train_001",
+  "question_id": "cbse-sci-acids-bases-salts-ph",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "H+ makes a solution acidic and OH- makes it basic. We control pH to protect teeth, soil and buildings from acid. Common salts include NaCl, baking soda, washing soda and bleaching powder.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-acids-bases-salts-ph_c1": 5.0
+  },
+  "data_source": "cbse"
+}

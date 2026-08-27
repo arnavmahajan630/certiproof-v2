@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-reactivity-displacement_test_002",
+  "question_id": "cbse-sci-reactivity-displacement",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "The reactivityy seriess lists metals from most reactive to least reactive, with potassium at the top and gold at the bottom. A metal higher in the series can push a lower metal out of its salt solution. Iron placed in copper sulphate turns the solution green as FeSO4 forms and reddish copper is deposited. Zinc does the same more vigorously. Copper does not displace iron from iron sulphate, wich confirms the order. Metals above hydrogen, such as zinc, also release hydrogen gas from dilute HCl, while copper does not.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-reactivity-displacement_c1": 3.0
+  },
+  "data_source": "cbse"
+}

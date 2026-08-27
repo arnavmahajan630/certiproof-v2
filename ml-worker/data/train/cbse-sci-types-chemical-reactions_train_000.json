@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-types-chemical-reactions_train_000",
+  "question_id": "cbse-sci-types-chemical-reactions",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A combination reaction joins two or more reactants into one product, as when quicklime reacts with water to give slaked lime and a large amount of heat. Decomposition is the reverse: heating lead nitrate yields lead oxide, nitrogen dioxide and oxygen, so energy is absorbed. In displacement, iron metal takes the place of copper in copper sulphate and reddish copper appears. Double displacement is an exchange of ions; mixing barium chloride with sodium sulphate throws down a white precipitate of BaSO4. Any reaction in which electrons are transferred, such as zinc plus copper sulphate, is redox. Burning of hydrogen is both combination and redox and is strongly exothermic, while electrolysis of water is decomposition, redox and endothermic.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-types-chemical-reactions_c1": 5.0
+  },
+  "data_source": "cbse"
+}

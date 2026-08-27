@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_004",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "(a) Based on the students data, I can conclude that plastic type B was the most stretchable. This is because it was stretched more than the other plastic after 5 minutes in both trials for example, plastic B stretched 22 mm in the first trial but plastic D the next most stretchable only stretched 20 mm. The students could have improved the experiment adding more trials. This would make their experiment more accurate because they will have more both to use their by. They should have also tell how many weights to add at a time, so that they, and whoever else does this experiment remains constant.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

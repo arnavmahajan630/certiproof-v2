@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-trees-leave-house_train_001",
+  "question_id": "cbse-eng-trees-leave-house",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Indoor trees rebel. They disengage from walls and head for the forest, which Rich uses as an image of freedom after long enclosure.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-trees-leave-house_c1": 3.0
+  },
+  "data_source": "cbse"
+}

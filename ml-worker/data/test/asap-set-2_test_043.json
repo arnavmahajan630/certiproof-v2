@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_043",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "(a) Based on the experiments, plastic type A is the strongest of all plastics, plastic B is the weakest. B is the weakest because it stretched the most and this could be because the plastic is thin, while plastic A was more thick: instead of a linear polymer like B, plastic A was probably a tratched polymer with many different bonds. ^P (b) To improve the expirement, the students should have use the same amount of each plastic to test. The size of the plastic adds another variable to the expirement. They should also specify which weights they use and should make the weight for each plastic constant.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

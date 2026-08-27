@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-necklace-honesty_train_000",
+  "question_id": "cbse-eng-necklace-honesty",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Matilda does not tell Mme Forestier that the borrowed necklace is lost. She and Loisel buy a real diamond replacement and grind through a decade of debt. The lie keeps them terrified of discovery. Had she spoken at once, she would have learned the original was paste, and their youth would not have been wasted. Honesty would have been cheaper than pride.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-necklace-honesty_c1": 3.0
+  },
+  "data_source": "cbse"
+}

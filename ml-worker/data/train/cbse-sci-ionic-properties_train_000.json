@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ionic-properties_train_000",
+  "question_id": "cbse-sci-ionic-properties",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Ionic compounds such as NaCl have high melting points because positive and negative ions are held by strong electrostatic forces that need a lot of heat to break. They do not conduct in the solid state, where ions are locked in the lattice, but they conduct when molten or dissolved in water because the ions become free to move and carry charge.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ionic-properties_c1": 2.0
+  },
+  "data_source": "cbse"
+}

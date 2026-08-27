@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_039",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "a) Based on the student's data, polymer plastic type B was the most stretchable and polymer plastic type A was the most resistance to stretching, or the strongest. Type B stretched an average of 22.5mm, while type A stretched only an average of 11mm, and types C and D came in the middle, stretching averages of 13.5mm, and 20mm. Type A had the strongest polymer in the plastic and type B had the weakest. ^P b.) The first improvement could have been to include control, by testing the stretchability of the materials or plastics without polymers, or running trials on the same plastics without adding weights, to have a valid comparison to see if the polymers are actually what are affecting their stretchability. The second improvement could be to make sure each plastic is of the same thickness, as that can affect stretchability. They could also use more precise instrument or run more trials.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

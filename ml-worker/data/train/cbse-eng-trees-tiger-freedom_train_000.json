@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-trees-tiger-freedom_train_000",
+  "question_id": "cbse-eng-trees-tiger-freedom",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Both poems treat confinement as an injury. In 'The Trees' the forest is empty because the trees have been kept indoors like furniture. All night their roots work free of the veranda, and they push through glass toward the woods. That march is a figure for nature, and for people, refusing rooms that limit growth. In 'A Tiger in the Zoo' the animal still has velvet pads and strength, but the cage lets him take only a few steps. His quiet rage and the long look at the stars are the same hunger the trees feel: to be where he belongs, lurking in shadow and sliding through grass. The house and the zoo are human structures. When the trees reach the forest there is renewal; the tiger's desire stays unmet, which makes the zoo a picture of oppression. Freedom is not a luxury in either poem; it is the condition of being fully alive.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-trees-tiger-freedom_c1": 6.0
+  },
+  "data_source": "cbse"
+}

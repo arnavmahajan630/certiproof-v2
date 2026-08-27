@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-baker-coorg-assam-tourism_train_001",
+  "question_id": "cbse-eng-baker-coorg-assam-tourism",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Literature here is publicity with affection. Goa is sold through bread and memory, Coorg through martial hosts and green slopes, Assam through tea lore and garden views. A student who has never travelled still meets festivals, landscapes and livelihoods, and that knowledge can grow into actual tourism while honouring local tradition instead of flattening it into a slogan.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-baker-coorg-assam-tourism_c1": 6.0
+  },
+  "data_source": "cbse"
+}

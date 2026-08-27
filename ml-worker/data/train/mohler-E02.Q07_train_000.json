@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q07_train_000",
+  "question_id": "mohler-E02.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Header files have reusable source code in a file that a programer can use.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q07_c1": 2.5
+  },
+  "data_source": "mohler"
+}

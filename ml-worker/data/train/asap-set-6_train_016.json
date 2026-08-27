@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_016",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Endocytosis. Endocytosis is when the cell uses a vesical to transport large substances into the cell. Exocytosis. Exocytosis is when the cell uses a vesical to tranport large out of a cell.Ion channels. Ion channels only let certain molecules into the cell.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

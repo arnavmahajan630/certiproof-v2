@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-presbyopia-age_train_001",
+  "question_id": "cbse-sci-presbyopia-age",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Ageing stiffens the eye lens so close objects blur. Convex or bifocal lenses supply the extra converging power needed for near work.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-presbyopia-age_c1": 3.0
+  },
+  "data_source": "cbse"
+}

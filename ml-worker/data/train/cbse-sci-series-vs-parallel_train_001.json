@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-series-vs-parallel_train_001",
+  "question_id": "cbse-sci-series-vs-parallel",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Series adds resistances and shares one current. Parallel shares one voltage, splits current, and lowers the net resistance.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-series-vs-parallel_c1": 2.0
+  },
+  "data_source": "cbse"
+}

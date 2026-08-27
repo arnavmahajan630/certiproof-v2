@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-mijbil-two-traits_train_001",
+  "question_id": "cbse-eng-mijbil-two-traits",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Two otter habits stand out. Mijbil turned every container into a fountain because he wanted water in motion, and he treated the room as a puzzle, opening taps and playing coordinated marble games on his chest.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-mijbil-two-traits_c1": 3.0
+  },
+  "data_source": "cbse"
+}

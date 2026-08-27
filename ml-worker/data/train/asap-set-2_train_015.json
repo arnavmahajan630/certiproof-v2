@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_015",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "a. Plastic type B was the polymer plastic with the greatest stretch length. Plastic type A was the most resistant to stretch. b. The students need to make a couple of changes to improve the validity of the results. In step 1 of the procedure, it says \"take a sample of one type of plastic B measasure its length\". This is misleading because all 4 polymer plastics should be the same length at the beginning of the experiment. This is important b/c the longest should be the piece is at the beginning can affect how much it will stretch. Finally students need to change step 9 \"add some weights\" to a specific number of weight. This is important b/c if they put more weight on one plastic it will stretch farther, than a plastic w/ less weight attached.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

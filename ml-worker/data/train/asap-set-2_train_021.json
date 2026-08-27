@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_021",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Plastic B had the greatest stretchability the students should have included how much the weights they used weighed and how many weights they used. Also they should have included another trial.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

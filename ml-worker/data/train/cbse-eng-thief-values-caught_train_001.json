@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-thief-values-caught_train_001",
+  "question_id": "cbse-eng-thief-values-caught",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Hari changes because he watches Anil, not because anyone scolds him. Kindness and the gift of literacy make theft feel like a loss, so he returns the notes. The proverb fits the story.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-thief-values-caught_c1": 3.0
+  },
+  "data_source": "cbse"
+}

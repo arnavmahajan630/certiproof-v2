@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q06_train_000",
+  "question_id": "mohler-E12.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "It is a \"first in first out\" data structure. It can be implemented with either a linked list or an array.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q06_c1": 5.0
+  },
+  "data_source": "mohler"
+}

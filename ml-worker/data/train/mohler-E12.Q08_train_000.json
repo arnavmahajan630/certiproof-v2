@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q08_train_000",
+  "question_id": "mohler-E12.Q08",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "go to the bottom of the left sub tree and visit the parent and then its children",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q08_c1": 3.0
+  },
+  "data_source": "mohler"
+}

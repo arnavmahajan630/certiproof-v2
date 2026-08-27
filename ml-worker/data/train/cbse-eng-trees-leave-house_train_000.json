@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-trees-leave-house_train_000",
+  "question_id": "cbse-eng-trees-leave-house",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "In the poem the forest is empty because the trees have been kept indoors. At night they work themselves loose, roots inching out of the veranda, and they stumble toward the woods, shattering the glass. The scene is not a gardening note; it is a picture of life refusing rooms that are too small, a return to a natural state.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-trees-leave-house_c1": 3.0
+  },
+  "data_source": "cbse"
+}

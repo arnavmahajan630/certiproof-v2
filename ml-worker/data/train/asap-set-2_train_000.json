@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_000",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Based on the student's data it looks like they wanted to see if their type of plastic had an effect on how far it can stretch. Plastic type D must be hard plastic because for both trials one and two the plastic did not move 1 mm. The students could have improved their results by telling us how much weight they used. Without the amount of weight no one knows how much to use so our results will be different. Also, in step 1 the students did not say how long the plastic must be cut.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_019",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The additional information you would need in order to replicate the experiment is the amount of vinegar they pour into the four seperate containers. They also forgot to say the amount of water they needed to rinse each sample.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

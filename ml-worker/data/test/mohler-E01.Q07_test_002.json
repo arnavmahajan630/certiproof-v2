@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E01.Q07_test_002",
+  "question_id": "mohler-E01.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A do-while passes atleast 1 time before checking the condition, however, a while would fail to enter the loop if the condition fails in its first place.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E01.Q07_c1": 5.0
+  },
+  "data_source": "mohler"
+}

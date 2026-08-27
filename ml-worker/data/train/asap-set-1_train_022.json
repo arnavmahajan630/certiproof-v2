@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_022",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "In order to replicate this group's procedure, I would need the following information: ^p 1. When they say in step one that they need to determine the mass of four different samples, they should name and list the samples that they plan on using. ^p 2. In step two when they say to pour vinegar in each of the four separate but identical containers, they should make mention or how much vinegar we should pour in. ^p 3. When they say in step four that we should rinse each sample with distilled water, how much water should we use and how long should we rinse.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

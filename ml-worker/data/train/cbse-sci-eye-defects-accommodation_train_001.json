@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-eye-defects-accommodation_train_001",
+  "question_id": "cbse-sci-eye-defects-accommodation",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Accommodation is the lens changing shape to focus. Short sight needs a diverging lens, long sight a converging lens, and ageing presbyopia needs convex or bifocal lenses.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-eye-defects-accommodation_c1": 5.0
+  },
+  "data_source": "cbse"
+}

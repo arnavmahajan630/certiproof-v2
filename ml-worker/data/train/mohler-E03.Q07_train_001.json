@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q07_train_001",
+  "question_id": "mohler-E03.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Both are bases on a control statement. Both involve repetition. Both involve a termination test. Both gradually approach termination. Both can occur infinitely.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q07_c1": 5.0
+  },
+  "data_source": "mohler"
+}

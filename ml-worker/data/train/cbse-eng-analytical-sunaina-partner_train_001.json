@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-analytical-sunaina-partner_train_001",
+  "question_id": "cbse-eng-analytical-sunaina-partner",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Pick Sunaina because her organisation repairs Jaspreet's weak time sense without stealing the creative lead. Tabassum would add art but not focus. Alice would raise presentation quality but might shut Jaspreet out. For a joint project with a deadline, reliable structure is the missing piece, and Sunaina supplies it.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-analytical-sunaina-partner_c1": 5.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-refraction-atmosphere-scattering_train_000",
+  "question_id": "cbse-sci-refraction-atmosphere-scattering",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Light from stars is refracted by layers of air that keep changing in density, so the apparent position of a star shifts slightly and the star twinkles. The same atmospheric refraction lets us see the sun a little before it actually rises and after it has set, because rays from below the horizon are bent downwards. Daylight sky looks blue because air molecules scatter short wavelengths much more than long ones, and our eyes respond strongly to blue. At sunrise and sunset the path through the air is long, so blue light is scattered out of the beam and the sun looks red. A rainbow is formed when sunlight enters raindrops, disperses into colours, reflects internally, and leaves towards the observer, who must stand with the sun behind and the drops in front.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-refraction-atmosphere-scattering_c1": 5.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-covalent-catenation_train_000",
+  "question_id": "cbse-sci-covalent-catenation",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A carbon atom has four electrons in its outer shell. Losing or gaining four electrons would give a C4+ or C4- ion, which is energetically unfavourable, especially as the atom is small and holds its electrons tightly. Carbon therefore shares four electron pairs and is tetravalent. Because the C-C bond is strong, carbon atoms also join one another in long chains, branches and rings. This catenation, together with tetravalency, produces the huge variety of organic compounds.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-covalent-catenation_c1": 3.0
+  },
+  "data_source": "cbse"
+}

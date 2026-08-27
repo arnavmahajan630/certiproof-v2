@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_015",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In order to replicate this experiment I would need to know what kind of ''samples'' I am using. The group states to determine the mass of four samples but does not tell me what kind of material these samples are. Also it would be helpful to know how much of each sample I should measure. Again this groups procedure is very being detail and it would help to make the experiment as accurate as possible, to know how much of the sample I should be using. Finally in order to replicate this experiment I would need to know how much vinegar I should add to each sample. Different amounts of vinegar will affect each sample differently, making the experiment inaccurate.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

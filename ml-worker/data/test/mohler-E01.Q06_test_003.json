@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E01.Q06_test_003",
+  "question_id": "mohler-E01.Q06",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "anywhere in the code, can be at the top, or in the middle of the code, or anywhere.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E01.Q06_c1": 3.0
+  },
+  "data_source": "mohler"
+}

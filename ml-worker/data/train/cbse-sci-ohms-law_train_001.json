@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ohms-law_train_001",
+  "question_id": "cbse-sci-ohms-law",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Current is proportional to voltage at fixed temperature, written V = IR. An ohmic wire therefore gives a linear V-I plot through the origin.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ohms-law_c1": 2.0
+  },
+  "data_source": "cbse"
+}

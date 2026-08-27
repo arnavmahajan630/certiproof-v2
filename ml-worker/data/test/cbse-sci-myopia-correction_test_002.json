@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-myopia-correction_test_002",
+  "question_id": "cbse-sci-myopia-correction",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Myopiaa is the defectt in wich a person can see nearby objects clearly but not distant ones. Parallel rays from a far object meet in front of the retina. The eyeball may be elongated, or the eye lens may be too converging. A concave lens of suitable negative power diverges the incoming rays slightly before they enter the eye, so that after refraction by the eye lens they meet on the retina. The far point is thus brought to infinity.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-myopia-correction_c1": 3.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ethanoic-acid-ester_train_001",
+  "question_id": "cbse-sci-ethanoic-acid-ester",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Vinegar is dilute ethanoic acid. With ethanol and conc. H2SO4 it forms a sweet ester. With baking soda it releases CO2, proving it is an acid.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ethanoic-acid-ester_c1": 3.0
+  },
+  "data_source": "cbse"
+}

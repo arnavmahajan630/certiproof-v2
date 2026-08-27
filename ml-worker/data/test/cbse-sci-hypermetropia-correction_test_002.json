@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-hypermetropia-correction_test_002",
+  "question_id": "cbse-sci-hypermetropia-correction",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Hypermetropiaa is the defectt in wich a person can see distant objects clearly but cannot focus nearby objects. The image of a near object is formed behind the retina. This happens if the eyeball is too short or if the eye lens is too weak, so its focal length is too long. A convex lens of suitable power adds converging power. The lens forms a virtual image of the nearby object at the person's near point, and the eye then focuses that image on the retina.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-hypermetropia-correction_c1": 3.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-his-first-flight-hunger_train_001",
+  "question_id": "cbse-eng-his-first-flight-hunger",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Starvation is the family's method. The sight of food just too far away makes him plunge, and that plunge becomes flight. Courage arrives as an accident of appetite.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-his-first-flight-hunger_c1": 3.0
+  },
+  "data_source": "cbse"
+}

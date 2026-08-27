@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_040",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The students conclusion would be that plastic B stretched the most. For T1 it stretched 22mm and for T2 it streched 23 mm. ^p B) The students could have done more trials. They also could of hard more plastics.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q04_train_000",
+  "question_id": "mohler-E10.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A binary tree is a set of nodes that is either empty or partitioned into a root node and one or two subsets that are binary subtrees of the root. Each node can have no more than two children, a right and a left child.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q04_c1": 5.0
+  },
+  "data_source": "mohler"
+}

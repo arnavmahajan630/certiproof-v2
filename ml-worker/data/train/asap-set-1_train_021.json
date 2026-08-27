@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_021",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "After reading the group procedure the additional information I would need to replicate the experiment is what material are are the 4 different samples make of it is not listed in the procedure,how much vinegar should I pour in each container more or less could affect how much mass has ended ,what shape the sample were in in shape with there surface, we would have more contact with the vinegar, ending It RIGHT and the mass of the starting material if it was to replicate to experiment or repeat the exactly i would need know how much of each sample was used.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

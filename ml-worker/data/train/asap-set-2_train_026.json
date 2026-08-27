@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_026",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A conclusion of the student's rest of stretchability on polymers is, plastic type B is the stretchiest because it stretched out the most out off all the other plastics. Plastic type A would be the least stretchiest because it stretched out the least out of all the other plastic types. 2 ways the students could have improved the results are; increase the number of plastics being tested so that you have more results; are increase the number of plastics being tested so that you have more results, The second way is add more weights when stretching out the plastics so you can see how they react under more weight pressure.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

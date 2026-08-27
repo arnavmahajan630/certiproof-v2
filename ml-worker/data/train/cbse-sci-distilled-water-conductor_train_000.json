@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-distilled-water-conductor_train_000",
+  "question_id": "cbse-sci-distilled-water-conductor",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Distilled water is almost pure H2O and contains very few ions, so it is a poor conductor of electricity and electrolysis does not proceed well. Adding a few drops of dilute sulphuric acid or a little sodium chloride supplies H+, SO4 2- or Na+ and Cl- ions. These mobile ions carry current, so the water becomes a good electrolyte.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-distilled-water-conductor_c1": 2.0
+  },
+  "data_source": "cbse"
+}

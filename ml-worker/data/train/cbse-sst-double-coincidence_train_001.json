@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-double-coincidence_train_001",
+  "question_id": "cbse-sst-double-coincidence",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Barter is clumsy because both sides must want each other\u2019s goods. Money breaks that lock.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-double-coincidence_c1": 2.0
+  },
+  "data_source": "cbse"
+}

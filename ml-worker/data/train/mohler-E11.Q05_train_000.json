@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q05_train_000",
+  "question_id": "mohler-E11.Q05",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A function that calls itself over and over again till a base case is reached, then it returns back to the original function.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q05_c1": 5.0
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_000",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In these procedure it's not explained what this sample is that there putting in. So if we knew exactly what is was it would help. There should be a control with containers without vinegar to compare to the other samples with vinegar. The last thing to make the procedure right is to know the mass of each sample to know much to use.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

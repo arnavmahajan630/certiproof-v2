@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-tricki-overfeeding_train_001",
+  "question_id": "cbse-eng-tricki-overfeeding",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Love without limits makes Tricki sick. Recovery is hunger, exercise and company at the clinic. The title is ironic: common sense, not surgery, saves the dog.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-tricki-overfeeding_c1": 3.0
+  },
+  "data_source": "cbse"
+}

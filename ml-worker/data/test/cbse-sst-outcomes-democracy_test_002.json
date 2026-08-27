@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-outcomes-democracy_test_002",
+  "question_id": "cbse-sst-outcomes-democracy",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "We expectt democraciess to hold free elections, remain accountable, and respond to citizens. They should protect dignity and manage social diversity. They may not always grow fastest or cut inequality the most, but they are a more legitimate form of goverment than dictatorship.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-outcomes-democracy_c1": 3.0
+  },
+  "data_source": "cbse"
+}

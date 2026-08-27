@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-crafts-community-income_test_002",
+  "question_id": "cbse-eng-crafts-community-income",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Buying indigenous crafts puts money directly in the hands of artisans who often have few other jobs in thier villages. A steady income lets them keep practising skills passed down in the family and feed their households. Fair demand also lifts the whole locality, becuase earnings stay local and encourage the next generation to continue the craft instead of abandoning it.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-crafts-community-income_c1": 2.0
+  },
+  "data_source": "cbse"
+}

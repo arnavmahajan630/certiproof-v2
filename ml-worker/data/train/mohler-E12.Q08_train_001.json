@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q08_train_001",
+  "question_id": "mohler-E12.Q08",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The Euler tour traversal of a tree is a specific way of navigating a tree that involves following the tree starting at the very top and moving along the left side of the tree first, cupping in to visit the parents of children nodes. It allows for each node to be visited from the left, the right and the bottom. The Euler tour first progresses to a left child if there is one, then progresses to it's parent, then it's next child, then it's parent's parent.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q08_c1": 4.5
+  },
+  "data_source": "mohler"
+}

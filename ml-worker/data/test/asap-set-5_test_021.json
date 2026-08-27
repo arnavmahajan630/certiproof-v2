@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_test_021",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "After mRNA leaves the nucleus, after going through the process of trancription where the RNA polymerase unzip the strand into two identical halves, the mRNA goes to the ribosome. Translation occurs when tRNA makes a copy of the DNA segment and complementary base pairs are linked to the half of the mRNA strand. The complementary base pairs start to link onto the mRNA strand only when the start codon is identify and complemented. Then the tRNA brings amino acids and builds the amino acids onto the molecule making a protein chain. Finally the base pairs hit the stop codon and translation has completed the new mRNA strand.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

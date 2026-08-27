@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-homologous-series_test_002",
+  "question_id": "cbse-sci-homologous-series",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "A homologouss seriess is a group of carbon compounds that share the same functional group and a general formula, with each next member having an extra -CH2- unit. Alkanes (CnH2n+2) such as methane, ethane and propane form one series. Members show similar chemical reactions becuase the functional group is the same, while boiling points rise steadily as the chain gets longer.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-homologous-series_c1": 2.0
+  },
+  "data_source": "cbse"
+}

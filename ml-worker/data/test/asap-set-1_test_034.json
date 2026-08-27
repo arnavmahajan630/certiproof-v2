@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_test_034",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A good procedure would show a little more information such as, how much vinegar you pour into each container. It should also tell the size, and or type of containers used in this experiment. Also for it to be more accurate they should have started by making sure each sample has equal mass so it is easier to determine the resaults.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

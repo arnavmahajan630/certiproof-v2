@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_002",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In order to replicate the experiment, there is some information that wasn't involved that is needed. First, in the product it just said pour vinegar. It didn't say how much which is important. Another important factor that would be needed is in what temperature to let the samples sit and deap in, in steps, it justsaid let it dry for 30 minutes, to didn'nt sayat whattemperature. Finally, when step 4 says, mix with distilled water, it doesn't say what temperature the distilled water has, it just says distilled water. I would need to kwow at what temperature distilled water has to be.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-fire-and-ice_train_001",
+  "question_id": "cbse-eng-fire-and-ice",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The poem treats apocalypse as moral. Unchecked longing is fire; cruelty is ice. Both inner forces are strong enough, in Frost's view, to bring destruction.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-fire-and-ice_c1": 3.0
+  },
+  "data_source": "cbse"
+}

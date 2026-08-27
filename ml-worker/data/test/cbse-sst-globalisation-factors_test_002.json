@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-globalisation-factors_test_002",
+  "question_id": "cbse-sst-globalisation-factors",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Globalisationn grew with fasterr movement of goods and services, cheap information and communication technology, better transport, movement of people, and liberal policies on foreign trade and investment.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-globalisation-factors_c1": 3.0
+  },
+  "data_source": "cbse"
+}

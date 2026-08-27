@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_047",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Based on the data table each trail for each type of plastic was fairly similar. Also from the table it is clear to see that plastic is was the most flexible as it stretched 22mm in the first trial and 23mm in the second trial. Plastic A was the least flexible.The first trial stretched 10mm in length and in the second trial 12mm.Therefore out of all the plastics, plastic B had the greatest stretchability. However, one way the results could have been improved is by measuring the length (mm) of the plastic when they break or even after a longer period of time.This will show the true stretchability of each plastic. Another improvement could be naming types of plastic that were being future trial can be done and the best plastic could be put to good use.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

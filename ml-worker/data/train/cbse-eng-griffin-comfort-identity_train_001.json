@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-griffin-comfort-identity_train_001",
+  "question_id": "cbse-eng-griffin-comfort-identity",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Short spells of warmth remind Griffin of ordinary life and then snatch it away. Isolation turns him harsher: theft and rage replace research, and his identity collapses into that of a hunted invisible man.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-griffin-comfort-identity_c1": 3.0
+  },
+  "data_source": "cbse"
+}

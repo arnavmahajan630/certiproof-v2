@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-amanda-imagination_train_000",
+  "question_id": "cbse-eng-amanda-imagination",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Whenever an adult scolds, Amanda slips into another life. As a mermaid she drifts, blissfully alone. As an orphan she pictures golden streets without anyone to watch her. As Rapunzel she would stay in the tower and never let her hair down if it meant more visitors. The dreams all refuse control; she wants room to be, not more tasks.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-amanda-imagination_c1": 3.0
+  },
+  "data_source": "cbse"
+}

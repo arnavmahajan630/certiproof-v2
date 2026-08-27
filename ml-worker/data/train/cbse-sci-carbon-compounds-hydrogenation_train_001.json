@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-carbon-compounds-hydrogenation_train_001",
+  "question_id": "cbse-sci-carbon-compounds-hydrogenation",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Tetravalent carbon catenates and forms homologous series. Alkanes are saturated; alkenes are not. Propene plus hydrogen on nickel gives propane, the same addition used to solidify oils.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-carbon-compounds-hydrogenation_c1": 5.0
+  },
+  "data_source": "cbse"
+}

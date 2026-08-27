@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-silk-routes_train_000",
+  "question_id": "cbse-sst-silk-routes",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The silk routes carried Chinese pottery, Indian textiles and Southeast Asian spices towards the west, while gold and silver flowed from Europe to Asia. Trade also moved ideas: Buddhism spread from India along these routes, and later Christian missionaries and Muslim preachers used the same paths.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-silk-routes_c1": 2.0
+  },
+  "data_source": "cbse"
+}

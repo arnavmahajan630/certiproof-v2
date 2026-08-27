@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-letter-eco-clubs_test_002",
+  "question_id": "cbse-eng-letter-eco-clubs",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "14, Modell Town, Chandigarhh 26 August 2026 The Education Secretary, Department of Education, Chandigarh Subject: Request to start Eco-Clubs in rural schools Sir/Madam I am Vaibhav, Club In-charge of my school's Ecology Club. Ecological awareness teaches children to protect water, forests and wildlife and to act against pollution, deforestation and vanishing species. If rural students learn this early, they grow into citizens who care for local resources instead of wasting them. I request the Department to set up Eco-Clubs in schools around the city. Clubs can run tree-plantation drives, cleanliness campaigns and talks with farmers, and they also build teamwork and scientific curiosity. Kindly provide funds, saplings, training and guidance, and partner with NGOs so the clubs last beyond one session. Yours sincerely Vaibhav Club In-charge",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-letter-eco-clubs_c1": 5.0
+  },
+  "data_source": "cbse"
+}

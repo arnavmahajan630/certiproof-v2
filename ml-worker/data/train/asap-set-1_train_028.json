@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_028",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Additional information that you would need for this experiment would be how much vinegar to put in, how big the container should be, and if the material should be or shouldn't be fully submerged by the vinegar.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-book-earth-stage-directions_train_000",
+  "question_id": "cbse-eng-book-earth-stage-directions",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "When the Historian switches on the historiscope and the spotlight dies, the play stops being a lecture. The audience is told to watch the past instead of the speaker. That technical change builds suspense and points us toward the invasion story that follows.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-book-earth-stage-directions_c1": 2.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-bharat-mata_train_001",
+  "question_id": "cbse-sst-bharat-mata",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A shared identity was built through personifying the nation as Bharat Mata, through songs and revived folklore, and through nationalist flags. Looking back at India\u2019s past in science, art and philosophy was used to restore pride and urge struggle against colonial rule.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-bharat-mata_c1": 3.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_000",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "When the mRNA leaves the nucleus, it fits through the holes by virtue of being single-stranded. The mRNA floats around until it encounters a ribosome. The ribosome latches on to the mRNA with the larger portion nesting with and reading three nitrogenous bases, called a codon, at a time. The ribosome says in semi-stasis until a tRNA with the proper corresponding nitrogenous bases bumps into it. The tRNA is held by the ribosome until the second codon has been read, and a second tRNA is bonded to by the Ribosome. A peptide (dehydration synthesis) bond forms between the two amino acids, and the initial tRNA is 'cut loose' The ribosome then moves on down the mRNA creating the protein coded for. A strand of mRNA can be translated several times.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

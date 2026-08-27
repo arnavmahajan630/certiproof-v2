@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-fog-moves-on_test_002",
+  "question_id": "cbse-eng-fog-moves-on",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Sandburgg's fog does not stay. It comess on little cat feet, looks over the harbour, and then moves on. That last action is the point: like fog, many experiences settle on us for a short time and vanish. The poem asks us to notice how temporary such quiet visits are.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-fog-moves-on_c1": 3.0
+  },
+  "data_source": "cbse"
+}

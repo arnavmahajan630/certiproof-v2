@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-ball-poem-stand-up_test_002",
+  "question_id": "cbse-eng-ball-poem-stand-up",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "'How to standd up' meanss the boy is learning to live with grief. The lost ball teaches him that things and days go, and he must get back on his feet. That knowledge is his first step into adult responsibility.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-ball-poem-stand-up_c1": 2.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-necklace-irony-pride_train_001",
+  "question_id": "cbse-eng-necklace-irony-pride",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The story's cruelty is that show, not theft, ruins the Loisels. Borrowing to impress, then hiding the loss, turns a paste necklace into a life sentence. When the truth appears, pride is exposed as the real expensive jewel. The irony is complete because honesty on the first morning would have cost almost nothing.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-necklace-irony-pride_c1": 6.0
+  },
+  "data_source": "cbse"
+}

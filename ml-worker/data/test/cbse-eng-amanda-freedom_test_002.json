@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-amanda-freedom_test_002",
+  "question_id": "cbse-eng-amanda-freedom",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Klein builds the poem as an arguement betwen two voices that never really meet. The grown-up line is a list: do not bite your nails, sit up, finish homework, do not eat chocolate, tidy your shoes. Each 'Amanda!' is a reminder that she is being watched. The child's lines are not answers; they are exits. She drifts as a mermaid in a green sea, then pictures the fredom of an orphan, then sits as Rapunzel who would rather stay unvisited than let more control into the tower. Those pictures are still and spacious, the opposite of the sharp commands. By the end we see that constant correction has not produced a neat girl so much as a private rebel. The poem suggests that children need silence and play, and that a home full of instructions can feel like a cage. Imagination is Amanda's only unlocked door.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-amanda-freedom_c1": 6.0
+  },
+  "data_source": "cbse"
+}

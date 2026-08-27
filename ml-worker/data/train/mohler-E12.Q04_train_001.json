@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q04_train_001",
+  "question_id": "mohler-E12.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "it selects the smallest element in a list and switches it with the element in its correct position, then it selects the next smallest and does the same...",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q04_c1": 4.5
+  },
+  "data_source": "mohler"
+}

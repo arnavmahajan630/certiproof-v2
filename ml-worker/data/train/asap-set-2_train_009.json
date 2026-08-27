@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_009",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The plastic from T2 stretched a little more than it did in T1. They could have made sure the plastic weights the same, and the could of made sure the weights were all equal in each group.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

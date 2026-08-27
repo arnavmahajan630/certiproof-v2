@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_027",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "There are several pieces of information that I would need to replicate this experiment. Firstly, in step one, I would want to know specifically what the four different samples were. Secondly, in step two, I need to know how much vinegar to pour into the containers. Thirdly, in step three, I would need to know how much of each material to put into each container. Having a specific mass for the sample would be helpful in keeping the experiment consistent. All three of these pieces of additional information would extremely helpful in replicating this experiment and avoiding possible source of error while replicating.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

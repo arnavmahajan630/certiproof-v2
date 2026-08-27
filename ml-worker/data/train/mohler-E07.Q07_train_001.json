@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E07.Q07_train_001",
+  "question_id": "mohler-E07.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The process of adding and removing Nodes in a Doubly linked list is more complex than in a basic linked list",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E07.Q07_c1": 3.5
+  },
+  "data_source": "mohler"
+}

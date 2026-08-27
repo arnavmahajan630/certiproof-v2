@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-extraction-metals-reactivity_train_001",
+  "question_id": "cbse-sci-extraction-metals-reactivity",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Electrolysis is used for the most reactive metals, carbon or thermite reduction for the middle, and native occurrence for the least reactive. Iron is protected from rust by coatings, zinc, or alloys.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-extraction-metals-reactivity_c1": 5.0
+  },
+  "data_source": "cbse"
+}

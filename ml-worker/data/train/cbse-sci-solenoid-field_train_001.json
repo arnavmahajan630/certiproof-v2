@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-solenoid-field_train_001",
+  "question_id": "cbse-sci-solenoid-field",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A long current-carrying coil has a uniform bar-magnet-like field inside and acts as an electromagnet when a soft-iron core is inserted.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-solenoid-field_c1": 3.0
+  },
+  "data_source": "cbse"
+}

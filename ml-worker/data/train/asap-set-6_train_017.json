@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_017",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "There are many ways a cells materials can enter of leave a cell. Endocytosis is how a cell takes in needed materials in which are to big to fit through the lipid bilayer. Exocytosis is a process in which cells get rid of any waste materials to big to fit through the lipid bilayer. Another way to move substances across the cell membrane is by the sodium-potassium pump. The sodium-potassium pump alows potassium to enter a cell, and sodium to leave a cell. Sodium-potassium pumps only open one way at a time. For example, when the pump is recieving the potassium from outside the cell, the sodium waiting on the indide of the cell can't move through. Endocytosis, Exocytosis, and sodium-potassium pump are three ways substances move across the cell membrane.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

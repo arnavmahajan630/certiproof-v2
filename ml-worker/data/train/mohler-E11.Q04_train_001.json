@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q04_train_001",
+  "question_id": "mohler-E11.Q04",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "the unique identifier of a function, which includes input variables along with the function name, but excludes the output type.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q04_c1": 4.5
+  },
+  "data_source": "mohler"
+}

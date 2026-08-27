@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-letter-digital-security_train_000",
+  "question_id": "cbse-eng-letter-digital-security",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Vidya Mandir, New Delhi 26 August 2026 The Editor, The National Herald, New Delhi Subject: Urgent need for digital security awareness Sir Through your columns I, Amitha, Vice Head Girl of Vidya Mandir, wish to highlight growing cyber-attacks. Identity theft, bank fraud and data leaks now hit every age group. Children, elderly people and those with little training fall to phishing, malware and online predators, and ignorance makes the damage worse. Schools, offices and resident groups must teach digital hygiene: strong passwords, spotting fake links and careful sharing of personal data. Workshops, webinars and public campaigns can reach all ages, while authorities should enforce stricter cybersecurity rules. Please use this newspaper to urge citizens, companies and government to act together before more families lose money and privacy. Yours truly Amitha Vice Head Girl",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-letter-digital-security_c1": 5.0
+  },
+  "data_source": "cbse"
+}

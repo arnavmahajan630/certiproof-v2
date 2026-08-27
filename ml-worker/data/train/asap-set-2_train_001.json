@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_001",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A. Plastic type A is the most durable plastic because in trial 1 it only stretched 10mm and in trial 2 it stretched 12mm, which was the least amount of stretching. Plastic type B is the most durable type of plastic because in trial 1 it stretched 22mm and in trial 2 it stretched 23mm, which was the most amount of stretching. The students could have improved their experimental design by stating how much weight they used for each trial because nobody knows how much weight they were using for each trial. Secondly instead of adding weight to the clamp, the should have just put the weight onto the plastic itself to get maximum stretch.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

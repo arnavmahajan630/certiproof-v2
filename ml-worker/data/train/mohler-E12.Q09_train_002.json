@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q09_train_002",
+  "question_id": "mohler-E12.Q09",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Create a temp Node Set temp's values to the Node after head or NULL in the case of only head Node in the list. Set head equal to temp. Delete temp",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q09_c1": 2.0
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-midnight-ausable-wit_train_000",
+  "question_id": "cbse-eng-midnight-ausable-wit",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Fowler expects pistols and mystery. Instead he meets a sloppy, overweight man who talks about American food. When Max appears with a gun, Ausable calmly invents a balcony used by earlier intruders and treats a knock as the police. Max jumps to nothing and dies. The story shows that quick thinking, not a film-star look, makes the agent.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-midnight-ausable-wit_c1": 3.0
+  },
+  "data_source": "cbse"
+}

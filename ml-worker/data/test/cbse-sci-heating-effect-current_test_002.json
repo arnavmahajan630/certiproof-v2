@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-heating-effect-current_test_002",
+  "question_id": "cbse-sci-heating-effect-current",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Joulee's law says that the heat producedd in a resistor is proportional to the square of the current, to the resistence, and to the time, H = I^2 R t. This heating effect is used in an electric iron and in a room heater, where a high-resistance nichrome coil becomes hot. A fuse also uses heating: excess current melts the fuse wire and breaks the circuit.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-heating-effect-current_c1": 2.0
+  },
+  "data_source": "cbse"
+}

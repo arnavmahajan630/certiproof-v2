@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E10.Q01_train_001",
+  "question_id": "mohler-E10.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A tree is a finite set of one or more nodes such that there is a specially designated node called the root.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E10.Q01_c1": 3.5
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_032",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "based on the students data I can conclude that the second time the trial was done the amount that the plastic types stretched was greater than that of trial one except for type C which it shrink 1mm from 14 to 13 in trial 2. Two ways they could have made this experiment better is if they were specific on how much weight was used, and if in the chart they included the amount of time that each plastic type hong.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

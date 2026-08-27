@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-neutralisation-phenolphthalein_train_001",
+  "question_id": "cbse-sci-neutralisation-phenolphthalein",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The products are sodium sulphate and water. The change is both neutralisation and double displacement. Phenolphthalein stays pink only while the solution is still basic.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-neutralisation-phenolphthalein_c1": 3.0
+  },
+  "data_source": "cbse"
+}

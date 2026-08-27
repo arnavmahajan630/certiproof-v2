@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q08_test_004",
+  "question_id": "mohler-E12.Q08",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "traversing a tree level by level",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q08_c1": 1.5
+  },
+  "data_source": "mohler"
+}

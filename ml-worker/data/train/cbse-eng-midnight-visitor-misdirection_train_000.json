@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-midnight-visitor-misdirection_train_000",
+  "question_id": "cbse-eng-midnight-visitor-misdirection",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Robert Arthur never shows a balcony; he only lets Ausable describe one. From the start Fowler, Max and the reader are steered toward that ledge as if it were a known weakness of the room. Ausable even supplies a history of earlier thieves, which makes the lie feel used and therefore true. Suspense rises when a knock comes and he names it as police. Max, desperate not to be caught with the report, swings toward the window that should save him. He steps into empty air. The shock works because the narrative kept us looking at a door that was never there. Misdirection is the plot: we watch a fat, unheroic agent talk, and only at the scream do we see that language, not a gun, has removed the rival. The ending satisfies because the false balcony was planted in plain hearing all along.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-midnight-visitor-misdirection_c1": 6.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-heating-effect-current_train_001",
+  "question_id": "cbse-sci-heating-effect-current",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Heat generated is I squared times R times t. Irons, heaters and fuses all depend on that heating of a wire.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-heating-effect-current_c1": 2.0
+  },
+  "data_source": "cbse"
+}

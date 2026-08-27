@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E08.Q07_train_002",
+  "question_id": "mohler-E08.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "you would have to traverse the stack popping each element to search it",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E08.Q07_c1": 3.5
+  },
+  "data_source": "mohler"
+}

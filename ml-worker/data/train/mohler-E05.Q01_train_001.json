@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E05.Q01_train_001",
+  "question_id": "mohler-E05.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "insertion sort is were after k iterations the first k items in the array are sorted it take the k+1 item and inserts it into the correct position in the already sorted k elements.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E05.Q01_c1": 4.5
+  },
+  "data_source": "mohler"
+}

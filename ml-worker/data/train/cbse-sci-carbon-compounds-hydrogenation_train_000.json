@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-carbon-compounds-hydrogenation_train_000",
+  "question_id": "cbse-sci-carbon-compounds-hydrogenation",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Carbon has four valence electrons and a small size, so it forms four strong covalent bonds rather than ions. Catenation lets carbon atoms join in chains and rings, producing a huge family of compounds. A homologous series, such as the alkanes, has the same general formula and functional group; neighbours differ by CH2, chemical reactions stay alike, and boiling points rise with chain length. Alkanes are saturated because they contain only C-C single bonds. Alkenes such as propene, C3H6, are unsaturated. They decolourise bromine water and add hydrogen over a nickel catalyst: C3H6 + H2 -> C3H8. This hydrogenation converts vegetable oils into vanaspati ghee. Propanol is the corresponding alcohol obtained by addition of water to propene in the presence of acid.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-carbon-compounds-hydrogenation_c1": 5.0
+  },
+  "data_source": "cbse"
+}

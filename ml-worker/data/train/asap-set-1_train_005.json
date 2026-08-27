@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_005",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "I would need to know how much vinegar I was pouring into every cup. I would need to know what the samples were in the procedure. I would also need to know to record the data and take observations.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q05_train_000",
+  "question_id": "mohler-E02.Q05",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "It depends what type of class is being defined. Typically you would have a constructor call for each object.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q05_c1": 1.5
+  },
+  "data_source": "mohler"
+}

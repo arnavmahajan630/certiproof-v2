@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-ethanol-properties_train_001",
+  "question_id": "cbse-sci-ethanol-properties",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Sodium frees hydrogen from ethanol and leaves sodium ethoxide. Concentrated H2SO4 at 443 K dehydrates ethanol to ethene, and strong oxidising agents convert it to ethanoic acid.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-ethanol-properties_c1": 3.0
+  },
+  "data_source": "cbse"
+}

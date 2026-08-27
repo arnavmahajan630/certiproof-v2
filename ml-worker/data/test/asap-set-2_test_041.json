@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_test_041",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "a.) Based on the data, it can be concluded that plastic types B has the least streghth or the most elasticity because it stretched the farthest of all the other plastics. Plastic D is the second and plastic C is the third plastic with least streghth or most elasticity. Since plastic A had the least stretched legnth, it is the strongest or least plastic plastic. ^p b.) To improve the validity of this experiment, it would be wise to msure that each plastic is not only the same size, but is also taped at the exact same spot to the table, and is clamped at the same spot as well. This will allow for the removal of other ine-wencing factors. It is also important to specify the amount of weight that is used. The same amount of weight should be used for each plastic trial to ensure that weight is not a variable in the experiment.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

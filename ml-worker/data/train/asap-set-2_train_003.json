@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_003",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "I conclude that plastic type B stretched the most. One way the students could have improved the experiment design and / or validity of the results is to make sure all the plastic types start out at the same length. Another way is to have a certain amount of weights for all the plastic type trials.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

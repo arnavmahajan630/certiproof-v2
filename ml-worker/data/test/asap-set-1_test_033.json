@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_test_033",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "In order to replace this experiment i would need to know how much vinegar to pour into the container. I would also need to know what type of container. I would even like",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

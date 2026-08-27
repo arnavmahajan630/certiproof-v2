@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_test_020",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The cell uses its cell membrane to monitor what goes in and out of a cell. One processes lets substances enter the cell and one process releases substances from then cell. They can control the movement through diffusion, which means that particles are spread apart equally inside and outside of the cell. Also the cell uses osmosis, which controls the movement of water.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

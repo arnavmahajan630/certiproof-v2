@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-sustainable-development_test_002",
+  "question_id": "cbse-sst-sustainable-development",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Sustainable development meets today\u2019s needs without destroying the chances of future generations. It is needed becuase reckless use of land, water and minerals pollutes the enviroment and leaves fewer resources for those who come after us.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-sustainable-development_c1": 2.0
+  },
+  "data_source": "cbse"
+}

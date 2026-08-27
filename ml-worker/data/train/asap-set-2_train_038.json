@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_038",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A conclusion that can be reached based on the student's data would be that the best plastic type to use to prevent breakage of a bag would be type D. It was not stretched at all when the weights were added. One way to improve the validity of this experiment would be to conduct more trials, and the average not the results. This would ensure which plastic is the strongest. Another way to improve validity would be to specify the weight used and know it as a control for each plastic type. These two things must be done to ensure validity.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

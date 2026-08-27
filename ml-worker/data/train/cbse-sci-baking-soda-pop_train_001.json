@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-baking-soda-pop_train_001",
+  "question_id": "cbse-sci-baking-soda-pop",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "NaHCO3 is baking soda, used in cooking and as an antacid. Heating gypsum yields plaster of Paris, CaSO4.1/2H2O, which sets with water and is used for casts.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-baking-soda-pop_c1": 3.0
+  },
+  "data_source": "cbse"
+}

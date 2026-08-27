@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-trees-tiger-freedom_train_001",
+  "question_id": "cbse-eng-trees-tiger-freedom",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Rich's trees and Norris's tiger share one theme: living things are distorted when locked in. Trees leave plaster and glass for the empty forest that needs them. The tiger cannot leave, so we only imagine his rightful jungle. One poem ends in liberation, the other in a locked night, but both argue that dominance over nature, whether decorative indoor trees or a displayed predator, denies a true life. The wish to break out is presented as just and necessary.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-trees-tiger-freedom_c1": 6.0
+  },
+  "data_source": "cbse"
+}

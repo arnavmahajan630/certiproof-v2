@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_031",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A) A conclusion I could come up with in this experiment is that plastic type B has stretched 22-23mm which makes it the most stretched but out of the 4 they tested in both trials. While plastic type A had the least stretchability at 10 & 12mm. B) Two ways the students could have improved this experiment is they should have done at least 3 or more trials to better the information given. They also should have made sure in step 2 that each plastic was hanging off the table at the same length so it would be a fair way to measure at the end.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

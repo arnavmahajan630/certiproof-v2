@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_008",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Where do we keep the containers? How much vinegar will we use and lastly what type of wood and plastic will we use?",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

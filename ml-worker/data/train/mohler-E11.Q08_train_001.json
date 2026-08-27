@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q08_train_001",
+  "question_id": "mohler-E11.Q08",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The variable of type string has a terminating character \\0 at the end of it.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q08_c1": 4.0
+  },
+  "data_source": "mohler"
+}

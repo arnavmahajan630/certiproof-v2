@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-dispersion-white-light_test_002",
+  "question_id": "cbse-sci-dispersion-white-light",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Dispersion is the phenomenon in wich white light seperates into its seven colours when it passes through a transparent medium such as a glass prism. Each colour travels at a slightly diferent speed in glass, so each has a different refractive index. Violet, with the smallest wavelength, is slowed the most and is bent towards the base through the largest angle. Red is bent the least. The colours therfore emerge as a spectrum from violet to red.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-dispersion-white-light_c1": 3.0
+  },
+  "data_source": "cbse"
+}

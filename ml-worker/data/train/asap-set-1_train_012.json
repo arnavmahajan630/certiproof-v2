@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_012",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "After reading this groups procedure, there are four different pieces of information I would need to replicate this exact experiment. One, the group must include what the 4 samples are, anyone reading this procedure would not know what the experiment was testing. Two, you must include the amount of vinegar being poured into each separate container. Thirdly, they must include under what conditions should the samples be left for the 24 hours. Lastly, I would need to know what types of containers these samples should be placed in, should they be put in plastic or glass or even open or closed containers?",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

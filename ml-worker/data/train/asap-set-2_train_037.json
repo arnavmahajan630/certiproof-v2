@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_037",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Based on the students data it shows that plastic type A had the highest stretch constance to the weights pulling on it. In the two trials it only stretched 10 and 12mm while the next best stretched 13 and 14. One way to improve their experiment is to have performed a third trial. Although their test two were similar to end results the third trial would only have made it more valid definitely proving their results are correct. Another way is to specify how heavy the weights are and what type of plastic is being used. Then the reader would know exactly what you're doing in the experiment, and it'd give a better understanding.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

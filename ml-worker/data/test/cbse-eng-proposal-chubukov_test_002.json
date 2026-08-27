@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-proposal-chubukov_test_002",
+  "question_id": "cbse-eng-proposal-chubukov",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "The momentt Lomovv says he has come to propose, Chubukov melts into hugs and blessings. He is not moved by romance but by the chance to settle Natalya with the man next door and keep land in the family orbit. Earlier he had suspected Lomov of coming to borrow; the flip shows money and social standing sit above honest emotion.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-proposal-chubukov_c1": 3.0
+  },
+  "data_source": "cbse"
+}

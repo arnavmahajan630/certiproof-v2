@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q09_train_000",
+  "question_id": "mohler-E11.Q09",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The divide-and-conquer paradigm divides the problem into two pieces and works on each piece separately, allowing for a faster approach to 2 separate smaller problems.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q09_c1": 4.5
+  },
+  "data_source": "mohler"
+}

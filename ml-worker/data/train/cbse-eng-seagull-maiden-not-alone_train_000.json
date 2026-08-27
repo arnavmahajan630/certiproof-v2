@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-seagull-maiden-not-alone_train_000",
+  "question_id": "cbse-eng-seagull-maiden-not-alone",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "The young seagull did not enjoy his first flight by himself. His mother swooped past screaming, his father flew over him, and his two brothers and sister were already circling, diving and soaring around him. Their noise and movement pulled him in, so the victory belonged to the whole family.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-seagull-maiden-not-alone_c1": 2.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_test_032",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "After reading the group's procedure, I can see that additional information is needed to do the experiment. First, I would need to the materials needed for the lab. I would need to get these items in ahead of time, and have the right things like containers. I would also need to know what kind of rocks were used. If I was looking at a sheet or instructions that contained only the procedure, I would need to know what rocks were used. A third thing the procedure hasn't told us is the amount of vinegar. For this to be a valid experiment, we would need to use the same amount of vinegar.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

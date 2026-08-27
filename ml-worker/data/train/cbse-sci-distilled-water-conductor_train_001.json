@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-distilled-water-conductor_train_001",
+  "question_id": "cbse-sci-distilled-water-conductor",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Pure water lacks free ions and barely conducts. A strong electrolyte such as H2SO4 or NaCl is added so ions can move and complete the circuit.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-distilled-water-conductor_c1": 2.0
+  },
+  "data_source": "cbse"
+}

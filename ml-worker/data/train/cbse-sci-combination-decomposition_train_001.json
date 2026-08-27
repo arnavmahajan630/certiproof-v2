@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-combination-decomposition_train_001",
+  "question_id": "cbse-sci-combination-decomposition",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Combination builds one product from several reactants and usually gives out heat. Decomposition splits one compound and usually needs energy such as heat or electricity.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-combination-decomposition_c1": 2.0
+  },
+  "data_source": "cbse"
+}

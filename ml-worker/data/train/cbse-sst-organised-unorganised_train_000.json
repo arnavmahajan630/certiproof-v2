@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-organised-unorganised_train_000",
+  "question_id": "cbse-sst-organised-unorganised",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "In the organised sector jobs are regular, enterprises are registered, and laws on hours, overtime, provident fund and safety apply. In the unorganised sector work is often casual and low-paid, there is no paid leave or medical cover, workers can be sent away without notice, and government rules are rarely enforced.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-organised-unorganised_c1": 5.0
+  },
+  "data_source": "cbse"
+}

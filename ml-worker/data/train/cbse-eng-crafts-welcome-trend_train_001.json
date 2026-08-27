@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-crafts-welcome-trend_train_001",
+  "question_id": "cbse-eng-crafts-welcome-trend",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Choosing indigenous crafts is praised because it is greener than mass production and because it funds local makers while protecting heritage that cheap uniform goods would erase.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-crafts-welcome-trend_c1": 2.0
+  },
+  "data_source": "cbse"
+}

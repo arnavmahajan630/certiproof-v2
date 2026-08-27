@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-magnetic-field-lines_train_000",
+  "question_id": "cbse-sci-magnetic-field-lines",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Outside a bar magnet, magnetic field lines leave the north pole and enter the south pole; inside they continue so that each line is a closed loop. Two field lines never cross, because the field at a point has a unique direction. Where lines are packed closely, as near the poles, the field is stronger than where they are spaced out.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-magnetic-field-lines_c1": 2.0
+  },
+  "data_source": "cbse"
+}

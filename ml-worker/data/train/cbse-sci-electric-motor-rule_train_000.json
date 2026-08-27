@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-electric-motor-rule_train_000",
+  "question_id": "cbse-sci-electric-motor-rule",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Fleming's left-hand rule gives the direction of force on a current-carrying conductor in a magnetic field: the forefinger points along the field, the middle finger along the current, and the thumb then gives the motion. In an electric motor a rectangular coil sits between the poles of a magnet. Current in the two long sides is opposite, so the forces on those sides form a couple and the coil turns. A split-ring commutator reverses the current every half rotation so the couple always acts in the same sense and the coil keeps spinning.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-electric-motor-rule_c1": 3.0
+  },
+  "data_source": "cbse"
+}

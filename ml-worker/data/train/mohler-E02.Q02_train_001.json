@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q02_train_001",
+  "question_id": "mohler-E02.Q02",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Data members are variables that are declared inside the class definition but outside of the bodies of the class member functions. Local variables can only be used within the function declaration.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q02_c1": 4.5
+  },
+  "data_source": "mohler"
+}

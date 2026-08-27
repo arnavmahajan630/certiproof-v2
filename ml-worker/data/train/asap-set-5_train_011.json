@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_011",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The mRNA goes to the ribosome where the tRNA translates the mRNA's codons into peptide chains that then make a polypeptide chain that goes with others to make a protien.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_030",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "If I look four plastic cups and taped them from the side of the table and place different contents such as weights. Then the plastic cups will stretch. Based on my results my hypothesis was correct because trial 1 and trial 2 shows that the plastic cups had stretched. For example, plastic type A stretched 10mm in trial1 after adding weights to the clamp and letting it hang for five minutes. They could have improved the this experiment by giving the length of the cup before the cup and then they could have just measured it again and see what it was after. For example before 30 after 40. They also could of improved this experiment by doing more trials to show the accuracy of the experiment.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

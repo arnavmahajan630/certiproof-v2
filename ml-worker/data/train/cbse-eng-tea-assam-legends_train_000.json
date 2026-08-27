@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-tea-assam-legends_train_000",
+  "question_id": "cbse-eng-tea-assam-legends",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Rajvir shares two origin stories on the train. In China an emperor's boiling water was flavoured when tea leaves drifted into the pot. In another tale the monk Bodhidharma tore off his eyelids so he would not sleep, and tea bushes sprang from the ground there, which is why tea fights drowsiness. Both myths dress Assam's gardens in old wonder.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-tea-assam-legends_c1": 3.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-midnight-ausable-wit_train_001",
+  "question_id": "cbse-eng-midnight-ausable-wit",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Ausable's body and room are ordinary; his lie about a balcony is not. He turns Max's fear against him. Looks are irrelevant next to resourcefulness.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-midnight-ausable-wit_c1": 3.0
+  },
+  "data_source": "cbse"
+}

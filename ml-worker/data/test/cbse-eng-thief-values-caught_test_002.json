@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-thief-values-caught_test_002",
+  "question_id": "cbse-eng-thief-values-caught",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Anil never preaches. He smiles away Hari's ruined meal and patiently teaches him to write. That lived trust teaches more than a moral talk. When Hari takes the six hundred rupees he cannot enjoy them; he comes back becuase he wants to stay a man who can read, not a thief Anil will never respect. Values reach him throuh example.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-thief-values-caught_c1": 3.0
+  },
+  "data_source": "cbse"
+}

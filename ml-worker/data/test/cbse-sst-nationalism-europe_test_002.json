@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-nationalism-europe_test_002",
+  "question_id": "cbse-sst-nationalism-europe",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Nineteenthh-centuryy nationalists argued that a people with a shared language and history should rule themselves as a sovereign nation-state rather than live under multi-national empires. Liberal nationalists in Italy and Germany used that idea to unify fragmented states, while conservatives tried to protect dynastic empires.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-nationalism-europe_c1": 3.0
+  },
+  "data_source": "cbse"
+}

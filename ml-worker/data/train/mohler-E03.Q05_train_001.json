@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q05_train_001",
+  "question_id": "mohler-E03.Q05",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "it creates a set of candidate functions then a set of viable functions",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q05_c1": 3.0
+  },
+  "data_source": "mohler"
+}

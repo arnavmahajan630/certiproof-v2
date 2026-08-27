@@ -440,5 +440,2597 @@
         "max_marks": 2
       }
     ]
+  },
+  {
+    "question_id": "asap-set-1",
+    "question_text": "After reading the group's procedure, describe what additional information you would need in order to replicate the experiment. Make sure to include at least three pieces of information.",
+    "subject": "biology_general_science",
+    "criteria": [
+      {
+        "criterion_id": "asap-set-1_c1",
+        "text": "3-point: excellent answer \u2014 correct, complete, and appropriate; contains elaboration, extension, and/or evidence of higher-order thinking and relevant prior knowledge; no misconceptions. Minor errors do not necessarily lower the score. Must include at least three pieces of additional information needed to replicate the experiment.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "asap-set-2",
+    "question_text": "Science \u2014 experimental design (US grade 10)",
+    "subject": "biology_general_science",
+    "criteria": [
+      {
+        "criterion_id": "asap-set-2_c1",
+        "text": "Score 0\u20133 against the official ASAP-SAS scoring guide for essay set 2. Replace this stub by downloading the Kaggle Essay_Set_Descriptions / Training_Materials files.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "asap-set-5",
+    "question_text": "Biology \u2014 invasive species / ecology (US grade 10)",
+    "subject": "biology_general_science",
+    "criteria": [
+      {
+        "criterion_id": "asap-set-5_c1",
+        "text": "Score 0\u20133 against the official ASAP-SAS scoring guide for essay set 5. Replace this stub by downloading the Kaggle Essay_Set_Descriptions / Training_Materials files.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "asap-set-6",
+    "question_text": "Biology \u2014 invasive species / ecology (US grade 10)",
+    "subject": "biology_general_science",
+    "criteria": [
+      {
+        "criterion_id": "asap-set-6_c1",
+        "text": "Score 0\u20133 against the official ASAP-SAS scoring guide for essay set 6. Replace this stub by downloading the Kaggle Essay_Set_Descriptions / Training_Materials files.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E01.Q04",
+    "question_text": "Where do C++ programs begin to execute?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E01.Q04_c1",
+        "text": "At the main function.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E08.Q02",
+    "question_text": "What are the two main functions defined by a stack?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E08.Q02_c1",
+        "text": "push and pop",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q06",
+    "question_text": "What is the alternative way to solve a problem that could be solved through recursive functions?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q06_c1",
+        "text": "Through iteration.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q07",
+    "question_text": "What are the main operations associated with a stack?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q07_c1",
+        "text": "push and pop",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E09.Q02",
+    "question_text": "What are the two main functions defined by a queue?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E09.Q02_c1",
+        "text": "enqueue and dequeue",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q02",
+    "question_text": "What are the access-specifiers that can be used in a C++ class definition?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q02_c1",
+        "text": "Private and public.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E02.Q04",
+    "question_text": "When does C++ create a default constructor?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E02.Q04_c1",
+        "text": "If no constructor is provided, the compiler provides one by default. If a constructor is defined for a class, the compiler does not create a default constructor.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q01",
+    "question_text": "What is a pointer?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q01_c1",
+        "text": "The address of a location in memory.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q05",
+    "question_text": "What is the advantage of linked lists over arrays?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q05_c1",
+        "text": "Linked lists are dynamic structures, which allow for a variable number of elements to be stored.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E07.Q06",
+    "question_text": "What is the main advantage of a doubly-linked list over a basic linked list?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E07.Q06_c1",
+        "text": "All the deletion and insertion operations can be performed in constant time, including those operations performed before a given location in the list or at the end of the list.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E09.Q06",
+    "question_text": "What is the stack operation corresponding to the enqueue operation in queues?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E09.Q06_c1",
+        "text": "push",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q05",
+    "question_text": "What is a recursive function?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q05_c1",
+        "text": "A function that calls itself.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q10",
+    "question_text": "Briefly describe in one sentence how does merge sort work?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q10_c1",
+        "text": "It splits the original array into two, sorts each of the two halves, and then merges the sorted arrays.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E03.Q01",
+    "question_text": "What does a function signature include?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E03.Q01_c1",
+        "text": "The name of the function and the types of the parameters.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E07.Q01",
+    "question_text": "What is a linked list?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E07.Q01_c1",
+        "text": "A collection of elements that can be allocated dynamically.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E09.Q01",
+    "question_text": "What is a queue?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E09.Q01_c1",
+        "text": "A data structure that can store elements, which has the property that the last item added will be the last to be removed (or first-in-first-out).",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E06.Q07",
+    "question_text": "What is a function pointer?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E06.Q07_c1",
+        "text": "The address of the location in memory where the function code resides.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E07.Q02",
+    "question_text": "What is the main advantage of linked lists over arrays?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E07.Q02_c1",
+        "text": "The linked lists can be of variable length.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q04",
+    "question_text": "What is a function signature?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q04_c1",
+        "text": "The name of the function and the list of parameters, including their types.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E03.Q05",
+    "question_text": "How are overloaded functions differentiated by the compiler?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E03.Q05_c1",
+        "text": "Based on the function signature. When an overloaded function is called, the compiler will find the function whose signature is closest to the given function call.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q09",
+    "question_text": "Briefly describe the divide-and-conquer paradigm.",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q09_c1",
+        "text": "Divide a problem into smaller subproblems, solve them recursively, and then combine the solutions into a solution for the original problem.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q06",
+    "question_text": "What is a queue?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q06_c1",
+        "text": "A data structure that stores elements following the first in first out principle. The main operations in a queue are enqueue and dequeue.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E03.Q06",
+    "question_text": "When defining a recursive function, what are possible causes for infinite recursion?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E03.Q06_c1",
+        "text": "If the recursion step is defined incorrectly, or if the base case is not included.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E07.Q05",
+    "question_text": "What is the difference between a circular linked list and a basic linked list?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E07.Q05_c1",
+        "text": "The last element in a circular linked list points to the head of the list.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E08.Q01",
+    "question_text": "What is a stack?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E08.Q01_c1",
+        "text": "A data structure that can store elements, which has the property that the last item added will be the first to be removed (or last-in-first-out)",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E01.Q03",
+    "question_text": "What are the main advantages associated with object-oriented programming?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E01.Q03_c1",
+        "text": "Abstraction and reusability.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E02.Q05",
+    "question_text": "How many constructors can be created for a class?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E02.Q05_c1",
+        "text": "Unlimited number.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E02.Q06",
+    "question_text": "What is the difference between a function prototype and a function definition?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E02.Q06_c1",
+        "text": "A function prototype includes the function signature, i.e., the name of the function, the return type, and the parameters' type. The function definition includes the actual body of the function.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E03.Q07",
+    "question_text": "What are the similarities between iteration and recursion?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E03.Q07_c1",
+        "text": "They both involve repetition; they both have termination tests; they can both occur infinitely.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E06.Q04",
+    "question_text": "How can an array be addressed in pointer/offset notation?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E06.Q04_c1",
+        "text": "By initializing a pointer to point to the first element of the array, and then incrementing this pointer with the index of the array element.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E08.Q06",
+    "question_text": "How are infix expressions evaluated by computers?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E08.Q06_c1",
+        "text": "First, they are converted into postfix form, followed by an evaluation of the postfix expression.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E10.Q03",
+    "question_text": "What is a leaf?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E10.Q03_c1",
+        "text": "A node that has no children.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E01.Q05",
+    "question_text": "What is a variable?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E01.Q05_c1",
+        "text": "A location in memory that can store a value.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E02.Q03",
+    "question_text": "What is the difference between a constructor and a function?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E02.Q03_c1",
+        "text": "A constructor is called whenever an object is created, whereas a function needs to be called explicitely. Constructors do not have return type, but functions have to indicate a return type.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E04.Q03",
+    "question_text": "How are arrays passed to functions?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E04.Q03_c1",
+        "text": "by reference.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E06.Q01",
+    "question_text": "What is a pointer?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E06.Q01_c1",
+        "text": "A variable that contains the address in memory of another variable.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E06.Q05",
+    "question_text": "What does the sizeof operator return?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E06.Q05_c1",
+        "text": "The size in bytes of its operand.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E08.Q03",
+    "question_text": "How can you implement a stack with an array?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E08.Q03_c1",
+        "text": "Keep the top of the stack toward the end of the array, so the push and pop operations will add or remove elements from the right side of the array.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q10",
+    "question_text": "How many steps does it take to search a node in a binary search tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q10_c1",
+        "text": "The height of the tree.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E01.Q07",
+    "question_text": "What is the main difference between a while and a do...while statement?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E01.Q07_c1",
+        "text": "The block inside a do...while statement will execute at least once.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E02.Q02",
+    "question_text": "What is the difference between a data member and a local variable inside a member function?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E02.Q02_c1",
+        "text": "Data members can be accessed from any member functions inside the class defintion. Local variables can only be accessed inside the member function that defines them.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E05.Q02",
+    "question_text": "In one sentence, what is the main idea implemented by selection sort?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E05.Q02_c1",
+        "text": "Taking one array element at a time, from left to right, it identifies the minimum from the remaining elements and swaps it with the current element.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E05.Q04",
+    "question_text": "What is the base case for a recursive implementation of merge sort?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E05.Q04_c1",
+        "text": "When the size of the array to be sorted is 1 (or 2)",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E07.Q07",
+    "question_text": "What is the main disadvantage of a doubly-linked list over a basic linked list?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E07.Q07_c1",
+        "text": "Extra space required to store the back pointers.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E02.Q07",
+    "question_text": "What is the role of a header-file?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E02.Q07_c1",
+        "text": "To store a class interface, including data members and member function prototypes.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E03.Q02",
+    "question_text": "What is the scope of global variables?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E03.Q02_c1",
+        "text": "File scope.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E03.Q04",
+    "question_text": "What is the main advantage associated with function arguments that are passed by reference?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E03.Q04_c1",
+        "text": "It avoids making copies of large data structures when calling functions.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E05.Q03",
+    "question_text": "What is the number of operations for insertion sort under a best-case scenario, and what is the best-case scenario?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E05.Q03_c1",
+        "text": "N (the length of the array) operations achieved for a sorted array.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E06.Q02",
+    "question_text": "What does the address (&) operator return?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E06.Q02_c1",
+        "text": "The memory address of its operand.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E09.Q04",
+    "question_text": "How can you implement a queue with a list?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E09.Q04_c1",
+        "text": "Keep the rear of the queue pointing to the tail of the linked list, so the enqueue operation is done at the end of the list, and keep the front of the queue pointing to the head of the linked list, so the dequeue operation is done at the beginning of the list.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E10.Q07",
+    "question_text": "How many comparisons does it take to find an element in a binary search tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E10.Q07_c1",
+        "text": "The height of the tree (or log of the number of elements in the tree).",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E02.Q01",
+    "question_text": "What is typically included in a class definition?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E02.Q01_c1",
+        "text": "Data members (attributes) and member functions.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E03.Q03",
+    "question_text": "How does the compiler handle inline functions?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E03.Q03_c1",
+        "text": "It makes a copy of the function code in every place where a function call is made.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E04.Q01",
+    "question_text": "What are the two different ways of specifying the length of an array?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E04.Q01_c1",
+        "text": "In the array declaration, or by using an initializer list.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E05.Q01",
+    "question_text": "In one sentence, what is the main idea implemented by insertion sort?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E05.Q01_c1",
+        "text": "Taking one array element at a time, from left to right, it inserts it in the right position among the already sorted elements on its left.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E06.Q03",
+    "question_text": "What does the star (*) operator return?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E06.Q03_c1",
+        "text": "An alias (synonym) for the name of the object that its operand points to in memory. It is the dereferencing operator.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E10.Q02",
+    "question_text": "What is the height of a tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E10.Q02_c1",
+        "text": "The length of the longest path from the root to any of its leaves.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E10.Q04",
+    "question_text": "What is a binary tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E10.Q04_c1",
+        "text": "A tree for which the maximum number of children per node is two.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q03",
+    "question_text": "How are objects initialized when they are created?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q03_c1",
+        "text": "By using constructors.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E04.Q02",
+    "question_text": "What is the main difference between strings declared using the type string versus strings declared using an array of characters?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E04.Q02_c1",
+        "text": "The strings declared using an array of characters have a null element added at the end of the array.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E06.Q06",
+    "question_text": "What are the different ways to pass a pointer to a function?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E06.Q06_c1",
+        "text": "There are four ways: nonconstant pointer to constant data, nonconstant pointer to nonconstant data, constant pointer to constant data, constant pointer to nonconstant data.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E08.Q04",
+    "question_text": "How can you implement a stack with a list?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E08.Q04_c1",
+        "text": "Keep the top of the stack pointing to the head of the linked list, so the push and pop operations will add or remove elements at the beginning of the list.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E10.Q01",
+    "question_text": "What is a tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E10.Q01_c1",
+        "text": "A collection of nodes, which has a special node called root, and the rest of the nodes are partitioned into one or more disjoint sets, each set being a tree.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q01",
+    "question_text": "What are the elements typically included in a class definition?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q01_c1",
+        "text": "Function members and data members.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q08",
+    "question_text": "What is the main difference between a string of characters that is read into a variable of type string versus a variable of type char[]?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q08_c1",
+        "text": "The char[] will automatically add a null \\0 character at the end of the string.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E01.Q02",
+    "question_text": "What stages in the software life cycle are influenced by the testing stage?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E01.Q02_c1",
+        "text": "The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7)",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E10.Q06",
+    "question_text": "What is the inorder traversal of a binary tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E10.Q06_c1",
+        "text": "Traverse the left subtree, then the root, then the right subtree.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E01.Q01",
+    "question_text": "What is the role of a prototype program in problem solving?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E01.Q01_c1",
+        "text": "To simulate the behaviour of portions of the desired software product.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E01.Q06",
+    "question_text": "Where are variables declared in a C++ program?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E01.Q06_c1",
+        "text": "Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E04.Q04",
+    "question_text": "What is the difference between an array declared as static, and one that is not?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E04.Q04_c1",
+        "text": "The arrays declared as static live throughout the life of the program; that is, they are initialized only once, when the function that declares the array it is first called.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E07.Q04",
+    "question_text": "How are linked lists passed as arguments to a function?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E07.Q04_c1",
+        "text": "By reference.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E09.Q03",
+    "question_text": "How can you implement a queue with an array?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E09.Q03_c1",
+        "text": "Use a circular array. Keep the rear of the queue toward the end of the array, and the front toward the beginning, and allow the rear pointer to wrap around.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E10.Q05",
+    "question_text": "What is a binary search tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E10.Q05_c1",
+        "text": "A binary tree that has the property that for any node the left child is smaller than the parent which in turn is smaller than the right child.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E11.Q07",
+    "question_text": "What is the difference between an array that is declared as static and one that is not?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E11.Q07_c1",
+        "text": "The static arrays are intialized only once when the function is called.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q02",
+    "question_text": "What is the experimental approach for measuring the running time of an algorithm?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q02_c1",
+        "text": "Implement the algorithm and measure the physical running time.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q04",
+    "question_text": "Briefly, how does selection sort work?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q04_c1",
+        "text": "It selects the minimum from an array and places it on the first position, then it selects the minimum from the rest of the array and places it on the second position, and so forth.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q08",
+    "question_text": "What is the Euler tour traversal of a tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q08_c1",
+        "text": "A walk around the tree, starting with the root, where each node is seen three times: from the left, from below, from the right.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E04.Q05",
+    "question_text": "How many dimensions need to be specified when passing a multi-dimensional array as an argument to a function?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E04.Q05_c1",
+        "text": "All the dimensions, except the first one.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E07.Q03",
+    "question_text": "What is the main advantage of arrays over linked lists?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E07.Q03_c1",
+        "text": "The elements in an array can be accessed directly (as opposed to linked lists, which require iterative traversal).",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E08.Q07",
+    "question_text": "What operations would you need to perform to find a given element on a stack?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E08.Q07_c1",
+        "text": "Pop all the elements and store them on another stack until the element is found, then push back all the elements on the original stack.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "mohler-E12.Q09",
+    "question_text": "How do you delete a node from a binary search tree?",
+    "subject": "cs_fundamentals",
+    "criteria": [
+      {
+        "criterion_id": "mohler-E12.Q09_c1",
+        "text": "Find the node, then replace it with the leftmost node from its right subtree (or the rightmost node from its left subtree).",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-silk-routes",
+    "question_text": "Explain any two ways in which the silk routes were a good example of vibrant pre-modern trade and cultural links.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-silk-routes_c1",
+        "text": "Chinese pottery, textiles and spices from India and Southeast Asia travelled the silk routes; gold and silver flowed from Europe to Asia. Trade and cultural exchange went together: Buddhism, Christian missionaries and later Muslim preachers travelled these routes.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-potato-europe",
+    "question_text": "How did the introduction of the potato affect Europe\u2019s poor? Give two points.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-potato-europe_c1",
+        "text": "Potato helped Europe\u2019s poor eat better and live longer. Ireland\u2019s poor became so dependent on potatoes that the 1840s blight caused mass starvation.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-bharat-mata",
+    "question_text": "How did nationalists in India create a sense of collective belonging? Explain any three methods.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-bharat-mata_c1",
+        "text": "Image of Bharat Mata (Bankim / Tagore) as a divine mother figure. Vande Mataram and folklore revival (Tagore, Natesa Sastri). Flags (Swadeshi tricolour; Gandhi\u2019s Swaraj flag) and reinterpretation of India\u2019s past achievements.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-salt-march",
+    "question_text": "Why did salt become an effective tool of resistance against colonialism? Give three reasons.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-salt-march_c1",
+        "text": "Salt consumed by rich and poor alike, so it united the nation. Gandhi\u2019s eleven demands included abolishing the salt tax; Irwin\u2019s refusal led to the Salt March. People broke the salt law, manufactured salt, boycotted foreign cloth, refused taxes.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-britain-nation",
+    "question_text": "How was the British nation-state formed? Explain any five points.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-britain-nation_c1",
+        "text": "Not a sudden revolution; ethnic identities English, Welsh, Scot, Irish. Act of Union 1707 created United Kingdom; English influence on Scotland. Highlanders forbidden Gaelic and national dress; many driven out. Protestant dominance in Ireland; Ireland incorporated in 1801. British flag, anthem and English language promoted; older nations became subordinate partners.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-vienna-1815",
+    "question_text": "What were the main provisions of the Treaty of Vienna (1815)?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-vienna-1815_c1",
+        "text": "Bourbon dynasty restored in France; France lost Napoleonic annexations. Buffer states: Netherlands including Belgium; Genoa to Piedmont. Prussia gained western territories; Austria got northern Italy. German confederation of 39 states left; Russia got part of Poland. Aim: restore overthrown monarchies and a conservative order.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-print-newspapers",
+    "question_text": "Why did newspapers become popular in nineteenth-century India? Give two reasons.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-print-newspapers_c1",
+        "text": "A large section of society became interested in political developments; newspapers presented this skilfully. Newspapers reported social, cultural and scientific advances and also criticised government policy.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-rice-punjab-odisha",
+    "question_text": "Why is rice a commercial crop in Punjab and Haryana but largely a subsistence crop in Odisha? Give two reasons.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-rice-punjab-odisha_c1",
+        "text": "Climate and irrigation: Punjab-Haryana have canals and HYV rice; Odisha is more rainfed. Market access: procurement and transport support commercial sale in Punjab-Haryana; Odisha rice is mostly for local use.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-bauxite-odisha",
+    "question_text": "Why is aluminium an important metal, and which state was the largest bauxite producer in India in 2016-17?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-bauxite-odisha_c1",
+        "text": "Odisha largest bauxite producer; Panchpatmali, Koraput important deposits. Aluminium is light, strong, conductive and malleable, so a useful alternative to heavier metals.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-coal-types",
+    "question_text": "Describe the main types of coal found in India and state why coal is significant.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-coal-types_c1",
+        "text": "Coal used for power, industry and domestic energy; India highly dependent on it. Peat, lignite (Neyveli), bituminous (metallurgical) and anthracite as grades of compression.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-industry-pollution",
+    "question_text": "How do manufacturing industries cause pollution? Explain any two types.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-industry-pollution_c1",
+        "text": "Air pollution from smoke, chemicals, brick kilns, refineries and fossil fuels. Water/thermal/soil/noise pollution from industrial wastes, hot water, dumping and machinery.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-federalism-features",
+    "question_text": "State any two features of federalism.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-federalism-features_c1",
+        "text": "Two or more tiers of government. Each tier has constitutional jurisdiction; constitution not changed unilaterally; courts umpire disputes; revenue sources specified.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-gender-inequality",
+    "question_text": "Describe any two forms of gender inequality in India.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-gender-inequality_c1",
+        "text": "Lower female literacy; preference to spend on sons\u2019 education. Fewer women in highly paid jobs; unequal wages; declining child sex ratio; harassment and domestic violence.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-democracy-divisions",
+    "question_text": "How does democracy accommodate social divisions? Explain any three points.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-democracy-divisions_c1",
+        "text": "Peaceful handling of differences (Belgium vs suppression in non-democracies / Sri Lanka). Elections and power-sharing reduce the chance that tensions explode. Majority must work with minority; majority is not a permanent birth-based group.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-party-functions",
+    "question_text": "Explain any five functions of political parties in a democracy.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-party-functions_c1",
+        "text": "Contest elections. Put forward policies and programmes. Make laws in the legislature. Opposition criticises the government. Shape public opinion and help people access government schemes.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-dynastic-parties",
+    "question_text": "What is dynastic succession in political parties? Why is it a challenge to democracy?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-dynastic-parties_c1",
+        "text": "Lack of open procedures; ordinary workers cannot rise. Leaders favour family; top posts stay in one family. Inexperienced people get power; personal loyalty beats party principles.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-sri-lanka-belgium",
+    "question_text": "Contrast majoritarianism in Sri Lanka with power sharing in Belgium.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-sri-lanka-belgium_c1",
+        "text": "Sri Lanka: Sinhala majoritarianism created Tamil distrust and civil war. Belgium: equal Dutch and French ministers, state powers, Brussels government, community government.",
+        "max_marks": 4.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-public-facilities",
+    "question_text": "Why are public facilities important for development? Explain any two.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-public-facilities_c1",
+        "text": "Healthcare reduces disease and supports a productive population. Education, sanitation, clean water or infrastructure raise equality and growth.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-cheap-credit",
+    "question_text": "Why is cheap and affordable credit crucial for a country\u2019s development?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-cheap-credit_c1",
+        "text": "High informal interest eats earnings and can create a debt trap. Fear of costly loans stops new enterprises. More bank/cooperative lending raises incomes for crops, trade and small industry.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-globalisation-factors",
+    "question_text": "State any three factors that have enabled globalisation.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-globalisation-factors_c1",
+        "text": "Movement of goods and services. Information and communication technology. Transport technology; movement of people; liberalisation of trade and investment.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-organised-unorganised",
+    "question_text": "Distinguish between working conditions in the organised and unorganised sectors.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-organised-unorganised_c1",
+        "text": "Organised: regular work, registered firms, legal protections, benefits, job security. Unorganised: irregular low pay, no benefits, easy dismissal, little legal protection.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-power-sharing",
+    "question_text": "Why is power sharing desirable in a democracy? Give two reasons.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-power-sharing_c1",
+        "text": "Prudential: reduces conflict among social groups. Moral: people have a right to be consulted; democracy is power sharing.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-union-state-lists",
+    "question_text": "What are the Union, State and Concurrent Lists in the Indian Constitution?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-union-state-lists_c1",
+        "text": "Union List: subjects of national importance, Union legislates (defence, currency, foreign affairs). State List: state subjects (police, trade, agriculture). Concurrent List: both can legislate (education, forests); Union law prevails in conflict.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-local-government",
+    "question_text": "How did the 1992 constitutional amendments strengthen local government in India?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-local-government_c1",
+        "text": "Mandatory elections to local bodies. Seats reserved for SC/ST and women. State Election Commissions; sharing of powers and revenues with local governments.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-caste-politics",
+    "question_text": "How is caste used in politics in India? Give two points.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-caste-politics_c1",
+        "text": "Parties choose candidates to match caste composition of constituencies. Caste groups demand representation; universal adult franchise and new caste coalitions also change politics.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-outcomes-democracy",
+    "question_text": "What outcomes can we reasonably expect from a democracy?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-outcomes-democracy_c1",
+        "text": "Accountable, responsive government; free and fair elections. Dignity and freedom of citizens; accommodation of diversity. Democracy may be slower and not always the most economically unequal-reducing, but it is more legitimate.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-development-indicators",
+    "question_text": "Why is average income not a complete measure of development? Suggest other indicators.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-development-indicators_c1",
+        "text": "Average income hides inequality and cost of living. Health, education, literacy, life expectancy, public facilities also matter (HDI-type measures).",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-sectors-economy",
+    "question_text": "Distinguish among the primary, secondary and tertiary sectors with examples.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-sectors-economy_c1",
+        "text": "Primary: natural resources \u2014 farming, fishing, mining. Secondary: manufacturing. Tertiary: services \u2014 transport, banking, teaching.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-double-coincidence",
+    "question_text": "What is the double coincidence of wants? How does money solve it?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-double-coincidence_c1",
+        "text": "Barter needs each person to want what the other has. Money as a medium of exchange removes that requirement.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-rbi-credit",
+    "question_text": "What is the role of the Reserve Bank of India in the credit system?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-rbi-credit_c1",
+        "text": "RBI supervises banks, requires reserves, and can check how much banks lend and to whom. Protects depositors and guides credit to priority sectors.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-mnc",
+    "question_text": "What is a multinational corporation? How do MNCs spread production?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-mnc_c1",
+        "text": "MNC owns or controls production in more than one country. They set up factories, buy local companies, or use small producers as suppliers, looking for cheap labour and markets.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-nco-1920",
+    "question_text": "Why did Gandhi launch the Non-Cooperation Movement? Why was it withdrawn?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-nco-1920_c1",
+        "text": "Injustice of Rowlatt, Jallianwala, Khilafat and the goal of swaraj through boycott. Withdrawn after Chauri Chaura 1922 violence; Gandhi felt people were not ready for mass satyagraha without non-violence.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-resources",
+    "question_text": "Classify resources on the basis of origin and exhaustibility.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-resources_c1",
+        "text": "Biotic vs abiotic origin. Renewable vs non-renewable / exhaustible.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-sustainable-development",
+    "question_text": "What is sustainable development? Why is it needed?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-sustainable-development_c1",
+        "text": "Development that meets present needs without compromising future generations. Needed because overuse of resources causes environmental damage.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-water-scarcity",
+    "question_text": "What are the main causes of water scarcity in India?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-water-scarcity_c1",
+        "text": "Over-exploitation, excessive irrigation, unequal access. Pollution of water bodies; growing population and urbanisation.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-nationalism-europe",
+    "question_text": "What was the idea of a nation-state that emerged in nineteenth-century Europe?",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-nationalism-europe_c1",
+        "text": "People sharing language, culture, history should form a sovereign state. Conservatives vs liberals/revolutionaries; unification of Italy and Germany as examples.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-consumer-rights",
+    "question_text": "Why do consumers need rights in the marketplace? Name the law that protects them in India.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-consumer-rights_c1",
+        "text": "Producers are few and powerful; consumers may be cheated on quality, price or safety. COPRA 1986 / Consumer Protection Act; right to information, redressal, safety.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sst-green-revolution",
+    "question_text": "What was the Green Revolution? Mention one benefit and one problem.",
+    "subject": "civics_social_studies",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sst-green-revolution_c1",
+        "text": "HYV seeds, irrigation, fertilisers, pesticides raised foodgrain output in Punjab, Haryana, western UP. Benefit: food security; problem: water depletion, inequality, chemical overuse.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-redox-zn-cuso4",
+    "question_text": "What is a redox reaction? Show with an example that displacement of copper from copper sulphate by zinc is a redox reaction.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-redox-zn-cuso4_c1",
+        "text": "Oxidation is loss of electrons (or gain of oxygen); reduction is gain of electrons (or loss of oxygen); both occur together in a redox reaction. Zn is oxidised to Zn2+; Cu2+ is reduced to Cu in Zn + CuSO4 -> ZnSO4 + Cu.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-balancing-conservation",
+    "question_text": "Why must a chemical equation be balanced? Balance the reaction of hydrogen with oxygen to form water.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-balancing-conservation_c1",
+        "text": "Balancing follows the law of conservation of mass: atoms are neither created nor destroyed. Balanced equation: 2H2 + O2 -> 2H2O.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-ph-indicators",
+    "question_text": "What is the pH scale? How do litmus and phenolphthalein help to distinguish acids from bases?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-ph-indicators_c1",
+        "text": "pH 0-14 measures H+ concentration; acids pH < 7, bases pH > 7, neutral pH = 7. Blue litmus turns red in acid; phenolphthalein is colourless in acid and pink in base.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-distilled-water-conductor",
+    "question_text": "Why does distilled water not conduct electricity well during electrolysis? How can it be made conducting?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-distilled-water-conductor_c1",
+        "text": "Distilled water is a poor conductor because it has very few ions. A few drops of H2SO4 or some NaCl (a strong electrolyte) are added to make it conducting.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-homologous-series",
+    "question_text": "What is a homologous series? Give two characteristics of such a series.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-homologous-series_c1",
+        "text": "A homologous series is a family of organic compounds with the same functional group and general formula, successive members differing by -CH2-. Chemical properties are similar; physical properties (boiling point, melting point) change gradually with molecular mass.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-ionic-properties",
+    "question_text": "Give two properties of ionic compounds and explain them in terms of structure.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-ionic-properties_c1",
+        "text": "High melting and boiling points due to strong electrostatic attraction between oppositely charged ions. Conduct electricity in molten or aqueous state (ions free to move) but not in the solid state.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-combination-decomposition",
+    "question_text": "Distinguish between a combination reaction and a decomposition reaction. Give one example of each.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-combination-decomposition_c1",
+        "text": "Combination: two or more substances combine to form one product; often exothermic (e.g. C + O2 -> CO2). Decomposition: one compound breaks into two or more substances; often endothermic and needs heat, light or electricity (e.g. 2H2O -> 2H2 + O2).",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-soap-hard-water",
+    "question_text": "Why does soap not lather easily in hard water? How are detergents different in this respect?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-soap-hard-water_c1",
+        "text": "Hard water contains Ca2+ and Mg2+ which form insoluble scum (calcium/magnesium salts of fatty acids) with soap. Detergents form soluble salts with Ca2+ and Mg2+, so they lather even in hard water.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-ohms-law",
+    "question_text": "State Ohm's law. What is the shape of the V-I graph for an ohmic conductor?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-ohms-law_c1",
+        "text": "At constant temperature, potential difference V across a conductor is proportional to current I; V = IR. V-I graph is a straight line through the origin for an ohmic conductor.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-series-vs-parallel",
+    "question_text": "State two differences between series and parallel combinations of resistors.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-series-vs-parallel_c1",
+        "text": "Series: same current, voltages add, Rs = R1 + R2; equivalent resistance is larger than each resistor. Parallel: same voltage, currents add, 1/Rp = 1/R1 + 1/R2; equivalent resistance is smaller than the smallest resistor.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-power-of-lens",
+    "question_text": "Define power of a lens. Give its unit and the sign convention for convex and concave lenses.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-power-of-lens_c1",
+        "text": "Power P = 1/f where f is focal length in metres; unit is dioptre (D). Convex (converging) lens has positive power; concave (diverging) lens has negative power.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-blue-sky-scattering",
+    "question_text": "Why does the sky appear blue? Why do we not see it as violet even though violet is scattered more?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-blue-sky-scattering_c1",
+        "text": "Rayleigh scattering: shorter wavelengths (blue/violet) scatter more than red as sunlight passes through the atmosphere. The eye is more sensitive to blue than to violet, so the scattered light looks blue.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-magnetic-field-lines",
+    "question_text": "State two properties of magnetic field lines. How is the strength of the field related to the closeness of the lines?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-magnetic-field-lines_c1",
+        "text": "Field lines emerge from north pole and enter south pole outside the magnet; they form closed loops and never intersect. Closer lines mean a stronger magnetic field (e.g. stronger at poles than farther away).",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-heating-effect-current",
+    "question_text": "State Joule's law of heating. Name two devices that use the heating effect of current.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-heating-effect-current_c1",
+        "text": "Heat produced H = I^2 R t (Joule's law). Applications: electric iron, heater, geyser, toaster, fuse (any two).",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-concave-lens-nature",
+    "question_text": "What is the nature of the image formed by a concave lens for an object placed anywhere in front of it? Can a convex lens form a virtual image?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-concave-lens-nature_c1",
+        "text": "A concave lens always forms a virtual, erect and diminished image. A convex lens forms a virtual, erect, magnified image when the object is between the optical centre and the focus.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-laws-reflection",
+    "question_text": "State the two laws of reflection of light.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-laws-reflection_c1",
+        "text": "Incident ray, reflected ray and the normal all lie in the same plane. Angle of incidence equals angle of reflection (i = r).",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-reactivity-displacement",
+    "question_text": "What is the reactivity series of metals? Explain with two examples how a more reactive metal displaces a less reactive metal from its salt solution.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-reactivity-displacement_c1",
+        "text": "Reactivity series arranges metals in order of decreasing chemical reactivity (K, Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Ag, Au). A more reactive metal displaces a less reactive one from its salt, e.g. Fe + CuSO4 -> FeSO4 + Cu; Zn + CuSO4 -> ZnSO4 + Cu. Metals above hydrogen displace H2 from dilute acids; metals below hydrogen do not.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-sodium-electrolytic",
+    "question_text": "Can sodium be extracted by reducing its oxide with carbon? How is sodium obtained from molten sodium chloride? Write the electrode reactions.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-sodium-electrolytic_c1",
+        "text": "No: sodium is highly reactive and cannot be reduced by carbon; it also catches fire in contact with air/water. Extracted by electrolytic reduction of molten NaCl. Cathode: Na+ + e- -> Na; anode: 2Cl- -> Cl2 + 2e-.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-copper-dome-corrosion",
+    "question_text": "A copper dome turns green with time. Name the compound formed. Why is copper preferred to iron for a dome, and why is copper suitable for shaping roofs?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-copper-dome-corrosion_c1",
+        "text": "Copper is oxidised/corroded to basic copper carbonate, which is green. Iron rust flakes off and exposes fresh metal, so the dome would not stay stable; copper's green layer is protective and stops further corrosion. Copper is highly malleable, so thin sheets can be shaped into a dome.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-electrolysis-water",
+    "question_text": "In the electrolysis of water, which gases are expected at the anode and cathode? Why is dilute acid added, and what type of reaction is this?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-electrolysis-water_c1",
+        "text": "Oxygen at the anode and hydrogen at the cathode (volume ratio 1:2). Distilled water is a poor conductor; a few drops of H2SO4 or NaCl (strong electrolyte) are added. It is a redox / electrolytic decomposition reaction (endothermic).",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-neutralisation-phenolphthalein",
+    "question_text": "Write the balanced equation for the reaction of sodium hydroxide with sulphuric acid. Identify the type of reaction and explain the colour change of phenolphthalein.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-neutralisation-phenolphthalein_c1",
+        "text": "2NaOH + H2SO4 -> Na2SO4 + 2H2O. Neutralisation and double displacement; not precipitation because Na2SO4 is soluble. Phenolphthalein is pink in NaOH (base) and becomes colourless when the acid neutralises the base (or colourless in acid, pink in base).",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-ethanol-properties",
+    "question_text": "Write two chemical properties of ethanol. Give equations for its reaction with sodium and for its dehydration.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-ethanol-properties_c1",
+        "text": "Ethanol reacts with sodium to give sodium ethoxide and hydrogen: 2C2H5OH + 2Na -> 2C2H5ONa + H2. Dehydration with conc. H2SO4 at 443 K gives ethene: C2H5OH -> C2H4 + H2O. Alkaline KMnO4 / acidified K2Cr2O7 oxidises ethanol to ethanoic acid.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-ethanoic-acid-ester",
+    "question_text": "What is vinegar? Describe esterification of ethanoic acid with ethanol and the action of ethanoic acid on sodium hydrogencarbonate.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-ethanoic-acid-ester_c1",
+        "text": "Vinegar is 5-8% aqueous ethanoic acid. Ethanoic acid + ethanol with conc. H2SO4 gives ethyl ethanoate (sweet-smelling ester) and water. Ethanoic acid + NaHCO3 (or Na2CO3) gives a salt, water and CO2, which turns lime water milky.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-covalent-catenation",
+    "question_text": "Why does carbon form covalent compounds? Explain tetravalency and catenation.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-covalent-catenation_c1",
+        "text": "Carbon has four valence electrons and a small atomic size; gaining or losing four electrons is difficult, so it shares electrons (covalent bonds). Tetravalency: carbon forms four covalent bonds. Catenation: carbon atoms link to one another in long chains, branched chains and rings; C-C bonds are strong because of small size.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-metallic-nonmetallic-oxides",
+    "question_text": "Compare the nature of metallic and non-metallic oxides. Why does molten calcium oxide conduct electricity while solid CaO and gaseous CO2 do not?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-metallic-nonmetallic-oxides_c1",
+        "text": "Metallic oxides are basic; non-metallic oxides are acidic (e.g. CaO basic, CO2 acidic). CaO is ionic; in the molten state free ions carry current. Solid CaO has ions fixed in the lattice; CO2 is a covalent gas with no free ions.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-baking-soda-pop",
+    "question_text": "Give the chemical names of baking soda and plaster of Paris. Write one use of each and the equation for heating gypsum to obtain plaster of Paris.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-baking-soda-pop_c1",
+        "text": "Baking soda is NaHCO3 (sodium hydrogencarbonate); used in baking, as an antacid, or in fire extinguishers. Plaster of Paris is CaSO4.1/2H2O; used for plaster casts / sealing / decorative work. Gypsum on heating: CaSO4.2H2O -> CaSO4.1/2H2O + 3/2 H2O (about 373 K).",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-hypermetropia-correction",
+    "question_text": "What is hypermetropia? State its two causes and the type of lens used to correct it.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-hypermetropia-correction_c1",
+        "text": "Hypermetropia (long-sightedness): nearby objects are not seen clearly; image formed behind the retina. Causes: eyeball too short, or focal length of eye lens too long (lens too weak / less converging). Corrected with a convex (converging) lens of suitable power.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-myopia-correction",
+    "question_text": "What is myopia? Give its causes and explain how it is corrected.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-myopia-correction_c1",
+        "text": "Myopia (short-sightedness): distant objects not seen clearly; image formed in front of the retina. Causes: eyeball too long, or excessive curvature / too converging eye lens (focal length too short). Corrected with a concave (diverging) lens of suitable power so that the image is shifted onto the retina.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-dispersion-white-light",
+    "question_text": "What is dispersion of light? Why does a glass prism split white light into a spectrum?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-dispersion-white-light_c1",
+        "text": "Dispersion is the splitting of white light into its component colours (VIBGYOR) on passing through a medium such as a prism. Different colours have different wavelengths and therefore different refractive indices / speeds in glass, so they bend by different angles. Violet is slowed and bent the most; red the least.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-lens-formula-example",
+    "question_text": "State the lens formula. An object is placed 20 cm in front of a concave lens and a virtual image is formed 10 cm from the lens. Calculate the focal length and state the nature of the lens.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-lens-formula-example_c1",
+        "text": "Lens formula: 1/v - 1/u = 1/f, with New Cartesian sign convention. u = -20 cm, v = -10 cm (virtual image on the same side) gives f = -20 cm. Negative f shows a diverging (concave) lens.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-refraction-snell",
+    "question_text": "State the laws of refraction of light. Define refractive index.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-refraction-snell_c1",
+        "text": "Incident ray, refracted ray and the normal lie in the same plane. Snell's law: sin i / sin r = constant = n21 for a given pair of media. Absolute refractive index n = c/v, the ratio of speed of light in vacuum to speed in the medium.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-electromagnetic-induction",
+    "question_text": "State Faraday's law of electromagnetic induction. Name the rule that gives the direction of induced current and list two factors that increase the induced emf.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-electromagnetic-induction_c1",
+        "text": "An emf (and current in a closed circuit) is induced whenever the magnetic flux linked with a coil changes. Direction given by Fleming's right-hand rule (or Lenz's law: induced current opposes the change in flux). Induced emf increases with faster motion, stronger field, or more turns in the coil.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-solenoid-field",
+    "question_text": "What is a solenoid? Describe the magnetic field due to a current-carrying solenoid and one use of a solenoid.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-solenoid-field_c1",
+        "text": "A solenoid is a long coil of many turns of insulated wire. Field inside is uniform and strong, like that of a bar magnet, with north and south faces; outside it is weak. Used as an electromagnet / in electric bells / magnetic locks (any one).",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-resistivity-meaning",
+    "question_text": "Define resistivity. How does the resistance of a wire depend on length and area of cross-section? A copper wire of diameter 0.80 mm is used to make a 0.12 ohm resistor. Show that the required length is about 3.3 m if resistivity of copper is 1.6 x 10^-8 ohm m. (Take A about 5 x 10^-7 m2.)",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-resistivity-meaning_c1",
+        "text": "Resistivity rho is a material property; R = rho l / A. R proportional to length and inversely proportional to area of cross-section. l = R A / rho = 0.12 x 5 x 10^-7 / 1.6 x 10^-8 = 3.75 m (about 3.3 m as in the MS).",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-household-fuse",
+    "question_text": "Why are household appliances connected in parallel? Why is a fuse connected in series with the live wire? A 1500 W heater and a 500 W fan run on 220 V with a 10 A fuse. Will the fuse blow?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-household-fuse_c1",
+        "text": "Parallel: each appliance gets the full mains voltage and can be switched independently. Fuse in series on the live wire melts and breaks the whole circuit if current is excessive, preventing fire. I_heater = 1500/220 = 6.82 A, I_fan = 500/220 = 2.27 A, total 9.09 A < 10 A, so the fuse does not blow.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-presbyopia-age",
+    "question_text": "What is presbyopia? Give its cause and the type of lenses used to correct it.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-presbyopia-age_c1",
+        "text": "Presbyopia is the age-related defect in which near vision (and sometimes far vision) becomes poor. Caused by gradual loss of flexibility of the eye lens and weakening of ciliary muscles, so accommodation decreases. Corrected with convex lenses for near work, or bifocal lenses (concave upper part, convex lower part) if myopia is also present.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-sources-energy",
+    "question_text": "Distinguish between renewable and non-renewable sources of energy. Give two examples of each and one limitation of fossil fuels.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-sources-energy_c1",
+        "text": "Renewable sources can be replenished on a human timescale (solar, wind, hydro, biogas). Non-renewable sources take geological time to form (coal, petroleum, natural gas, nuclear fuels). Fossil fuels cause air pollution / greenhouse gases / acid rain and are finite.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-electric-motor-rule",
+    "question_text": "State Fleming's left-hand rule. How is it used in an electric motor?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-electric-motor-rule_c1",
+        "text": "Forefinger: magnetic field, middle finger: current, thumb: force / motion (three mutually perpendicular directions). A current-carrying conductor in a magnetic field experiences a force F = I l B (for perpendicular I and B). In a motor a coil carrying current in a field experiences opposite forces on two sides, producing rotation; a commutator reverses current each half-turn so rotation continues.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-carbon-compounds-hydrogenation",
+    "question_text": "Carbon forms a large number of compounds. Explain covalent bonding, homologous series and the difference between saturated and unsaturated hydrocarbons. How is an alkene converted to an alkane? Give the equation for hydrogenation of propene.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-carbon-compounds-hydrogenation_c1",
+        "text": "Carbon shares four electrons (covalent, tetravalent); catenation gives chains and rings. Homologous series: same functional group, differ by CH2, similar chemistry, gradual change in physical properties. Saturated hydrocarbons (alkanes, CnH2n+2) have only single bonds; unsaturated (alkenes CnH2n, alkynes) have double or triple bonds. Propene is C3H6; unsaturated hydrocarbons decolourise bromine water. Hydrogenation: C3H6 + H2 --Ni--> C3H8 (propene to propane); used to harden oils.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-periodic-table-compare",
+    "question_text": "Compare Mendeleev's periodic table with the modern periodic table. Mention the basis of classification, the treatment of gaps and noble gases, and one anomaly that the modern table removes.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-periodic-table-compare_c1",
+        "text": "Mendeleev: increasing atomic mass; properties of elements are a periodic function of atomic mass. He left gaps for undiscovered elements (e.g. Ga, Ge, Sc) and predicted their properties; noble gases were fitted in later. Anomalies: Co placed before Ni despite higher mass; isotopes would need separate places. Modern table: increasing atomic number; 18 groups and 7 periods; based on electronic configuration. Atomic number removes the Co/Ni and isotope problems; position of an element is linked to its valence electrons.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-extraction-metals-reactivity",
+    "question_text": "How does the method of extraction of a metal depend on its position in the reactivity series? Describe electrolytic reduction of a highly reactive metal and reduction of a moderately reactive metal. How is corrosion of iron prevented?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-extraction-metals-reactivity_c1",
+        "text": "Highly reactive metals (K, Na, Ca, Al) are extracted by electrolytic reduction of molten chlorides or oxides. Moderately reactive metals (Zn, Fe, Pb, Cu) are obtained by reduction of their oxides with carbon, carbon monoxide or aluminium (thermite). Least reactive metals (Ag, Au, Pt) occur native or are displaced from compounds by heating alone. Iron rusts as Fe2O3.xH2O in the presence of air and moisture. Prevention: painting, greasing, galvanisation (Zn coating), alloying (stainless steel), electroplating.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-types-chemical-reactions",
+    "question_text": "Explain with one example each: combination, decomposition, displacement, double displacement and redox reactions. Identify which of these may also be exothermic or endothermic.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-types-chemical-reactions_c1",
+        "text": "Combination: two or more substances form one product, e.g. CaO + H2O -> Ca(OH)2 (exothermic). Decomposition: one compound gives two or more products, e.g. 2Pb(NO3)2 -> 2PbO + 4NO2 + O2 (endothermic / needs heat). Displacement: a more reactive element replaces a less reactive one, e.g. Fe + CuSO4 -> FeSO4 + Cu. Double displacement: exchange of ions, e.g. Na2SO4 + BaCl2 -> BaSO4 + 2NaCl (precipitation). Redox: oxidation and reduction together, e.g. Zn + CuSO4; combination of H2 and O2 is also redox and exothermic.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-acids-bases-salts-ph",
+    "question_text": "How do acids and bases differ in terms of ions and pH? Explain the importance of pH in everyday life with three examples, and name three salts used daily with their formulae.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-acids-bases-salts-ph_c1",
+        "text": "Acids produce H+ (H3O+) in water; bases produce OH-; acids pH < 7, bases pH > 7. Tooth decay starts when mouth pH falls below 5.5; brushing with basic toothpaste neutralises acid. Soil pH affects crops; too acidic soil is treated with slaked lime / too basic with organic matter. Acid rain (pH < 5.6) damages plants, aquatic life and marble. Common salts: NaCl (common salt), NaHCO3 (baking soda), Na2CO3.10H2O (washing soda), CaOCl2 (bleaching powder), CaSO4.1/2H2O (POP) (any three).",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-eye-defects-accommodation",
+    "question_text": "What is power of accommodation of the eye? Explain myopia, hypermetropia and presbyopia with causes and the corrective lenses used for each.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-eye-defects-accommodation_c1",
+        "text": "Accommodation: the eye lens changes curvature (ciliary muscles) so that both near and distant objects can be focused on the retina. Myopia: image of a distant object in front of the retina; long eyeball or too convex lens; concave correcting lens. Hypermetropia: image of a nearby object behind the retina; short eyeball or too weak lens; convex correcting lens. Presbyopia: age-related loss of flexibility of the lens and weakening of ciliary muscles; near vision fails. Presbyopia corrected by convex lenses or bifocals; power of a lens P = 1/f (dioptre).",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-electricity-circuits-power",
+    "question_text": "State Ohm's law. How are resistors combined in series and in parallel? Define electric power and write three formulae for it. A 1200 W heater is designed for 240 V. Find its resistance and the current when it operates at the rated voltage.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-electricity-circuits-power_c1",
+        "text": "Ohm: V = IR at constant temperature. Series: Rs = R1 + R2 + ... ; same I, voltages add. Parallel: 1/Rp = 1/R1 + 1/R2 + ... ; same V, currents add. Power P = VI = I^2 R = V^2 / R; unit watt. Heater: R = V^2 / P = 240 x 240 / 1200 = 48 ohm. Current I = V/R = 240/48 = 5 A (or I = P/V = 1200/240 = 5 A).",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-magnetic-effects-current",
+    "question_text": "Describe Oersted's experiment. State the right-hand thumb rule for a straight conductor. How does a solenoid behave like a bar magnet? Distinguish an electric motor from a generator using Fleming's rules.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-magnetic-effects-current_c1",
+        "text": "Oersted: a compass needle deflects near a current-carrying wire, showing that current produces a magnetic field. Right-hand thumb rule: thumb along current, curled fingers give field circles around a straight wire. Solenoid field is like a bar magnet: strong and uniform inside, N and S faces; used as electromagnet. Motor: electrical energy to mechanical; Fleming's left-hand rule (force on current in a field). Generator: mechanical energy to electrical by electromagnetic induction; Fleming's right-hand rule.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-light-mirrors-lenses",
+    "question_text": "State the mirror formula and the lens formula. Distinguish real and virtual images. Give one use each of a concave mirror, a convex mirror, a convex lens and a concave lens.",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-light-mirrors-lenses_c1",
+        "text": "Mirror formula: 1/v + 1/u = 1/f; lens formula: 1/v - 1/u = 1/f (New Cartesian signs). Magnification m = h'/h = -v/u for mirrors; m = h'/h = v/u for lenses. Real image: rays actually meet, inverted, can be taken on a screen; virtual: rays appear to meet, erect, cannot be taken on a screen. Concave mirror: headlights / shaving / dentist; convex mirror: rear-view mirror (wide field). Convex lens: magnifying glass / projector / camera / hypermetropia; concave lens: myopia / peephole.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-sci-refraction-atmosphere-scattering",
+    "question_text": "Explain atmospheric refraction as the cause of twinkling of stars and advanced sunrise. Why is the sky blue and the sun red at sunrise and sunset? How is a rainbow formed?",
+    "subject": "physics_chemistry",
+    "criteria": [
+      {
+        "criterion_id": "cbse-sci-refraction-atmosphere-scattering_c1",
+        "text": "Atmospheric refraction: apparent position of a star fluctuates because the atmosphere is not uniform, causing twinkling. Sun is seen about two minutes before actual sunrise and after sunset because rays from below the horizon are bent by the atmosphere. Blue sky: Rayleigh scattering of short wavelengths; eyes more sensitive to blue than violet. Sunrise/sunset red: light travels a longer path, blue is scattered away, red and orange remain. Rainbow: dispersion plus internal reflection in raindrops; observer sees spectrum with sun behind.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-crafts-community-income",
+    "question_text": "Why is supporting indigenous crafts considered an effective way to improve the economic conditions of small communities? (Discursive passage, paragraph 3)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-crafts-community-income_c1",
+        "text": "Supporting indigenous crafts gives artisans a stable income and empowers them to sustain their livelihoods and continue craftsmanship. It reduces economic hardship where other jobs are scarce and creates a positive cycle of growth in small communities.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-crafts-consumer-role",
+    "question_text": "Why is it important for consumers to take an active role alongside government and organisations in sustaining indigenous crafts? (Discursive passage, paragraph 6)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-crafts-consumer-role_c1",
+        "text": "Governments and organisations can make policies and platforms, but consumers drive demand; without their interest, official efforts may not help artisans. Consumer choices affect the visibility and survival of handmade crafts, so public buying is essential for a sustainable market and cultural heritage.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-hybrid-pens-viable",
+    "question_text": "Elaborate how hybrid features in pens would lead to a commercially viable product. (Case-based passage, paragraph 4)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-hybrid-pens-viable_c1",
+        "text": "Hybrids would combine ballpoint speed and reliability with micro-tip precision and aesthetic appeal. Such pens would serve more age groups and writing tasks, matching demand for versatile tools and so succeeding commercially.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-crafts-welcome-trend",
+    "question_text": "Why is the growing preference for indigenous craft items described as a welcome trend? Give two reasons based on the discursive passage.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-crafts-welcome-trend_c1",
+        "text": "Handcrafted goods counter the dominance of mass-produced items and are more eco-friendly because they use local materials and low-waste methods. They support local economies and help preserve cultural and artistic traditions against cultural homogenisation.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-crafts-heritage-uniqueness",
+    "question_text": "How do indigenous crafts preserve cultural heritage and also offer uniqueness to the buyer? Infer from paragraphs 4 and 5 of the discursive passage.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-crafts-heritage-uniqueness_c1",
+        "text": "Each craft carries traditions, beliefs and skills passed down through generations and reflects a region's identity. Unlike mass-produced goods, each handmade piece bears the artisan's effort and creativity, so it is individual for the buyer.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-pens-age-task-patterns",
+    "question_text": "What do the 'distinct patterns' in the pen study suggest about age and writing purpose? Infer two points from the case-based passage.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-pens-age-task-patterns_c1",
+        "text": "Pen choice changed with age: younger students leaned toward ballpoints for notes, while 13-16-year-olds often preferred micro-tips for neat note-taking and personal writing. Task also mattered: both groups still favoured ballpoints in examinations for speed and reliability under time pressure.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-letter-eco-clubs",
+    "question_text": "As Vaibhav, Club In-charge of your school's Ecology Club, write a letter to the Education Secretary in about 120 words highlighting the need for ecological awareness and proposing Eco-Clubs in rural schools around your city.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-letter-eco-clubs_c1",
+        "text": "Significance of ecological awareness: protecting natural resources, building responsible behaviour early, and collective action against deforestation, pollution and loss of biodiversity. Proposal: Eco-Clubs in rural schools for tree plantation, cleanliness drives and awareness campaigns, forming environmentally conscious citizens. Support needed: funds, resources and guidance from the Education Department, plus collaboration with NGOs or environmental organisations.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-letter-digital-security",
+    "question_text": "As Amitha, Vice Head Girl of Vidya Mandir, write a letter to the editor of a national daily in about 120 words stressing the need to promote digital security among all age groups. Mention cyber threats and practical solutions.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-letter-digital-security_c1",
+        "text": "Challenges: identity theft, financial fraud, data breaches; children, the elderly and untrained users face phishing, malware and online predators; ignorance worsens harm. Need for awareness: digital hygiene; schools, workplaces and community groups should spread safe online habits. Solutions: literacy programmes, workshops on passwords, scams and safe browsing, stricter cybersecurity policy, and a public call through the newspaper for joint action.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-analytical-meera-kapoor",
+    "question_text": "Two guest speakers, Mr Rajan Sharma and Ms Meera Kapoor, wish to address your school's debate competition. Analyse the information and justify which speaker would be the better choice for a high-school audience.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-analytical-meera-kapoor_c1",
+        "text": "Compare experience, relevance and audience engagement; choose one candidate and contrast with the other. Ms Kapoor: international debate forums, accolades on global and social issues, connects debates to real-world scenarios, stresses personal growth, confidence and speaking skills. Mr Sharma: ten years as coach and speaker, national-level success, focus on critical thinking and technique; may be less inspiring on real-world issues than Kapoor.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-analytical-rajan-sharma",
+    "question_text": "Two guest speakers, Mr Rajan Sharma and Ms Meera Kapoor, have offered to address your debate competition. Analyse the excerpts and justify choosing Mr Sharma as the better speaker for students aiming at contests.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-analytical-rajan-sharma_c1",
+        "text": "Must analyse by matching event needs to strengths and contrasting the other candidate. Mr Sharma: over ten years as debate coach and speaker, students guided to national success, practical insights and critical thinking, familiar with school audiences. Ms Kapoor's global exposure is valuable but less focused on making a school team competition-ready.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-analytical-sunaina-partner",
+    "question_text": "Jaspreet is creative and a strong communicator but weak at time management and prefers teamwork. Analyse the profiles of Sunaina, Tabassum and Alice and decide who would be the best partner for her art-integrated project.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-analytical-sunaina-partner_c1",
+        "text": "Match complementary strengths to Jaspreet's weaknesses and the project's need for structure plus presentation. Sunaina: disciplined, meets deadlines, organises many tasks; reserved but her structure balances Jaspreet's free creativity. Tabassum's unfocused spontaneity may worsen missed deadlines; Alice's need for control may clash with Jaspreet's collaborative style.",
+        "max_marks": 5.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-seagull-maiden-not-alone",
+    "question_text": "Contradict the view that the young seagull celebrated his maiden flight alone. (Two Stories About Flying)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-seagull-maiden-not-alone_c1",
+        "text": "His mother and father flew past him, calling and prompting him. His brothers and sister were already in the air, curvetting, banking, soaring and diving, so the first flight was a family event, not a solitary one.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-seagull-emotion-after-flight",
+    "question_text": "What can be inferred about the young seagull's emotional state after he flies with his family? (His First Flight)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-seagull-emotion-after-flight_c1",
+        "text": "He feels accomplishment and excitement. He forgets that he was once afraid and enjoys soaring and diving with the family.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-book-earth-stage-directions",
+    "question_text": "How do the stage directions, such as turning on the projector and the spotlight going out on the Historian, contribute to the atmosphere of this scene? (The Book That Saved the Earth)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-book-earth-stage-directions_c1",
+        "text": "The projector shifts the scene from narration to visual storytelling. The fading spotlight moves attention off the Historian, raises suspense, and prepares the audience for the next action or character.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-ball-poem-stand-up",
+    "question_text": "What does the phrase 'how to stand up' suggest about the boy's emotional growth in 'The Ball Poem'?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-ball-poem-stand-up_c1",
+        "text": "The boy is learning to face the emotional impact of loss rather than deny it. Standing up means growing up: recovering from hardship and accepting that loss is part of life.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-wild-animals-tiger-humour",
+    "question_text": "How does the poet use humour in the description of the Bengal Tiger in 'How to Tell Wild Animals'?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-wild-animals-tiger-humour_c1",
+        "text": "The tiger is called 'noble' yet identified by whether it eats you, an ironic contradiction. The playful, advisory tone makes ferocity entertaining rather than purely frightening.",
+        "max_marks": 2.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-mijbil-two-traits",
+    "question_text": "Otters are known for their peculiar behavioural traits. Support this with any two traits of Mijbil in 'Mijbil the Otter'.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-mijbil-two-traits_c1",
+        "text": "Love of moving water: Mijbil overturned bowls, sat in them or splashed until water ran, and hated still water. Curiosity and play: he investigated taps to turn them on, and juggled marbles on his belly while lying on his back.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-amanda-repetition",
+    "question_text": "How does the use of repetition in the poem 'Amanda!' highlight the speaker's expectations and Amanda's responses?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-amanda-repetition_c1",
+        "text": "Repeated commands (Don't bite your nails, sit up, finish homework) show constant adult pressure and Amanda's lack of freedom. Amanda's imagined escapes are not repetitive; they show her wish for independence against that nagging.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-mandela-liberate-both",
+    "question_text": "How can Nelson Mandela's vision of liberating both the oppressed and the oppressor be applied in modern societies to address inequality and discrimination?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-mandela-liberate-both_c1",
+        "text": "Foster dialogue, understanding and reconciliation between groups. Empower the marginalised and also change the mindset of those who discriminate, so hatred is not simply reversed.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-fog-moves-on",
+    "question_text": "How does the line 'and then moves on' in 'Fog' reflect the transient nature of the fog and the poem's message about life's impermanence?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-fog-moves-on_c1",
+        "text": "The fog arrives quietly, sits a while over harbour and city, then leaves, so it is fleeting. The image parallels life's brief moments that come without warning and go, leaving mystery and reflection.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-proposal-chubukov",
+    "question_text": "How does Chubukov's reaction to Lomov's marriage proposal reflect his priorities and values? (The Proposal)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-proposal-chubukov_c1",
+        "text": "He is overjoyed and opportunistic, valuing a match with a neighbouring landowner more than Lomov's love. His sudden affection ('my dear fellow') after earlier suspicion shows he prizes status and property over genuine feeling.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-necklace-honesty",
+    "question_text": "How does 'The Necklace' illustrate the significance of honesty as the key element for a happy and stress-free life?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-necklace-honesty_c1",
+        "text": "Matilda replaces the necklace in secret and suffers ten years of poverty; dishonesty brings unforeseen misery. Fear of being found out wrecks the couple's health and peace; confession would have revealed the jewels were fake and spared them.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-thief-values-caught",
+    "question_text": "Evaluate the adage 'Values are caught, not taught' in the relationship between Anil and Hari Singh in 'The Thief's Story'.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-thief-values-caught_c1",
+        "text": "Anil's silent trust and kindness (forgiving bad cooking, teaching Hari to read and write) influence the thief more than lectures. Hari steals the money but returns it because he has absorbed honesty from Anil's example, not from a sermon.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-griffin-comfort-identity",
+    "question_text": "Griffin experiences moments of comfort and normalcy while invisible. How do these fleeting moments affect his identity and actions in 'Footprints Without Feet'?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-griffin-comfort-identity_c1",
+        "text": "Warmth, clothes or food briefly restore a sense of being ordinary, then underline how isolated he is. Frustration pushes him to steal, disguise himself and use violence, so invisibility erodes his humanity.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-dust-of-snow",
+    "question_text": "How does the simple incident in 'Dust of Snow' change the poet's mood? Explain with reference to the crow and the hemlock.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-dust-of-snow_c1",
+        "text": "A crow shakes dust of snow from a hemlock tree onto the poet; both crow and hemlock are usually linked with gloom. The tiny moment lifts his mood and saves a part of a day he had rued, showing that small natural incidents can heal regret.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-fire-and-ice",
+    "question_text": "What do 'fire' and 'ice' stand for in Robert Frost's poem, and how can both destroy the world?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-fire-and-ice_c1",
+        "text": "Fire stands for desire, greed and passion; ice stands for hatred, coldness and indifference. Either is enough to end the world: desire consumes, hatred freezes relationships; the poet has tasted both and finds ice also 'great'.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-his-first-flight-hunger",
+    "question_text": "How does hunger help the young seagull make his first flight? (His First Flight)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-his-first-flight-hunger_c1",
+        "text": "The family leaves him alone on the ledge without food so that fear is weaker than hunger. The mother tempts him with a piece of fish just out of reach; maddened by hunger he dives, his wings spread, and he flies.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-tiger-zoo-contrast",
+    "question_text": "Contrast the tiger in the cage with the tiger in the wild as presented in 'A Tiger in the Zoo'.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-tiger-zoo-contrast_c1",
+        "text": "In the zoo he stalks a few steps in a concrete cell, locked in quiet rage, ignoring visitors, staring at the stars. In the wild he should lurk in shadow, slide through long grass, snarl around the water hole and terrorise the village.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-baker-goa-pader",
+    "question_text": "What role did the baker, or pader, play in traditional Goan village life? (A Baker from Goa)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-baker-goa-pader_c1",
+        "text": "The baker was essential: bread, bolinhas and bread-bangles were needed for ordinary meals and for marriage gifts. He was a familiar figure with a jingling bamboo staff, usually plump, and the profession often ran in the family from Portuguese times.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-coorg-people-land",
+    "question_text": "Describe the land of Coorg and the distinct culture of its people as given in the lesson 'Coorg'.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-coorg-people-land_c1",
+        "text": "Coorg (Kodagu) is a coffee country of rain-washed evergreen hills between Mysore and the coastal region. Kodavus are hospitable, possibly of Greek or Arabic descent, with a martial tradition (Kuppia, stories of Alexander) and a landscape of mahaseer rivers and Brahmagiri.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-tea-assam-legends",
+    "question_text": "What two legends about the discovery of tea does Rajvir tell Pranjol in 'Tea from Assam'?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-tea-assam-legends_c1",
+        "text": "Chinese legend: a emperor boiling water when leaves from a bush fell in and made a delicious drink. Indian/Buddhist legend: Bodhidharma cut off his eyelids to stay awake, and tea plants grew from them; tea keeps one awake.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-trees-leave-house",
+    "question_text": "What is happening to the trees in Adrienne Rich's poem 'The Trees', and what does their movement suggest?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-trees-leave-house_c1",
+        "text": "Trees that were trapped inside the house strain all night: roots free themselves from veranda cracks, leaves and twigs push toward the forest. Their exit, breaking the glass, symbolises nature (and often women) leaving confinement for unrestricted growth.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-how-tell-wild-animals-method",
+    "question_text": "How does Carolyn Wells turn the identification of wild animals into comic 'advice' in 'How to Tell Wild Animals'? Mention any two examples.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-how-tell-wild-animals-method_c1",
+        "text": "The poem pretends to be a field guide: roar of the Asian lion, stripes of the Bengal Tiger, leap of the leopard, hug of the bear. The joke is that recognition comes too late (you are eaten, leapt on, hugged or weep beside a crocodile), which satirises dangerous encounters.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-midnight-ausable-wit",
+    "question_text": "How does Ausable prove that a secret agent need not look dramatic? Refer to 'The Midnight Visitor'.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-midnight-ausable-wit_c1",
+        "text": "Ausable is fat, lives in a drab hotel, and disappoints Fowler's idea of spies. He outwits Max with a invented balcony and a fake police knock, so brains replace appearance.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-tricki-overfeeding",
+    "question_text": "How does Mrs Pumphrey's overindulgence affect Tricki, and what actually cures him in 'A Triumph of Surgery'?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-tricki-overfeeding_c1",
+        "text": "Rich food, sweets and no exercise make Tricki bloated, lethargic and ill. At the surgery he gets water, then a plain diet, play with other dogs and activity; not a dramatic operation.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-amanda-imagination",
+    "question_text": "How do Amanda's daydreams reveal what she wants? Refer to the mermaid, the orphan and Rapunzel.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-amanda-imagination_c1",
+        "text": "Mermaid: languid freedom in the green sea, away from instructions. Orphan and Rapunzel: she imagines a life without nagging parents, even solitude in a tower, because silence feels like liberty.",
+        "max_marks": 3.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-baker-coorg-assam-tourism",
+    "question_text": "How do 'A Baker from Goa,' 'Coorg' and 'Tea from Assam' help promote tourism and raise awareness of regional cultures and traditions?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-baker-coorg-assam-tourism_c1",
+        "text": "Each sketch presents distinctive food, landscape and lifestyle that can attract visitors. Baker from Goa: Portuguese baking, pader, bread-bangles, nostalgic village charm and cuisine. Coorg: rain forests, coffee, martial Kodavu hospitality, mahaseer, Brahmagiri. Tea from Assam: tea gardens, origin legends, cultural place of tea, estate travel.",
+        "max_marks": 6.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-trees-tiger-freedom",
+    "question_text": "The poems 'The Trees' and 'A Tiger in the Zoo' both stress the importance of freedom and the wish to break out of dominance. Examine.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-trees-tiger-freedom_c1",
+        "text": "Trees are metaphorically trapped in a house; roots leave veranda cracks and they move toward the forest, seeking a natural state. The tiger is physically caged; restlessness and staring at stars show the drive to return to the wild. Trees suggest nature (and human) growth that cannot stay boxed; the zoo shows wild power stifled by human confinement; freedom brings renewal, captivity does not.",
+        "max_marks": 6.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-midnight-visitor-misdirection",
+    "question_text": "How does the author use misdirection in 'The Midnight Visitor' to build suspense and produce an unexpected ending?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-midnight-visitor-misdirection_c1",
+        "text": "Ausable invents a balcony and past break-ins so Max and the reader believe an escape route exists. The knock is framed as police, pushing Max onto the 'balcony'. The twist: there is no balcony; Max falls; Ausable's calm lie is the real weapon.",
+        "max_marks": 6.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-triumph-surgery-role",
+    "question_text": "Comment critically on the role of the surgery in 'A Triumph of Surgery'.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-triumph-surgery-role_c1",
+        "text": "The surgery is a place of physical recovery and a contrast to Mrs Pumphrey's overindulgent home. Tricki gets a strict diet, exercise and play with other dogs, not merely medicine. It stands for responsible pet care: affection without discipline made him ill; holistic routine restores him and critiques pampering.",
+        "max_marks": 6.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-his-first-flight-family",
+    "question_text": "Describe how the young seagull's family helps him overcome his fear of flying. (His First Flight)",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-his-first-flight-family_c1",
+        "text": "They leave him alone on the ledge so that isolation and hunger weaken his refusal. The mother uses a fish as bait just out of reach, forcing the dive that becomes flight. Once airborne, parents and siblings fly with him, scream encouragement, and make the first flight a shared success.",
+        "max_marks": 6.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-necklace-irony-pride",
+    "question_text": "Discuss how pride and the desire to appear rich lead to irony in Guy de Maupassant's 'The Necklace'.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-necklace-irony-pride_c1",
+        "text": "Matilda is unhappy with a modest clerk's life and borrows a necklace to look wealthy at the ball. Loss of the jewels and secret replacement with real diamonds cause ten years of grinding labour. The climax is ironic: Mme Forestier's necklace was paste; pride and show destroyed a life for a fake.",
+        "max_marks": 6.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-amanda-freedom",
+    "question_text": "Amanda is constantly instructed, yet she finds freedom in imagination. Discuss how Robin Klein presents this conflict in the poem 'Amanda!'.",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-amanda-freedom_c1",
+        "text": "The adult speaker repeats commands about nails, posture, homework, shoes and chocolate, leaving Amanda no autonomy. In the gaps Amanda becomes a mermaid, an orphan, or Rapunzel who would refuse visitors. The poem sides with the child's need for space; nagging produces withdrawal, not better behaviour.",
+        "max_marks": 6.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-proposal-quarrels",
+    "question_text": "The marriage proposal in Chekhov's play collapses into quarrels over land and dogs. What does this satire reveal about Lomov, Natalya and Chubukov?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-proposal-quarrels_c1",
+        "text": "Lomov is nervous, hypochondriac, and as greedy about Oxen Meadows and hunting dogs as the others. Natalya is quarrelsome yet desperate to marry; she fights over Guess and Squeezer, then weeps when she learns he came to propose. Chubukov wants the match for property and status; the play mocks landed families who cannot be civil even when self-interest requires it.",
+        "max_marks": 6.0
+      }
+    ]
+  },
+  {
+    "question_id": "cbse-eng-thief-story-change",
+    "question_text": "Trace Hari Singh's change of heart in 'The Thief's Story'. How does Anil's trust lead him from theft toward education?",
+    "subject": "english",
+    "criteria": [
+      {
+        "criterion_id": "cbse-eng-thief-story-change_c1",
+        "text": "Hari is a young thief who stays with Anil because the man is easy-going and can teach him to read and write. He steals a bundle of notes, then cannot spend them in the rain; education and Anil's unspoken faith pull him back. Returning the money shows he now values a decent life more than a one-time theft.",
+        "max_marks": 6.0
+      }
+    ]
   }
 ]

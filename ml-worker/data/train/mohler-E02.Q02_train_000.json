@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q02_train_000",
+  "question_id": "mohler-E02.Q02",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A data member is part of a C++ class or structure that stores data of a certain type... A local variable inside a member function is only available inside that function, and can be used to derive a desired outcome.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q02_c1": 4.5
+  },
+  "data_source": "mohler"
+}

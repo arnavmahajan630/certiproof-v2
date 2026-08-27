@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_029",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "One conclusion that can be drawn is that plastic type B stretched the most (22 mm and 23 mm) out of all the plastics. Also, plastic type A stretched the least, only stretching to 10 mm and 12 mm. This is a conclusion that can be drawn. ^p To improve the validity of the experiment, the students could name the four plastics used. Also to have accurate data, the kids should have set a measurement at which to cut all the plastics instead of saying ''measure its length''. Also adding a control would be helpful as well. This is how the students could improve the validity of their experiment.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

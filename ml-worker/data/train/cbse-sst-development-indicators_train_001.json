@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-development-indicators_train_001",
+  "question_id": "cbse-sst-development-indicators",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "A rich average can mask poverty. Looking at education, health and public services gives a fuller picture of well-being.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-development-indicators_c1": 3.0
+  },
+  "data_source": "cbse"
+}

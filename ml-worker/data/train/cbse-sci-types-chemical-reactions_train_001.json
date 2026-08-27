@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-types-chemical-reactions_train_001",
+  "question_id": "cbse-sci-types-chemical-reactions",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Combination builds one product, decomposition splits a compound, displacement and double displacement swap atoms or ions, and redox always pairs oxidation with reduction. Heat may be given out or taken in.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-types-chemical-reactions_c1": 5.0
+  },
+  "data_source": "cbse"
+}

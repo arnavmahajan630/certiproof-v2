@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_025",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "(A) Based on the data, plastic material A was the most durable out of the four tested. This is because plastic A only stretched 10mm on the first trial, and 12 on the second, while plastic B stretched 22 & 23mm, plastic C 14 and 13, and plastic D 20 each time. This means that plastic A tolerated the weight on the clamp the best, and also that plastic B tolerated it the least. ^p (B) The students could have improved their experiment by using a variety of different weights to get a wider range of data, and by doing more trials to allow for the most accurate data possible.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

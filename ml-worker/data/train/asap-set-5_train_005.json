@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_005",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "mRNA finds tRNA and it decodes the mRNA then tRNA goes to rRNA and makes ribosomes.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 1.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-soap-hard-water_test_002",
+  "question_id": "cbse-sci-soap-hard-water",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Hard waterr containss calcium and magnesium ions. Soap is the sodium salt of a long-chain fatty acid. These ions replace sodium and form an insoluble scum, so little soap remains to form lather. Detergents are usually sodium salts of sulphonic acids; thier calcium and magnesium salts stay dissolved, so detergents clean well even in hard water.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-soap-hard-water_c1": 2.0
+  },
+  "data_source": "cbse"
+}

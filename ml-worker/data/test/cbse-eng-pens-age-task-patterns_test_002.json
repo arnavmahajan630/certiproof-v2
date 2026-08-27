@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-pens-age-task-patterns_test_002",
+  "question_id": "cbse-eng-pens-age-task-patterns",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "The studyy showss habits are not the same for every child. Ages 10-12 mostly used ballpoints for notes becuase they are easy and cheap, while older students often wanted micro-tips for tidy notes and journals. In exams, however, both groups still trusted ballpoints for speed, so purpose as well as age shapes the choice.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-pens-age-task-patterns_c1": 2.0
+  },
+  "data_source": "cbse"
+}

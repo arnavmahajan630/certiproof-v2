@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-dynastic-parties_train_000",
+  "question_id": "cbse-sst-dynastic-parties",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Many parties do not have transparent ways for a worker to rise, so those already at the top favour relatives. Dynastic succession keeps the highest posts in one family, which is unfair to other members and bad for democracy because people without experience or popular support gain power, and loyalty to the leader replaces loyalty to policies.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-dynastic-parties_c1": 3.0
+  },
+  "data_source": "cbse"
+}

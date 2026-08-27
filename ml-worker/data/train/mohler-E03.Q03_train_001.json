@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E03.Q03_train_001",
+  "question_id": "mohler-E03.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "You declare your inline function in the header or before your int main(). You then can call that function at anytime in your main program quickly and easily.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E03.Q03_c1": 2.0
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_test_030",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "In order to replicate this experiment, I would need to know many details. First, I would need to know what samples I am using in order to find their mass. I also would need to know how large each material is. This way I can perform an accurate best because I would know how large the material was. Also, I would need to know how much vinegar to pour into each of the cups so that each material recieves the same amount. Last, I would need to know how to rinse each material so that they all recieve the same amount of water.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

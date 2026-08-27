@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-wild-animals-tiger-humour_train_000",
+  "question_id": "cbse-eng-wild-animals-tiger-humour",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Carolyn Wells praises the tiger as a noble beast with black stripes on yellow, then jokes that you will know it if it eats you. Calling it noble while the test is being eaten is comic. The light rule-book tone turns danger into a wry field guide instead of a horror scene.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-wild-animals-tiger-humour_c1": 2.0
+  },
+  "data_source": "cbse"
+}

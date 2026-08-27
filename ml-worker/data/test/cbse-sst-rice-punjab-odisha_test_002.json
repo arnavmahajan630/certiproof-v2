@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-rice-punjab-odisha_test_002",
+  "question_id": "cbse-sst-rice-punjab-odisha",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Punjabb and Haryanaa have canal irrigation and grow high-yielding rice for markets, helped by procurement and good transport. Odisha\u2019s rice is often rainfed and grown for family use, with weaker links to large commercial markets.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-rice-punjab-odisha_c1": 2.0
+  },
+  "data_source": "cbse"
+}

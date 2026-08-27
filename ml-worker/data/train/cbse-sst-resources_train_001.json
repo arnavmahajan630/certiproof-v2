@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-resources_train_001",
+  "question_id": "cbse-sst-resources",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Resources may be living or non-living, and they may grow back on a human timescale or be finite stocks.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-resources_c1": 2.0
+  },
+  "data_source": "cbse"
+}

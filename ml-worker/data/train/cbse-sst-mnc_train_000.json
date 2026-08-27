@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-mnc_train_000",
+  "question_id": "cbse-sst-mnc",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "An MNC controls production in several countries. It may build its own plants, buy local firms, or place orders with small producers. Firms look for cheap labour, nearby markets and favourable government policy, which knits countries into global production chains.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-mnc_c1": 3.0
+  },
+  "data_source": "cbse"
+}

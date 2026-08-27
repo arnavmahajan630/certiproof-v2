@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-how-tell-wild-animals-method_test_002",
+  "question_id": "cbse-eng-how-tell-wild-animals-method",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Wellss writess as if she were teaching a simple rule-book. If a noble striped beast eats you, it was a Bengal Tiger; if a lion roars while you die, you have met the Asian lion; a leopard will keep leaping on you. The humour is grim: the 'test' is survival after the attack, so the advice is useless and funny at once.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-how-tell-wild-animals-method_c1": 3.0
+  },
+  "data_source": "cbse"
+}

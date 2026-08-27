@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E07.Q03_train_002",
+  "question_id": "mohler-E07.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Linked list has an increase complexity of the implementation. The linked list has an array that keeps growing which leads to a increase in memory.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E07.Q03_c1": 2.5
+  },
+  "data_source": "mohler"
+}

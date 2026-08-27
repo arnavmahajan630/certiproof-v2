@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E12.Q08_train_003",
+  "question_id": "mohler-E12.Q08",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "Euler tour traversal of a tree traverses down each branch straight to one leaf then starts again at the root and repeats until all elements have been traversed.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E12.Q08_c1": 4.0
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_014",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "After copying the DNA sequence, mRNA leaves the nucleus of the cell. The mRNA then heads to a rRNA, where synthesis can begin. The mRNA feeds the code through the rRNA. Based on what three bases you have in each segment, a tRNA will bring that corresponding amino acid. The amino acids form an amino acid chain, which is also called a protein. After the mRNA has gone all the way through, the last amino acid added is the stop amino acid. After this process, all three RNAs have created a protein.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

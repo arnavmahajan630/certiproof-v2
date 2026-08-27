@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-6_train_008",
+  "question_id": "asap-set-6",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Cells use passive transport to help substances move across the cell membrane. The substances are going through diffusion and following their concentration gradient.Cells use active transport, also. During active transport, energy input is needed from ATP to move a substance against its concentration gradient.Cells use endocytosis and exocytosis to move things into and out of the cell. In exocytosis, vesicles fuse with the cell membrane and release their contents outside of the cell. In endocytosis, the cytoplasm moves inward and forms a vesicle around the incoming material.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-6_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

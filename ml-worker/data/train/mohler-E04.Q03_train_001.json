@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E04.Q03_train_001",
+  "question_id": "mohler-E04.Q03",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "by reference",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E04.Q03_c1": 5.0
+  },
+  "data_source": "mohler"
+}

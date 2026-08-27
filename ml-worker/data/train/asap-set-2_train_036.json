@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_036",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "a) Based on the students data one can conclude that plastic type B had the most stretchability. For both trials preformed, type B stretched the furthest at 22 mm + 23mm. Therefore, this type of plastic is probably the most durable of the 4 because it was able to withstand such stretching. ^p b) The students could have improved by specifying what types of plastics to use instead of just A, B, C or D. Also by specifying how far from the edge of the table each piece of plastic needs to be taped as this can effect results if they are not all the same lengths.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

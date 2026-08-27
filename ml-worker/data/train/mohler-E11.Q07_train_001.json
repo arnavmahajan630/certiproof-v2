@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q07_train_001",
+  "question_id": "mohler-E11.Q07",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "static arrays cannot be changed while normal arrays can be changed",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q07_c1": 2.5
+  },
+  "data_source": "mohler"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E11.Q01_train_002",
+  "question_id": "mohler-E11.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "The return value and the accepted value.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E11.Q01_c1": 1.5
+  },
+  "data_source": "mohler"
+}

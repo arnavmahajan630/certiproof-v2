@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sci-reactivity-displacement_train_001",
+  "question_id": "cbse-sci-reactivity-displacement",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Metals ranked by reactivity can displace those below them from salts, as iron or zinc do with copper sulphate. Only metals above hydrogen free H2 from dilute acids.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sci-reactivity-displacement_c1": 3.0
+  },
+  "data_source": "cbse"
+}

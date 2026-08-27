@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E02.Q01_test_002",
+  "question_id": "mohler-E02.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "the keyword class followed by they class name, on the inside you declare public and private declarations of your class",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E02.Q01_c1": 3.5
+  },
+  "data_source": "mohler"
+}

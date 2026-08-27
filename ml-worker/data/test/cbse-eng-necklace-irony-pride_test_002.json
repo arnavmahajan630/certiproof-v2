@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-necklace-irony-pride_test_002",
+  "question_id": "cbse-eng-necklace-irony-pride",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Matildaa Loisell believes she was born for luxury and treats her husband's small income as an insult. The invitation to the ball is a chance to act the part of a rich woman, so she borrows what she thinks are diamonds. One night of admiration costs ten years. Too proud to confess the loss, the couple replace the necklace with genuine stones, dismiss the servant, and live in poverty. Matilda's hands grow coarse; youth goes. The last meeting with Mme Forestier delivers the irony the whole plot has prepared: the borrowed jewels were imitation, worth a fraction of the debt. Appearance, wich she worshipped, was hollow in the object as well as in the dream. Maupassant is not only scolding vanity; he shows how a lie told to protect status can empty a life, and how the thing chased as real gold may be glass.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-necklace-irony-pride_c1": 6.0
+  },
+  "data_source": "cbse"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-rbi-credit_test_002",
+  "question_id": "cbse-sst-rbi-credit",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "The RBI watchess over bankss, makes them keep a cash reserve, and monitors lending so that banks do not over-lend and so that credit reaches farmers and small producers, not only profit-making traders.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-rbi-credit_c1": 2.0
+  },
+  "data_source": "cbse"
+}

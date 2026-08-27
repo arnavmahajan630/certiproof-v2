@@ -1,0 +1,13 @@
+{
+  "answer_id": "mohler-E05.Q01_train_000",
+  "question_id": "mohler-E05.Q01",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Assume the first number is sorted, then move down the list and 'insert' the numbers you come across into the corresponding place on the sorted side of the list.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "mohler-E05.Q01_c1": 5.0
+  },
+  "data_source": "mohler"
+}

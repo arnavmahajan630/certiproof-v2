@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_007",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Based on the student's data, plastic type B was consistently the stretchiest of all the plastic types used in the experiment. One possible validity issue is the description of the weights added to the clamp in each trial. The procedure does not tell in how much weight must be applied and thus a person may apply uneven amounts of weight dipending on the trial and plastic. This would cause the experiment to have the uniformity of its data in the fact that the weight was not constant. Also, the student could have improved the experimental design by adding more trials to the experiment and in turn gaining more data to make the results more accurate.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

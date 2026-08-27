@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-eng-fire-and-ice_train_000",
+  "question_id": "cbse-eng-fire-and-ice",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Fire is the burning of desire that can swallow the earth in conflict and want. Ice is hatred, the slow freeze that kills fellow-feeling. Frost sides first with those who say fire will finish us, then adds that he knows enough of hate to say ice would also suffice. Human emotions, not only weather, can wreck the world.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-eng-fire-and-ice_c1": 3.0
+  },
+  "data_source": "cbse"
+}

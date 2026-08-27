@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-salt-march_train_000",
+  "question_id": "cbse-sst-salt-march",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "Salt was eaten by everyone, rich and poor, so Gandhi could unite the country around it. His letter to Irwin listed eleven demands, and abolishing the salt tax was the most stirring; when Irwin would not negotiate, the Salt March began. Across India people made salt, picketed liquor shops, boycotted foreign cloth and refused to pay taxes, turning a daily item into mass civil disobedience.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-salt-march_c1": 3.0
+  },
+  "data_source": "cbse"
+}

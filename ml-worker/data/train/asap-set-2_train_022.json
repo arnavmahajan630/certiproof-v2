@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-2_train_022",
+  "question_id": "asap-set-2",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "A) A conclusion that can be drawn based on this data is plastic type B has a higher stretchability than the other types of plastics. The independent variable is the type of plastic. The dependant variable is how far it can be stretched ^p B)The ways the student could have improved the experimental design would be to actually name the plastics and to tell us what the actual length was in the beginning. By telling us the name we could replicate this experiment better. By telling the length of the plastic in the beginning, we could see the change that occured.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-2_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}

@@ -1,0 +1,13 @@
+{
+  "answer_id": "cbse-sst-federalism-features_test_002",
+  "question_id": "cbse-sst-federalism-features",
+  "derived_from_train_id": null,
+  "variant_type": "typo",
+  "answer_text": "Federalismm has two or more levelss of goverment. Each level governs the same citizens but has its own constitutionally listed powers, and the basic features of the constitution cannot be changed by one level acting alone.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "cbse-sst-federalism-features_c1": 2.0
+  },
+  "data_source": "cbse"
+}

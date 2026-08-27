@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-5_train_001",
+  "question_id": "asap-set-5",
+  "derived_from_train_id": null,
+  "variant_type": "complete",
+  "answer_text": "1. The mRNA travels to the ribosomes.2. tRNA contains an anticodon with the amino acid on it. It goes from the cytoplasm to the ribosomes. 3. The anticodon is bonded to the codon.4. The amino acids are bonded together to make proteins.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-5_c1": 3.0
+  },
+  "data_source": "asap_sas"
+}

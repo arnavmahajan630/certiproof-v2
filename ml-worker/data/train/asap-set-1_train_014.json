@@ -1,0 +1,13 @@
+{
+  "answer_id": "asap-set-1_train_014",
+  "question_id": "asap-set-1",
+  "derived_from_train_id": null,
+  "variant_type": "partial",
+  "answer_text": "In order to replicate the experiment, I would need to know what type of samples I should use in the experiment. Just saying samples is not specific enough. I should have the exact type of material. I also need to know the exact amount of vinegar to use in the experiment. Should I use a lot of vinegar, or a little? 4 ml amount of vinegar is needed to replicate the experiment. I also need to know how to find the difference in mass. In procedure says to determine the mass of each sample but it does not say how to find the difference which is what will solve the problem in the experiment.",
+  "human_reviewed": true,
+  "ai_generated": false,
+  "human_scores": {
+    "asap-set-1_c1": 2.0
+  },
+  "data_source": "asap_sas"
+}
