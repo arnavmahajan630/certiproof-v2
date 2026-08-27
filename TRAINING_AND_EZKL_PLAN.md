@@ -1,145 +1,114 @@
-# Training + EZKL Circuit Plan — Cross-Machine Workflow
+# Training + EZKL Circuit Plan — Cloud/Bigger-Machine Workflow
 
-The rest of CertiProof (Gateway, ML-Worker API, frontend, tamper vectors, docs) is migrated to RCAJ-X and demo-ready. What's left is the one thing that can't be done blind: **training on real data + building the EZKL circuit**, because the circuit's one-time trusted setup needs more RAM than a typical laptop has (confirmed by actually compiling it during development — see `ml-worker/README.md` "Circuit setup"). This doc is the exact, in-order procedure to do that across two machines and bring the result back cleanly.
+The rest of CertiProof (Gateway, ML-Worker API, frontend, tamper vectors, docs) is migrated to RCAJ-X and demo-ready. What's left is **training on real data + building the EZKL circuit**. Both are now planned to run on a bigger machine than a personal laptop — not because of RAM alone anymore, but because local-GPU training on a laptop is also thermally/acoustically unworkable in practice (the last local run was killed mid-training because the fan noise was unusable). This doc is the exact, in-order procedure for that, structured so it works whether training and the circuit build happen **on the same machine** or **on two separate machines**.
 
-**Machines:**
-- **Machine A (yours, GPU)** — training: data ingestion, preprocessing, encoder fine-tuning, RCAJ_X training, benchmarking, ONNX export.
-- **Machine B (college Ubuntu, 32GB RAM)** — the EZKL circuit build only: `gen-settings` → `calibrate-settings` → `compile-circuit` → `get-srs` → `setup`. CPU-only, no GPU needed here — EZKL's trusted setup is RAM-bound, not compute-bound in a way a GPU helps with.
-
-**Why split it this way:** training benefits from your GPU and needs nothing exotic; the circuit build needs RAM your laptop doesn't have but no GPU at all. Machine B never needs your training data or a GPU — only the ONNX file Machine A produces.
+**Default recommendation: one machine, both steps.** Any cloud GPU instance with 32GB+ system RAM (most mid/large GPU instances — e.g. an A10/A100/L4 class instance on RunPod, Lambda, Vast.ai, AWS/GCP/Azure — clear this easily; it's system RAM that matters for the circuit step, not GPU VRAM) can do training and the EZKL circuit build back-to-back without ever touching your laptop. Only fall back to the two-machine split below if the GPU instance you can get/afford is RAM-constrained (e.g. a cheap 16GB-RAM GPU box).
 
 ---
 
-## Part 0 — Before you leave for college (do this today, on Machine A)
+## Ground rule: always run the full pipeline, start to finish, on the new machine
 
-Get the mechanical pipeline proven end-to-end on synthetic data only, so tomorrow's session is 100% about real data, not debugging plumbing.
+Don't try to carry over or reuse partial artifacts (`bge_small_finetuned/`, `*_embedded.pt`,
+`rcaj_x_best.pt`, `rcajx.onnx`) from a previous machine or a previous killed run, and don't
+reason about which of them is newer/older than another. It's not worth the bookkeeping: the
+whole training pipeline (encoder fine-tune → preprocess → train → benchmark → export) is
+minutes on any real GPU at this data scale, and running it end-to-end from committed source
+data every time means there's never a mixed-generation set of artifacts to worry about.
+
+Real data is already committed and ingested into `ml-worker/data/` (242 question/rubric
+entries in `data/raw/rubrics.json` including `asap-set-*` (ASAP-SAS) and `mohler-*` sets
+alongside the synthetic ones, 662 files in `data/train/`, 1238 in `data/test/`) — that's all
+Part 1/2 below need. Neither `bge_small_finetuned/` nor `rcajx_circuit/` are committed to git
+(see `ml-worker/.gitignore`); Part 2 regenerates the former from scratch, Part 3 the latter.
+
+---
+
+## Part 1 — Provision the machine + get the repo on it
 
 ```bash
+git clone <your-repo-url> certiproof
 cd certiproof/ml-worker
 python3 -m venv .venv
 source .venv/bin/activate
+```
 
-# GPU-enabled torch first (check your CUDA version: nvidia-smi)
+**GPU-enabled torch first** — check the instance's CUDA version (`nvidia-smi`), then:
+```bash
 pip install torch --index-url https://download.pytorch.org/whl/cu121   # adjust cu121 to match
 pip install -r requirements-training-gpu.txt
 python3 -m spacy download en_core_web_sm
 ```
 
+Everything needed to build the model from scratch is already committed
+(`data/raw/rubrics.json`, `data/train/*.json`, `data/test/*.json`) — go straight to Part 2.
+
+---
+
+## Part 2 — Train (GPU), full pipeline every time
+
+Run all of this in order, every time, on the new machine — don't skip the encoder fine-tune
+step even if a `bge_small_finetuned/` happens to exist from somewhere else.
+
+### 2.1 Fine-tune the encoder
+
 ```bash
-python3 -m app.rcajx.preprocessing        # builds data/train_embedded.pt, data/test_embedded.pt
+python3 training/finetune_encoder.py
+```
+Expected to be quick (single-digit minutes on any real GPU) — the dataset is ~2k examples, not the bottleneck. This is also almost certainly what made the fan spin up hard on the laptop; on a cloud instance this is a non-issue.
+
+### 2.2 Preprocess + train + benchmark + export
+
+```bash
+python3 -m app.rcajx.preprocessing        # builds/rebuilds data/train_embedded.pt, data/test_embedded.pt
 python3 training/train.py                 # prints "Training device: cuda" if the GPU install worked
 python3 training/benchmark.py             # results/benchmark_report.md
 python3 -m app.rcajx.export_onnx          # app/models/rcajx/rcajx.onnx + parity test
 ```
 
-If all four run clean, the pipeline is proven. Everything past this point (real data in, circuit out) is running the same steps again, once, tomorrow — not new code paths.
+**Read `results/benchmark_report.md` before continuing.** Specifically check the per-`variant_type` breakdown for `asap_sas`/`mohler` rows — if MAE there is wildly worse than the synthetic variants, something in the ingestion mapping (`training/ingest_external_dataset.py`'s `--max-score`, most likely) is off. Fix and re-ingest before moving on, not after the circuit's built — the circuit build (Part 3) takes real wall-clock time and shouldn't be spent on a model you're about to retrain anyway.
 
-**Also today:** get both datasets downloaded and skim their actual column headers (release-to-release these vary) — do this now, not at the venue, in case of network trouble:
-- **ASAP-SAS** ("The Hewlett Foundation: Short Answer Scoring", Kaggle) — ships as **TSV**, not CSV. Typical columns: `Id`, `EssaySet`, `Score1`, `Score2`, `EssayText`.
-- **Mohler dataset** (Mohler et al. 2011 short-answer grading corpus) — typically CSV with columns like `id`, `question`, `desired_answer`, `student_answer`, `score_avg` (0-5 scale) — column names vary by mirror, check the header row you actually have.
+To fold in *more* external data before training (not required — the data above is already ingested):
+```bash
+python3 training/ingest_external_dataset.py \
+  --csv /path/to/file.csv --id-col <col> --text-col <col> --score-col <col> \
+  --max-score <n> --split train --source-name <name>
+```
+See the script's docstring — it appends alongside existing data, never replaces it.
 
 ---
 
-## Part 1 — Tomorrow, Machine A: ingest real data + retrain (GPU)
+## Part 3 — EZKL circuit build
 
-### 1.1 Ingest
+**If this is the same machine as Part 2 and it has 32GB+ RAM:** just continue here directly, no packaging/transfer needed.
 
-`training/ingest_external_dataset.py` converts an external CSV/TSV into this repo's internal schema and appends alongside the existing synthetic set (never replaces it). It maps each dataset's **holistic** score onto one synthetic criterion per question — these datasets don't have multi-criterion rubrics, and there's no generic way to auto-split a single score into per-criterion ones. Read the script's docstring before running; verify your actual downloaded file's column names first (`head -3 your_file.tsv`).
-
-```bash
-# ASAP-SAS (TSV) -- adjust column names to what your file's header actually says
-python3 training/ingest_external_dataset.py \
-  --csv /path/to/asap_sas_train.tsv --delimiter $'\t' \
-  --id-col EssaySet --text-col EssayText --score-col Score1 \
-  --max-score 3 --split train --source-name asap_sas
-
-# Mohler (CSV)
-python3 training/ingest_external_dataset.py \
-  --csv /path/to/mohler_dataset.csv \
-  --id-col question --text-col student_answer --score-col score_avg \
-  --max-score 5 --split train --source-name mohler
-```
-
-Split some of each into `--split test` too (a held-out slice, e.g. the last 15-20% of rows per dataset) so `benchmark.py` actually measures generalization on real data, not just train-set fit. Simplest approach: run the ingest command twice per dataset against two different pre-split files (train slice → `--split train`, held-out slice → `--split test`), or manually move a handful of the generated `data/train/asap_sas_*.json` / `data/train/mohler_*.json` files into `data/test/` afterward.
-
-Sanity-check before training:
-```bash
-python3 -c "
-import json
-d = json.load(open('data/raw/rubrics.json'))
-print(len(d), 'question ids total')
-print([q for q in d if q['subject'] in ('asap_sas','mohler')][:3])
-"
-ls data/train | wc -l   # should have grown past the original 130
-```
-
-### 1.2 Re-preprocess, optionally fine-tune the encoder, retrain
-
-```bash
-python3 -m app.rcajx.preprocessing
-python3 training/finetune_encoder.py     # optional -- worth it if the new data has enough hard-negative-style examples; skip if short on time
-python3 -m app.rcajx.preprocessing       # re-run if you fine-tuned -- picks up the new encoder
-python3 training/train.py                # GPU, ~minutes not hours at this data scale
-python3 training/benchmark.py
-```
-
-**Read `results/benchmark_report.md` before continuing.** Specifically check the per-`variant_type` breakdown for `asap_sas`/`mohler` rows — if MAE there is wildly worse than the synthetic variants, something in the ingestion mapping is likely off (e.g. `--max-score` mismatched to the dataset's actual scale) — fix and re-run 1.1-1.2 before moving on, not after the circuit's built.
-
-### 1.3 Export ONNX (still on Machine A)
-
-```bash
-python3 -m app.rcajx.export_onnx
-```
-
-Confirms `app/models/rcajx/rcajx.onnx` matches the new `rcaj_x_best.pt` and passes the PyTorch/ONNXRuntime parity check. **This is the only file Machine B actually needs.**
-
-### 1.4 Package what goes to Machine B
-
+**If splitting to a second, RAM-heavier machine:** package the ONNX + checkpoint first —
 ```bash
 mkdir -p /tmp/rcajx_handoff
-cp app/models/rcajx/rcajx.onnx /tmp/rcajx_handoff/
-cp app/models/rcajx/rcaj_x_best.pt /tmp/rcajx_handoff/   # for the model-hash step later, not needed for the circuit build itself
+cp app/models/rcajx/rcajx.onnx app/models/rcajx/rcaj_x_best.pt /tmp/rcajx_handoff/
 tar czf rcajx_handoff.tar.gz -C /tmp rcajx_handoff
 ```
-Carry `rcajx_handoff.tar.gz` on a USB drive or upload it somewhere you can pull from on Machine B — don't rely on the venue's network for a multi-hundred-MB transfer under time pressure.
-
----
-
-## Part 2 — At college, Machine B: circuit build (CPU, 32GB RAM)
-
-### 2.1 Clone + minimal setup
-
-You don't need training data, spacy, or a GPU here — only `ezkl`, `onnx`, `onnxruntime`, `torch` (CPU is fine and correct here) to run the circuit pipeline module.
-
+— transfer it (`scp`/cloud storage), then on the second machine:
 ```bash
-git clone <your-repo-url> certiproof   # or: git pull, if it's already cloned here
-cd certiproof/ml-worker
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt        # CPU torch wheel index -- correct on this machine
-```
-
-### 2.2 Drop in the ONNX + checkpoint from Machine A
-
-```bash
+git clone <your-repo-url> certiproof && cd certiproof/ml-worker
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt   # CPU torch wheel is correct here, no GPU needed for the circuit build
 mkdir -p app/models/rcajx
-cp /path/to/rcajx_handoff/rcajx.onnx app/models/rcajx/
-cp /path/to/rcajx_handoff/rcaj_x_best.pt app/models/rcajx/
+cp /path/to/rcajx_handoff/{rcajx.onnx,rcaj_x_best.pt} app/models/rcajx/
 ```
 
-### 2.3 Run the circuit build
+### 3.1 Run the build
 
 ```bash
 python3 -m app.zk.rcajx_ezkl_pipeline
 ```
 
-This runs `gen_settings` → `calibrate_settings` → `compile_circuit` → `get_srs` → `setup`, in that order, and prints the resulting `logrows` before the heavy `setup()` step — **watch this number**. During development this circuit landed anywhere from logrows 20 to 25 depending on EZKL's scale auto-search (nondeterministic between runs); at logrows 25 the SRS alone is ~4.3GB and `setup()` needs enough RAM to OOM-kill a 16GB machine. 32GB gives real headroom over that, but isn't infinite.
+This runs `gen_settings` → `calibrate_settings` → `compile_circuit` → `get_srs` → `setup`, in that order, and prints the resulting `logrows` before the heavy `setup()` step — **watch this number**. This model (10 criteria × 24 answer chunks) has landed anywhere from logrows 20 to 25 across runs (EZKL's scale auto-search is nondeterministic); at logrows 25 the SRS alone is ~4.3GB and `setup()` needs real headroom over that to not OOM. 32GB gives comfortable margin; 16GB does not.
 
 **Watch memory while it runs** (separate terminal): `watch -n2 free -h`. If it's climbing toward the ceiling as `setup()` starts:
 - Let it run a bit longer before panicking — the peak is usually brief.
-- If it's clearly heading for OOM, **Ctrl+C**, don't let the OS kill it (same risk of taking the whole machine down that happened during development). Then see "If logrows lands too high" below.
+- If it's clearly heading for OOM, **Ctrl+C** rather than letting the OS OOM-killer take it (a full OOM has taken down the whole machine before). See "If logrows lands too high" below.
 
-On success you'll have:
+On success:
 ```
 app/models/rcajx/rcajx_circuit/
 ├── settings.json
@@ -150,9 +119,8 @@ app/models/rcajx/rcajx_circuit/
 └── rcajx_model_hash.txt
 ```
 
-### 2.4 Verify it locally before leaving Machine B
+### 3.2 Verify it locally before tearing the machine down
 
-Cheap, fast — do this before packing up:
 ```bash
 python3 -c "
 import asyncio, torch
@@ -177,34 +145,35 @@ If both print `True`/succeed without error, the circuit is genuinely usable — 
 ### If logrows lands too high / setup OOMs even at 32GB
 
 In order of preference:
-1. **Retry** — `gen_settings`/`calibrate_settings`'s scale search is nondeterministic; a second run sometimes lands meaningfully lower (seen 20 vs 25 for the identical model during development). Delete `app/models/rcajx/rcajx_circuit/` and re-run 2.3.
-2. **Shrink the circuit** — edit `MAX_CHUNKS` in `ml-worker/app/rcajx/padded_model.py` down from 24 (e.g. to 12 or 8), re-export ONNX **on Machine A** (padding constants must match between export and the model that produced the checkpoint — the checkpoint itself doesn't need retraining, only re-export), send the new ONNX back to Machine B, retry. Smaller `MAX_CHUNKS` was the most effective lever found during development (see `app/rcajx/padded_model.py`'s docstring).
-3. **Find more RAM** — a cloud VM (even a few hours of a 64GB instance) if a college lab machine still isn't enough. `setup()` doesn't need a GPU, just RAM.
+1. **Retry** — the scale search is nondeterministic; a second run sometimes lands meaningfully lower (seen 20 vs 25 for the identical model). Delete `app/models/rcajx/rcajx_circuit/` and re-run 3.1.
+2. **Shrink the circuit** — edit `MAX_CHUNKS` in `ml-worker/app/rcajx/padded_model.py` down from 24 (e.g. to 12 or 8), re-export ONNX (padding constants must match between export and the checkpoint that produced it — the checkpoint itself doesn't need retraining, only re-export via `python3 -m app.rcajx.export_onnx`), retry the build.
+3. **More RAM** — bump the cloud instance up a tier. `setup()` doesn't need a GPU, just RAM, so this is usually the cheapest lever if 1-2 don't land it.
 
-### 2.5 Package the result to bring back
+### 3.3 Bring the result back (only if this was a second machine)
 
 ```bash
 tar czf rcajx_circuit_built.tar.gz -C certiproof/ml-worker/app/models/rcajx rcajx_circuit
 ```
-Same rule as before: physical transfer (USB) preferred over relying on venue network for a large file under time pressure.
+Transfer it back to wherever you'll run/demo from.
 
 ---
 
-## Part 3 — Back on your machine: bring it together and go live
+## Part 4 — Bring it together and go live
+
+If Parts 2 and 3 ran on the same machine, everything's already in place — skip to verifying below. If split, unpack the circuit next to the model it was built from:
 
 ```bash
 cd certiproof/ml-worker
 mkdir -p app/models/rcajx
 tar xzf /path/to/rcajx_circuit_built.tar.gz -C app/models/rcajx
-```
-
-Confirm the model that's about to serve matches the circuit that was just built (they must — the circuit was compiled from this exact `rcaj_x_best.pt`'s ONNX export):
-```bash
 ls app/models/rcajx/   # rcaj_x_best.pt, bge_small_finetuned/, rcajx.onnx, rcajx_circuit/ should all be present
 ```
 
-Bring the service up:
+The circuit must have been built from *this exact* `rcaj_x_best.pt`'s ONNX export — if the model changes again without a circuit rebuild, `rcajx_model_hash` goes stale relative to the new weights.
+
+Bring the service up (note: the script lives at `ml-worker/scripts/retrain_and_deploy.sh`, run from inside `ml-worker/`):
 ```bash
+cd ml-worker
 ./scripts/retrain_and_deploy.sh    # no --with-circuit -- the circuit's already built and in place
 # or, without Docker:
 uvicorn app.main:app --port 8001 &
@@ -215,10 +184,10 @@ Then, from the repo root:
 ```bash
 cd scripts
 ./seed_demo_data.sh          # pre-caches the two Break-It demo records
-./tamper_suite.sh            # all 10 vectors, live -- confirm every one is still caught under the real circuit
-python3 run_fixture_tests.py # 15 fixtures through the real pipeline
+./tamper_suite.sh            # all vectors, live -- confirm every one is still caught under the real circuit
+python3 run_fixture_tests.py # fixtures through the real pipeline
 ```
 
-**This is the point where `TAMPER_TESTS_SUMMARY.md`'s "not yet re-run end-to-end" caveat gets resolved** — re-run the Auditor's Tests panel in the browser too (`Set Up Fresh Test Case` → `Run All Vectors`) and confirm all eleven show `caught: true`, especially `witness_substitution` and `stage0_substitution` — those are the ones the whole two-part design exists for.
+**This is the point where `TAMPER_TESTS_SUMMARY.md`'s "not yet re-run end-to-end" caveat gets resolved** — re-run the Auditor's Tests panel in the browser too (`Set Up Fresh Test Case` → `Run All Vectors`) and confirm every vector shows `caught: true`, especially `witness_substitution` and `stage0_substitution` — those are the ones the whole two-part design exists for.
 
 If everything above passes: demo-ready. If you're short on time at this point, the pre-cached `seed_demo_data.sh` records are the fallback — Act 4 (Break-It) doesn't need live proving on stage either way (see `docs/demo_script.md`).
